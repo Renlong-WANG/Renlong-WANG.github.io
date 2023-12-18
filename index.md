@@ -11,7 +11,7 @@ I am a first-year graduate student majoring in **Industrial Engineering** at the
 
 My current research focuses on decision analytics problems that emergency management faces in real life. My interests are on the **hypergraph**, **multi-criteria decision-making** and **optimization** and its applications in **Emergency Operationa and Management** under highly complex, dynamic, and uncertainty envrionment.
 - Decision Analysis and Optimization under Uncertainty
-- Multi-criteria Decision-Making
+- Multi-Criteria Decision-Making
 - Hypergraph (Meta-Network Modeling and Analysis)
 - Emergency Management and Decision-Making
 - Continuously Updating My Own Skills
