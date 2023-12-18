@@ -15,9 +15,10 @@ I am a first-year graduate student majoring Industrial Engineering at the Univer
 
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2026 Fall. Contact me if you have any leads!**
 
-- **Sep 2019 - June 2023:** Bachelor of Civil Engineering, Nanjing Tech University
-- **Sep 2023 - June 2026:** Master of Industrial Engineering, University of Chinese Academy of Sciences
-- Expect to graduate in Sep 2026. Looking for PhD position after that.
+- **Sep 2023 - June 2026:** Master of Industrial Engineering, University of Chinese Academy of Sciences <br>**Supervisor:** Hong CHI (President of Chinese Society of Optimization, Overall Planning and Economic Mathematics)<br> **Major Cources:** Operations Research, Quantitative Anaysis:Model and Method, Modeling, Simulation and Management of Complex System (focus on system dynamics and agent-based modeling), Engineering System Modeling and Simulation (focis on queueing system), Modeling and Analysis of Complex Emergency Systems (focus on network modeling and analysis), and Fault Tree Analysis
+
+- **Sep 2019 - June 2023:** Bachelor of Civil Engineering, Nanjing Tech University <br>2023 Outstanding Graduates in Civil Engineering from Jiangsu Universities and Colleges
+
 
 <br>
 
@@ -25,11 +26,12 @@ I am a first-year graduate student majoring Industrial Engineering at the Univer
 
 ## Research Interests
 
-- Industrial IoT System
-- Network Cybersecurity
-- Applied Machine Learning
+- Decision Analysis and Optimization under Uncertainty
+- Multi-criteria Decision-Making
+- Hypergraph (Meta-Network Modeling and Analysis)
+- Emergency Management and Decision-Making
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on decision analytics problems that emergency management faces in real life. My interests are on the **hypergraph**, **multi-criteria decision-making** and **optimization** and its applications in **Emergency Management and Operation** under highly uncertainty. In a word, my objective is to conduct inspired orginal research in emergency management by cross-application of hypergraphs, multi-criteria decision-making, and optimization tools. This endeavor seeks to propel the advancement and innovation within this field, fostering the creation of more effective and dependable solutions for societal needs.
 
 <br>
 
