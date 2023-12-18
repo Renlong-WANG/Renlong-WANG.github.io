@@ -16,6 +16,7 @@ My current research focuses on decision analytics problems that emergency manage
 - Emergency Management and Decision-Making
 - Continuously Updating My Own Skills
 <br>
+
 ---
 
 ## Education Background
@@ -35,7 +36,6 @@ My current research focuses on decision analytics problems that emergency manage
 - Enjoy the process of exploring the unknown and self-realization.
 - Enjoy the process of continuously expanding the boundaries of my own abilities.
 - Hope to cultivate my ability to distill and solve research in a systematic manner.
-
 <br>
 
 ---
