@@ -6,54 +6,26 @@ title: Projects
 
 # Research Projects
 
-P.S., click the hyperlink title to access the source.<br>
 
-#### [OpenIoT: Industrial Inspection System](https://fzuiot.site/)
+#### Project 1: Muti-Criteria Decision Making (MCDM) (Apr. 2023 - Present)
 
-<center>
-<img src="/images/openiot-system.png">
-</center>
-
+- Wang, R. et.al. propose partial ordinal priority approach (POPA) and maximum entropy ordinal priority approach (MEOPA) based on ordinal priority approach. <br> Future work will be devoted to the extension of POPA and MEOPA for fuzzy decision making, grey decision making, large-scale group decision making, scenario robust decision making and criterion interaction decision making. 
 <br>
 
-#### [Multi-objective Optimization Strategy Model (MCM-2023)](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)
+#### Project 2: Meta-Network Modeling and Analysis in Emergency Management (Sept. 2023 - Present)
 
-<center>
-<img src="/images/MCM-figure3.jpg">
-</center>
+- Wang, R. et.al. propose an emergency response plan modeling framework based on meta-network for cross-organizational heterogeneous collaboration identification. <br> Future work will focus on resilience simulation and assessment of emergency organization, and organizational structure optimization under the meta-networking modeling framework.  
 <br>
 
-#### [ResNet-AHP: Feedback ResNet-50 for TSD](https://caihanlin.com/mypaper/202302ICAROB.pdf)
+#### Project 3: Infrastructure Resilience Simulation and Assessment (Jul. 2021 - Sept. 2023)
 
-<center>
-<img src="/images/resnet-ahp.png">
-</center>
-
+- Hosting Nation-level Student Research Training Program: Measuring Hospital Resilience at the Nexus of Power-water-firefighting-space (PWFS) System: Cellular Automata-based Approach <br> Participating in National Natural Science Foundation of China Youth Program: The Panoramic Evaluation and Intelligent Improvement of Operational Resilience for Urban Public Service Facilities <br> Participating in Natural Science Research Program for Jiangsu Universities: Research on Dynamic Assessment and Intelligent Monitoring of Operational Resilience of Large Public Service Facilities
 <br>
 
-#### [CityManager: Community Monitoring System](https://caihanlin.com/mypaper/202208cenim.pdf )
 
-<center>
-<img src="/images/iot-manager.png">
-</center>
-<br>
+#### Project 4: Construction Safety Management
 
+- Hosting School-level Student Research Training Program: Safety Risk Evaluation of Prefabricated Building Construction <br> Hosting School-level Student Research Training Program: Research on safety management of construction projects based on BIM
 <br>
 
 ---
-
-# Open-source Projects
-
-<br>
-
-#### [FZU-Flying-Book 福州大学飞跃手册](https://fzu-fly.online/)
-
-This is the flying handbook for FZU students. Many outstanding graduates of Fuzhou University leave their unique experiences, valuable wisdom, and sincere wishes in this flying-handbook.
-
-#### [FZU-LaTeX-template 精美学术模版](https://github.com/GuangLun2000/FZU-latex-template)
-
-Many elegant LaTeX templates designed for FZU students, including Beamer Theme Slides, Recommendation Letters and Undergraduate Thesis Template.
-
-#### [miec-lance 自动化系修读材料](https://github.com/GuangLun2000/miec-lance )
-
-This repo is where I keep track of my incredible journey at FZU-MIEC. You can learn RIDS & CSEE better by refering to this repo, but **please do not directly copy my assignments, codes and any reports!**
