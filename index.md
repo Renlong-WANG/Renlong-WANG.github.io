@@ -5,7 +5,7 @@ layout: page
 # About Me
 <img src="{{ site.url }}/images/lifephoto.jpg" width="600" height="460">
 <br>
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
+Here is **Renlong Wang (王人龙)**.
 
 I am a senior undergrad majoring in **EECS** at Fuzhou University and Maynooth University (Combined degrees). Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/)'s team at Cambridge University. Recently, I have been selected as an **AAAI UC Scholar**.
 
@@ -37,16 +37,3 @@ My current research focuses on practical problems that artificial intelligence f
 <br>
 
 ---
-
-## News and Updates
-
-- **Dec 2023：**Very excited to be selected as [AAAI-24 UC Scholar](https://aaai-uc.github.io/), see you in Canada! 🇨🇦
-- **Dec 2023：**Got a MSc offer from the physics department at Imperial College London 🇬🇧
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship 🇨🇳
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship 🇨🇳
-- **May 2023：**Collected the Finalist Award in MCM 2023 (Top 1%) 🇺🇸
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan! 🇯🇵
-- **Jun 2022：**Started research program at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò 🇬🇧
-
-<br>
-
