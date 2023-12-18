@@ -8,6 +8,7 @@ layout: page
 Here is **Renlong Wang (王人龙)**.
 
 I am a first-year graduate student majoring Industrial Engineering at the University of Chinese Academy of Sciences (UCAS). I am now advised by Hong CHI. I received my B.S. in civil engineering from the Nanjing Tech University (NJTECH) in 2023.
+<br>
 My current research focuses on decision analytics problems that emergency management faces in real life. My interests are on the **hypergraph**, **multi-criteria decision-making** and **optimization** and its applications in **Emergency Management and Operation** under highly complex, dynamic, and uncertainty envrionment.
 - Decision Analysis and Optimization under Uncertainty
 - Multi-criteria Decision-Making
