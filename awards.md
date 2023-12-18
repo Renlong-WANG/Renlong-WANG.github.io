@@ -14,6 +14,7 @@ Lastest Update: 19th Dec. 2023 &nbsp;
 - Feb. 2022：**SIAM Award of American Mathematical Contest in Modeling**<br>(Six Teams Worldwide)
 - Sept. 2021：**First Prize of Contemporary Undergraduate Mathematical Contest in Modeling (National Level Authoritative Competition)**<br>(Prize-winning rate 0.65%, with 45,075 teams in total)
 - Aug. 2021：First Prize of "Huashu Cup" Chinese Mathematical Contest in Modeling
+<br>
 
 ---
 ## Honors
