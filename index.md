@@ -7,20 +7,17 @@ layout: page
 <br>
 Here is **Renlong Wang (王人龙)**.
 
-I am a senior undergrad majoring in **EECS** at Fuzhou University and Maynooth University (Combined degrees). Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/)'s team at Cambridge University. Recently, I have been selected as an **AAAI UC Scholar**.
-
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+I am a first-year graduate student majoring Industrial Engineering at the University of Chinese Academy of Sciences.
 
 <br>
 
-## Academic Background
+## Education Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
+**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2026 Fall. Contact me if you have any leads!**
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - June 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Exchange)
-- Expect to apply for a one-year Mphil program and graduate in Sep 2025. Looking for PhD position after that.
+- **Sep 2019 - June 2023:** Bachelor of Civil Engineering, Nanjing Tech University
+- **Sep 2023 - June 2026:** Master of Industrial Engineering, University of Chinese Academy of Sciences
+- Expect to graduate in Sep 2026. Looking for PhD position after that.
 
 <br>
 
