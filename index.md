@@ -3,7 +3,6 @@ layout: page
 ---
 
 # About Me
-<br>
 <img src="{{ site.url }}/images/lifephoto.jpg" width="600" height="460">
 <br>
 Here is **Hanlin Cai (Lance, 蔡汉霖)**.
