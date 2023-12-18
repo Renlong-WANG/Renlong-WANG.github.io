@@ -14,6 +14,7 @@ Lastest Update: 19th Dec 2023&nbsp;
 
 - **2023 POMS Summer School in China** <br> **Organizer**: Production and Operations Management Society (POMS) <br>**Debriefing on the topic:** A Novel Multi-Attribute Decision-Making Method for Emergency Supplier Selection under Improvisational Decision-Making Scenario: Partial Ordinal Priority Approach<br> **Award:** Excellent Student Paper
 <br>
+
 ---
 
 ## Professional Service
