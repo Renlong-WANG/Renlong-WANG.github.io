@@ -4,8 +4,6 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-Lastest Update: 19th Dec. 2023 &nbsp;
-
 ## Competitions
 
 - Dec. 2022：Meritorious Prize of “Certificate Authority Cup” International Mathematical Contest in Modeling
