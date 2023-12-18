@@ -3,8 +3,13 @@ layout: page
 ---
 
 # About Me
+.blockpic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 
-<img src="{{ site.url }}/images/lifephoto.jpg" class="floatpic" width="1200" height="920" style="display: block; margin: 0 auto;>
+<img src="{{ site.url }}/images/lifephoto.jpg" class="blockpic" width="1200" height="920" style="display: block; margin: 0 auto;>
 
 Here is **Hanlin Cai (Lance, 蔡汉霖)**.
 
