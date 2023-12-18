@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 12nd Dec 2023&nbsp;
+Lastest Update: 19th Dec 2023&nbsp;
 
 ## Journal Paper
 
@@ -22,7 +22,7 @@ Lastest Update: 12nd Dec 2023&nbsp;
 
 - **Systematic Scenario Modeling for Priority Assessment of Sustainable Development Goals in China under Interaction and Uncertainty**<br>**Renlong Wang**, Shutian Cui, and Mingang Gao *<br>Environment, Development and Sustainability (SSCI-JCR-Q2) <br>Status: Minor Revision, Under Second Round of Review
 
-- **Partial Ordinal Priority Approach in Multi-Attribute Decision-Making （In Chinese）** <br>**Renlong Wang**, Rui Shen, Hong Chi, and Mingang Gao *<br>Chinese Journal of Management Science (中国管理科学) <br>Status: Minor Revision, Under Second Round of Review
+- **Partial Ordinal Priority Approach in Multi-Attribute Decision-Making （In Chinese）** <br>**Renlong Wang**, Rui Shen, Hong Chi, and Mingang Gao *<br>Chinese Journal of Management Science (中国管理科学) <br>Status: Minor Revision, Being Revised
 
 - **Collaboration-Based Meta-Network Modeling for Data Governance Capacity Optimization in Port Logistics** <br>**Renlong Wang**, Tang Jia, Shutian Cui, Endong Wang, and Mingang Gao*<br> International Journal of Logistics Research and Applications (SSCI-JCR-Q2) <br>Status: Major Revision, Under Third Round of Review
 
