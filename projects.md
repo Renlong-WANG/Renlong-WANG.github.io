@@ -10,7 +10,7 @@ title: Projects
 #### Project 1: Muti-Criteria Decision Making (MCDM) (Apr. 2023 - Present)
 
 - Wang, R. et.al. propose partial ordinal priority approach (POPA) and maximum entropy ordinal priority approach (MEOPA) based on ordinal priority approach.
-- <br> Future work will be devoted to the extension of POPA and MEOPA for fuzzy decision making, grey decision making, large-scale group decision making, scenario robust decision making and criterion interaction decision making. 
+- Future work will be devoted to the extension of POPA and MEOPA for fuzzy decision making, grey decision making, large-scale group decision making, scenario robust decision making and criterion interaction decision making. 
 <br>
 
 #### Project 2: Meta-Network Modeling and Analysis in Emergency Management (Sept. 2023 - Present)
