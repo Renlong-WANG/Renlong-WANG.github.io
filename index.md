@@ -3,7 +3,7 @@ layout: page
 ---
 
 # About Me
-<div style="clear:both;">
+<div style="clear:both; text-align:center;">
     <img src="{{ site.url }}/images/lifephoto.jpg" class="floatpic" width="1200" height="920" style="display:block; margin:0 auto;">
 </div>
 
