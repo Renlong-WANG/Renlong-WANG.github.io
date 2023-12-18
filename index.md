@@ -7,7 +7,7 @@ layout: page
 <br>
 Here is **Renlong Wang (王人龙)**.
 
-I am a first-year graduate student majoring Industrial Engineering at the University of Chinese Academy of Sciences (UCAS). I am now advised by Hong CHI. I received my B.S. in civil engineering from the Nanjing Tech University (NJTECH) in 2023.
+I am a first-year graduate student majoring in **Industrial Engineering** at the **University of Chinese Academy of Sciences** (UCAS). I am now advised by Professor Hong CHI (President of Chinese Society of Optimization, Overall Planning and Economic Mathematics). I received my B.S. in Civil Engineering from the Nanjing Tech University (NJTECH) in 2023.
 
 My current research focuses on decision analytics problems that emergency management faces in real life. My interests are on the **hypergraph**, **multi-criteria decision-making** and **optimization** and its applications in **Emergency Management and Operation** under highly complex, dynamic, and uncertainty envrionment.
 - Decision Analysis and Optimization under Uncertainty
@@ -22,7 +22,7 @@ My current research focuses on decision analytics problems that emergency manage
 
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2026 Fall. Contact me if you have any leads!**
 
-- **Sep 2023 - June 2026:** Master of Industrial Engineering, University of Chinese Academy of Sciences <br>**Supervisor:** Hong CHI (President of Chinese Society of Optimization, Overall Planning and Economic Mathematics)<br> **Major Cources:** Operations Research, Quantitative Anaysis:Model and Method, Modeling, Simulation and Management of Complex System (focus on system dynamics and agent-based modeling), Engineering System Modeling and Simulation (focis on queueing system), Modeling and Analysis of Complex Emergency Systems (focus on network modeling and analysis), and Fault Tree Analysis
+- **Sep 2023 - June 2026:** Master of Industrial Engineering, University of Chinese Academy of Sciences <br> **Major Cources:** Operations Research, Quantitative Anaysis:Model and Method, Modeling, Simulation and Management of Complex System (focus on system dynamics and agent-based modeling), Engineering System Modeling and Simulation (focis on queueing system), Modeling and Analysis of Complex Emergency Systems (focus on network modeling and analysis), and Fault Tree Analysis
 
 - **Sep 2019 - June 2023:** Bachelor of Civil Engineering, Nanjing Tech University <br>2023 Outstanding Graduates in Civil Engineering from Jiangsu Universities and Colleges
 
