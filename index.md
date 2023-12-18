@@ -30,7 +30,7 @@ My current research focuses on decision analytics problems that emergency manage
 
 ---
 
-## My Trait
+## My Traits
 
 - Humorous, cheerful, composed, and steadfast.
 - Enjoy the process of exploring the unknown and self-realization.
