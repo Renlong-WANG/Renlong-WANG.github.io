@@ -13,8 +13,9 @@ Lastest Update: 12nd Dec 2023&nbsp;
 
 - **[Safety Risk Assessment and Control of Prefabricated Building Construction Based on BN-MNA Model (In Chinese)](https://doi.org/10.13579/j.cnki.2095-0985.2022.20211019)** <br>Yao Ding, **Renlong Wang**,Lingzhi Li *, Jingfeng Yuan, and Ling Shen <br> Journal of Civil Engineering and Management (土木工程与管理学报) <br> 2022-06-10
 
-- **[Safety Performance Evaluation of Prefabricated Building Construction from the Perspective of Three Dimensional Space (In Chinese)](https://doi.org/10.11731/j.issn.1673-193x.2022.09.030)** <br> Yilun Zhou, **Renlong Wang**, and Jianjun She * <br> China Production Safety Science and Technology (中国安全生产科学技术) <br> 2022-09-30 <br>
+- **[Safety Performance Evaluation of Prefabricated Building Construction from the Perspective of Three Dimensional Space (In Chinese)](https://doi.org/10.11731/j.issn.1673-193x.2022.09.030)** <br> Yilun Zhou, **Renlong Wang**, and Jianjun She * <br> China Production Safety Science and Technology (中国安全生产科学技术) <br> 2022-09-30 
 <br>
+
 ---
 
 ## Working Paper
