@@ -22,16 +22,16 @@ My current research focuses on decision analytics problems that emergency manage
 
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2026 Fall. Contact me if you have any leads!**
 
-- **Sep 2023 - June 2026:** Master of Industrial Engineering, University of Chinese Academy of Sciences <br> **Major Cources:** Operations Research; Quantitative Anaysis:Model and Method; Modeling, Simulation and Management of Complex System (focus on system dynamics and agent-based modeling); Engineering System Modeling and Simulation (focis on queueing system); Modeling and Analysis of Complex Emergency Systems (focus on network modeling and analysis); and Fault Tree Analysis
+- **Sep 2023 - June 2026:** Master in Industrial Engineering, University of Chinese Academy of Sciences <br> **Major Cources:** Operations Research; Quantitative Anaysis:Model and Method; Modeling, Simulation and Management of Complex System (focus on system dynamics and agent-based modeling); Engineering System Modeling and Simulation (focis on queueing system); Modeling and Analysis of Complex Emergency Systems (focus on network modeling and analysis); and Fault Tree Analysis
 
-- **Sep 2019 - June 2023:** Bachelor of Civil Engineering, Nanjing Tech University <br>2023 Outstanding Graduates in Civil Engineering from Jiangsu Universities and Colleges
+- **Sep 2019 - June 2023:** Bachelor in Civil Engineering, Nanjing Tech University <br>2023 Outstanding Graduates in Civil Engineering from Jiangsu Universities and Colleges
 
 
 <br>
 
 ---
 
-## My traits
+## My Trait
 
 - Humorous, cheerful, composed, and steadfast.
 - Enjoy the process of exploring the unknown and self-realization.
