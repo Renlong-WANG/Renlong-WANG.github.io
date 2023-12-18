@@ -15,6 +15,7 @@ Lastest Update: 19th Dec. 2023 &nbsp;
 - Sept. 2021：**First Prize of Contemporary Undergraduate Mathematical Contest in Modeling (National Level Authoritative Competition)**<br>(Prize-winning rate 0.65%, with 45,075 teams in total)
 - Aug. 2021：First Prize of "Huashu Cup" Chinese Mathematical Contest in Modeling
 
+---
 ## Honors
 
 - Nov. 2023：Recommend Excellent Paper of 2023 International Symposium on Emergency Management
