@@ -16,6 +16,7 @@ My current research focuses on decision analytics problems that emergency manage
 - Emergency Management and Decision-Making
 - Continuously Updating My Own Skills
 <br>
+---
 
 ## Education Background
 
