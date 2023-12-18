@@ -4,7 +4,7 @@ permalink: /projects/index.html
 title: Projects
 ---
 
-# Research Projects
+## Research Projects
 
 
 #### Project 1: Muti-Criteria Decision Making (MCDM) (Apr. 2023 - Present)
