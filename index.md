@@ -7,7 +7,12 @@ layout: page
 <br>
 Here is **Renlong Wang (王人龙)**.
 
-I am a first-year graduate student majoring Industrial Engineering at the University of Chinese Academy of Sciences.
+I am a first-year graduate student majoring Industrial Engineering at the University of Chinese Academy of Sciences (UCAS). I am now advised by Hong CHI. I received my B.S. in civil engineering from the Nanjing Tech University (NJTECH) in 2023.
+My current research focuses on decision analytics problems that emergency management faces in real life. My interests are on the **hypergraph**, **multi-criteria decision-making** and **optimization** and its applications in **Emergency Management and Operation** under highly complex, dynamic, and uncertainty envrionment.
+- Decision Analysis and Optimization under Uncertainty
+- Multi-criteria Decision-Making
+- Hypergraph (Meta-Network Modeling and Analysis)
+- Emergency Management and Decision-Making
 
 <br>
 
@@ -24,14 +29,12 @@ I am a first-year graduate student majoring Industrial Engineering at the Univer
 
 ---
 
-## Research Interests
+## My traits
 
-- Decision Analysis and Optimization under Uncertainty
-- Multi-criteria Decision-Making
-- Hypergraph (Meta-Network Modeling and Analysis)
-- Emergency Management and Decision-Making
-
-My current research focuses on decision analytics problems that emergency management faces in real life. My interests are on the **hypergraph**, **multi-criteria decision-making** and **optimization** and its applications in **Emergency Management and Operation** under highly uncertainty. In a word, my objective is to conduct inspired orginal research in emergency management by cross-application of hypergraphs, multi-criteria decision-making, and optimization tools. This endeavor seeks to propel the advancement and innovation within this field, fostering the creation of more effective and dependable solutions for societal needs.
+- Humorous, cheerful, composed, and steadfast.
+- Enjoy the process of exploring the unknown and self-realization.
+- Enjoy the process of continuously expanding the boundaries of my own abilities.
+- Hope to cultivate my ability to distill and solve research in a systematic manner.
 
 <br>
 
