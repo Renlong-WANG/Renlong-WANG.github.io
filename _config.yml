@@ -6,10 +6,11 @@ url: https://Renlong-WANG.github.io
 
 # Owner/author information
 owner:
-  name: Renlong WANG
-  avatar: CVPHOTO.jpg
-  bio: M.S. at University of Chinese Academy of Sciences
-  location: Beijing, P.R.China
+  name: “Renlong WANG”
+  avatar: “CVPHOTO.jpg”
+  # bio: Two roads diverged in woods, I took the one less traveled by.
+  bio:"M.S. at University of Chinese Academy of Sciences"
+  location:"Beijing, P.R.China"
   email: “13127073530@163.com”
   # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
@@ -42,20 +43,13 @@ links:
     url: /
   - title: Publications
     url: /publications/
-  - title: Working Papers
-    url: /workingpapers/
+  - title: Conference Presentations
+    url: /conference-presentations/
   - title: Awards
     url: /awards/
   - title: projects
     url: /projects/
-  - title: Teams
-    url: /teams/
-  - title: Hobbies
-    url: /hobbies/
-  # - title: Notes
-    # url: /notes/
-  - title: Blogs
-    url: /blogs/
+
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
