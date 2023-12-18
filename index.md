@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="{{ site.url }}/images/lifephoto.jpg" class="floatpic" width="1200" height="920">
+<img src="{{ site.url }}/images/lifephoto.jpg" class="floatpic" width="1200" height="920" style="display: block; margin: 0 auto;>
 
 Here is **Hanlin Cai (Lance, 蔡汉霖)**.
 
