@@ -4,9 +4,7 @@ layout: page
 
 # About Me
 <br>
-<div style="clear:both; text-align:center;">
-    <img src="{{ site.url }}/images/lifephoto2.jpg" width="460" height="600" style="display:block; margin:0 auto;">
-</div>
+<img src="{{ site.url }}/images/lifephoto2.jpg" width="460" height="600">
 <br>
 Here is **Hanlin Cai (Lance, 蔡汉霖)**.
 
