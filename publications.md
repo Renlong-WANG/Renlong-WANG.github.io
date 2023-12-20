@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-**<font color='red'>We publish to share, to inspire, to educate.</font>**
+## We publish to share, to inspire, to educate.
 
 ## Journal Paper
 
