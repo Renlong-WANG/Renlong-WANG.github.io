@@ -4,6 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
+**We publish to share, to inspire, to educate.**
 
 ## Journal Paper
 
