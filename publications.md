@@ -5,6 +5,7 @@ title: Publications
 ---
 
 ## We publish to share, to inspire, to educate.
+<br>
 
 ## Journal Paper
 
