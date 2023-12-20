@@ -4,7 +4,6 @@ permalink: /conference-presentations/index.html
 title: Conference Presentations
 ---
 
-Lastest Update: 19th Dec 2023&nbsp;
 
 ## Summer School ＆ Conference Presentations
 
