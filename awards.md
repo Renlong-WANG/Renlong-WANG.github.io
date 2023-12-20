@@ -5,7 +5,7 @@ title: Awards
 ---
 
 ## Competitions
-
+As a team leader, I lead the team in various mathematical modeling competitions and is responsible for tasks in mathematical modeling and writing.
 - Dec. 2022：Meritorious Prize of “Certificate Authority Cup” International Mathematical Contest in Modeling
 - Apr. 2022：First Prize of “Certificate Authority Cup” Mathematics China Mathematical Modeling Cyber Challenge
 - Feb. 2022：**Outstanding Winner Prize of American Mathematical Contest in Modeling (International Level Authoritative Competition)** <br>(Prize-winning rate 0.16%, with 27,205 teams in total)
