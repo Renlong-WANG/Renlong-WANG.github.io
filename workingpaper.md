@@ -28,7 +28,7 @@ title: Working Paper
 
 - **A Novel MCDM Method with Expert Consensus and Information Distribution for Emergency Response Plan Selection: Hybrid DGRA-OPA-P**<br> (First Author, with Cheng Jiang)
 
-- **Analyzing Heterogeneous Collaboration within Emergency Organizations Based on Emergency Response Plans: a Meta-Network Modeling Framework** <br> (Corresponding Author, with Rui Shen)
+- **A Novel Post-disaster Review-based Decision-making Framework for Enhancing Urban Emergency Response Capacity through Grey Ordinal Priority Approach** <br> (Corresponding Author, with Rui Shen)
 
 - **Towards a Circular Economy in China Agricultural Sector: a Novel δ-SBM-OPA Approach for Analyzing Carbon Emission Efficiency with Policy Preference** <br> (Corresponding Author, with Shutian Cui and Xiaoyan Li)
 
