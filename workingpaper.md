@@ -44,7 +44,7 @@ title: Working Paper
 
 - **Evaluating Emergency Supplier Development Programs Based on a Novel Robust Ordinal Priority Approach** <br>
 
-- **Adopting Blockchain Technology for the Humanitarian Operations Management Evaluating the Barriers Using Grey Partial Ordinal Priority Approach** <br>
+- **Adopting Blockchain Technology for the Humanitarian Operations Management: Evaluating the Barriers Using Grey Partial Ordinal Priority Approach** <br>
 
 - **A Meta-Network-Based Framework for Quantifying the Resilience of Emergency Organization within Emergency Response Plan: An Adaptive Simulation Perspective** <br>
 
