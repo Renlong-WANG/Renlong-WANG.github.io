@@ -28,14 +28,16 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # For external links add external: true
 links:
   - title: About Me
-    url: /index/
-  - title: Publications
+    url: /
+  - title: Publication
     url: /publications/
-  - title: Conference Presentations
+  - title: Working Paper
+    url: /publications/
+  - title: Conference Presentation
     url: /conference-presentations/
-  - title: Awards
+  - title: Award
     url: /awards/
-  - title: projects
+  - title: Project
     url: /projects/
 
 
