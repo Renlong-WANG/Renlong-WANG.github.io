@@ -32,6 +32,8 @@ title: Working Paper
 
 - **Towards a Circular Economy in China Agricultural Sector: a Novel δ-SBM-OPA Approach for Analyzing Carbon Emission Efficiency with Policy Preference** <br> (Corresponding Author, with Shutian Cui and Xiaoyan Li)
 
+- **Cost Analysis of Accelerator Driven Advanced Nuclear Energy System (ADANES) Considering Uncertainty Throughout the R&D Cycle** <br> (Fourth Author, with Zhen Li, Mingliang Qi, Mingang Gao, Xuesong Yan and Yangyang Yang)
+
   <br>
 
 ---
