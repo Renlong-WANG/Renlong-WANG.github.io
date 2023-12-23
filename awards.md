@@ -16,7 +16,7 @@ As a team leader, I lead the team in various mathematical modeling competitions 
 
 ---
 
-## Honors
+## Awards
 
 - Nov. 2023：Recommend Excellent Paper of 2023 International Symposium on Emergency Management
 - Aug. 2023：Excellent Student Paper of 2023 POMS Summer School in China
