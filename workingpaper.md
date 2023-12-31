@@ -26,11 +26,11 @@ title: Working Paper
 
 ## Work in Progress
 
-- **A Novel MCDM Method with Expert Consensus and Information Distribution for Emergency Response Plan Selection: Hybrid DGRA-OPA-P**<br> (First Author, with Cheng Jiang)
+- **A Novel MCDM Method with Expert Consensus and Information Distribution for Emergency Response Plan Selection: Hybrid DGRA-OPA-P**<br> (Sole Author)
 
 - **A Novel Post-disaster Review-based Decision-making Framework for Enhancing Urban Emergency Response Capacity through Grey Ordinal Priority Approach** <br> (Corresponding Author, with Rui Shen)
 
-- **Towards a Circular Economy in China Agricultural Sector: a Novel δ-SBM-OPA Approach for Analyzing Carbon Emission Efficiency with Policy Preference** <br> (Corresponding Author, with Shutian Cui and Xiaoyan Li)
+- **Local Government Competition and Carbon Emission Efficiency in China’s Agriculture Sector: A Novel δ-SBM-OPA Approach with Policy Preference** <br> (Corresponding Author, with Shutian Cui)
 
 - **Cost Analysis of Accelerator Driven Advanced Nuclear Energy System (ADANES) Considering Uncertainty Throughout the R&D Cycle** <br> (Fourth Author, with Zhen Li, Mingliang Qi, Mingang Gao, Xuesong Yan and Yangyang Yang)
 
