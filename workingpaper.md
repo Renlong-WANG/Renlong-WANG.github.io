@@ -16,21 +16,19 @@ title: Working Paper
 
 - **A Novel Multi-Attribute Decision-Making Method for Emergency Supplier Selection under Improvisational Decision-Making Scenario: Partial Ordinal Priority Approach** <br>**Renlong Wang**, Rui Shen, Hong Chi, Xueyan Shao, and Mingang Gao *<br>Expert System with Applications (SCI-JCR-Q1) <br>Status: Under First Round of Review
 
-- **Measuring Hospital Resilience at the Nexus of Power-Water-Firefighting-Space (PWFS) System: a Cellular Automata-Based Approach** <br>**Renlong Wang**, Lingzhi Li *, Endong Wang, and Fengjing Yuan *<br>Journal of Management in Engineering (SCI-JCR-Q1) <br>Status: With Editor
+- **Measuring Hospital Resilience at the Nexus of Power-Water-Firefighting-Space (PWFS) System: a Cellular Automata-Based Approach** <br>**Renlong Wang**, Lingzhi Li *, Endong Wang, and Fengjing Yuan <br>Status: Pending Submission
 
-- **A Meta-Network-Based Framework for Identifying Heterogeneous Collaboration across Emergency Organizations within Emergency Response Plans** <br>**Renlong Wang**, Cheng Jiang, Mingang Gao, and Xueyan Shao*<br> International Journal of Disaster Risk Reduction (SCI-JCR-Q2) <br>Status: Submit to Journal
+- **A Meta-Network-Based Framework for Identifying Heterogeneous Collaboration across Emergency Organizations within Emergency Response Plans** <br>**Renlong Wang**, Cheng Jiang, Mingang Gao, and Xueyan Shao* <br>Status: Pending Submission
 
+- **A Novel MADM Method with Expert Consensus and Information Distribution for Emergency Response Plan Selection: Hybrid DGRA-OPA-P** <br>**Renlong Wang*** <br>Status: Pending Submission
   <br>
 
 ---
 
 ## Work in Progress
-
-- **A Novel MCDM Method with Expert Consensus and Information Distribution for Emergency Response Plan Selection: Hybrid DGRA-OPA-P**<br> (Sole Author)
+- **Local Government Competition and Carbon Emission Efficiency in China’s Agriculture Sector: A Novel δ-SBM-OPA Approach with Policy Preference** <br> (Corresponding Author, with Shutian Cui)
 
 - **A Novel Post-disaster Review-based Decision-making Framework for Enhancing Urban Emergency Response Capacity through Grey Ordinal Priority Approach** <br> (Corresponding Author, with Rui Shen)
-
-- **Local Government Competition and Carbon Emission Efficiency in China’s Agriculture Sector: A Novel δ-SBM-OPA Approach with Policy Preference** <br> (Corresponding Author, with Shutian Cui)
 
 - **Cost Analysis of Accelerator Driven Advanced Nuclear Energy System (ADANES) Considering Uncertainty Throughout the R&D Cycle** <br> (Fourth Author, with Zhen Li, Mingliang Qi, Mingang Gao, Xuesong Yan and Yangyang Yang)
 
