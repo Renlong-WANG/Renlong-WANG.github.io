@@ -26,6 +26,8 @@ title: Working Paper
 ---
 
 ## Work in Progress
+- **Evaluating Emergency Supplier Development Programs Based on a Novel Robust Ordinal Priority Approach** <br> (Sole Author)
+
 - **Local Government Competition and Carbon Emission Efficiency in China’s Agriculture Sector: A Novel δ-SBM-OPA Approach with Policy Preference** <br> (Corresponding Author, with Shutian Cui)
 
 - **A Novel Post-disaster Review-based Decision-making Framework for Enhancing Urban Emergency Response Capacity through Grey Ordinal Priority Approach** <br> (Corresponding Author, with Rui Shen)
@@ -42,7 +44,7 @@ title: Working Paper
 
 - **Managing Overlapping and Functional Interaction in Emergency Response Operations under Resource-Constrained Environment**<br>
 
-- **Evaluating Emergency Supplier Development Programs Based on a Novel Robust Ordinal Priority Approach** <br>
+- **A Novel Partial Ordinal Priority Approach Incorporating Group Consensus and Criteria Interaction** <br>
 
 - **Adopting Blockchain Technology for the Humanitarian Operations Management: Evaluating the Barriers Using Grey Partial Ordinal Priority Approach** <br>
 
