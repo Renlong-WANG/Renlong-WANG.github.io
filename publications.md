@@ -8,7 +8,9 @@ title: Publications
 <br>
 
 ## Journal Paper
-
+<br>
+(*:corresponding author; #: co-first author)
+<br>
 - **[Evaluating the Effectiveness of the COVID-19 Emergency Outbreak Prevention and Control Based on CIA-ISM](https://doi.org/10.3390/ijerph19127146)**<br> 
 **Renlong Wang**, Endong Wang *, Lingzhi Li *, and Wei Li <br> International Journal of Environmental Research and Public Health (SSCI-JCR-Q1) <br> 2022-06-10
 
