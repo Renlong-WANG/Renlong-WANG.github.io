@@ -8,7 +8,6 @@ title: Publications
 <br>
 
 ## Journal Paper
-<br>
 (*: corresponding author; #: co-first author)
 <br>
 
