@@ -9,7 +9,7 @@ title: Publications
 
 ## Journal Paper
 <br>
-(*:corresponding author; #: co-first author)
+(*: corresponding author; #: co-first author)
 <br>
 
 - **[Evaluating the Effectiveness of the COVID-19 Emergency Outbreak Prevention and Control Based on CIA-ISM](https://doi.org/10.3390/ijerph19127146)**<br> 
