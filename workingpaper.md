@@ -7,9 +7,9 @@ title: Working Paper
 
 
 ## Working Paper
+(*: corresponding author; #: co-first author)
 <br>
-(*:corresponding author; #: co-first author)
-<br>
+
 - **Systematic Scenario Modeling for Priority Assessment of Sustainable Development Goals in China under Interaction and Uncertainty**<br>**Renlong Wang**, Shutian Cui, and Mingang Gao *<br>Environment, Development and Sustainability (SSCI-JCR-Q2) <br>Status: Minor Revision, Under Second Round of Review
 
 - **Partial Ordinal Priority Approach in Multi-Attribute Decision-Making （In Chinese）** <br>**Renlong Wang**, Rui Shen, Hong Chi, and Mingang Gao *<br>Chinese Journal of Management Science (中国管理科学, CSSCI, A-Tier Journal of NSFC) <br>Status: Minor Revision, Under Second Round of Review
