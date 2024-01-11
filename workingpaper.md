@@ -16,11 +16,12 @@ title: Working Paper
 
 - **A Novel Multi-Attribute Decision-Making Method for Emergency Supplier Selection under Improvisational Decision-Making Scenario: Partial Ordinal Priority Approach** <br>**Renlong Wang**, Rui Shen, Hong Chi, Xueyan Shao, and Mingang Gao *<br>Expert System with Applications (SCI-JCR-Q1) <br>Status: Under First Round of Review
 
-- **Measuring Hospital Resilience at the Nexus of Power-Water-Firefighting-Space (PWFS) System: a Cellular Automata-Based Approach** <br>**Renlong Wang**, Lingzhi Li *, Endong Wang, and Fengjing Yuan <br>Status: Pending Submission
+- **A Novel MADM Method with Expert Consensus and Information Distribution for Emergency Response Plan Selection: Hybrid DGRA-OPA-P** <br>**Renlong Wang** * <br> Information Sciences (SCI-JCR-Q1) <br>Status: Under First Round of Review
 
 - **A Meta-Network-Based Framework for Identifying Heterogeneous Collaboration across Emergency Organizations within Emergency Response Plans** <br>**Renlong Wang**, Cheng Jiang, Mingang Gao, and Xueyan Shao * <br>Status: Pending Submission
 
-- **A Novel MADM Method with Expert Consensus and Information Distribution for Emergency Response Plan Selection: Hybrid DGRA-OPA-P** <br>**Renlong Wang** * <br>Status: Pending Submission
+- **Measuring Hospital Resilience at the Nexus of Power-Water-Firefighting-Space (PWFS) System: a Cellular Automata-Based Approach** <br>**Renlong Wang**, Lingzhi Li *, Endong Wang, and Fengjing Yuan <br>Status: Pending Submission
+
   <br>
 
 ---
@@ -41,6 +42,8 @@ title: Working Paper
 ## To Do List in 2024
 
 - **A Maximum Entropy Utility-based Ordinal Priority Approach for Multi-Attribute Decision-Making**<br>
+
+- **A Novel Version of Ordinal Priority Approach Based on the Prospect Theory**<br>
 
 - **Managing Overlapping and Functional Interaction in Emergency Response Operations under Resource-Constrained Environment**<br>
 
