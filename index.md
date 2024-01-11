@@ -9,7 +9,7 @@ Here is **Renlong Wang (王人龙)**.
 
 I am a first-year graduate student majoring in **Industrial Engineering** at the **University of Chinese Academy of Sciences** (UCAS). I am now advised by Professor **Hong CHI** (President of Chinese Society of Optimization, Overall Planning and Economic Mathematics). I received my B.S. in Civil Engineering from the Nanjing Tech University (NJTECH) in 2023.
 
-My current research focuses on decision analytics problems encountered in real-world emergency management scenarios. My interests are on the **multi-attribute utility theroy**, **individual preference**, **multi-criteria decision-making**, and **robust optimization** and its applications in **Humanitarian Operations Management** under highly complex, dynamic, and uncertainty environment.
+My current research focuses on decision analytics problems encountered in real-world emergency management scenarios. My interests are on the **multi-attribute utility theroy**, **individual preference**, **multi-criteria decision-making**, and **robust optimization** and its applications in **Humanitarian Operations Management** under uncertainty environment.
 - Decision Analytics and Optimization under Uncertainty
 - Multi-Criteria Decision-Making
 - Hypergraph (Meta-Network Modeling and Analysis)
