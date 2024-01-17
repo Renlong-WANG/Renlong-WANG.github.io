@@ -11,6 +11,8 @@ title: Publications
 (*: corresponding author; #: co-first author)
 <br>
 
+- **Systematic Scenario Modeling for Priority Assessment of Sustainable Development Goals in China under Interaction and Uncertainty**<br>**Renlong Wang**, Shutian Cui, and Mingang Gao *<br>Environment, Development and Sustainability (SSCI-JCR-Q2) <br>2024-01-17: Accepted
+
 - **[Evaluating the Effectiveness of the COVID-19 Emergency Outbreak Prevention and Control Based on CIA-ISM](https://doi.org/10.3390/ijerph19127146)**<br> 
 **Renlong Wang**, Endong Wang *, Lingzhi Li *, and Wei Li <br> International Journal of Environmental Research and Public Health (SSCI-JCR-Q1) <br> 2022-06-10
 
