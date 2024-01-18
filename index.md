@@ -25,7 +25,7 @@ My current research focuses on decision analytics problems encountered in real-w
 ## Education Background
 
 
-- **Sep. 2023 - Jun. 2026:** Master in Industrial Engineering, University of Chinese Academy of Sciences <br> **Major Cources:** Operations Research; Quantitative Anaysis:Model and Method; Modeling, Simulation and Management of Complex System (focus on system dynamics and agent-based modeling); Engineering System Modeling and Simulation (focis on queueing system); Modeling and Analysis of Complex Emergency Systems (focus on network modeling and analysis); and Fault Tree Analysis
+- **Sep. 2023 - Jun. 2026:** Master in Industrial Engineering, University of Chinese Academy of Sciences <br> **Major Cources:** Operations Research; Stochastic Operations Research；Convex Analysis and Optimization; Robust Optimization; Applied Statistics; Introduction of Game Theory; Quantitative Anaysis: Model and Method; Engineering System Modeling and Simulation; Modeling and Analysis of Complex Emergency Systems (focus on network modeling and analysis)
 
 - **Sep. 2019 - Jun. 2023:** Bachelor in Civil Engineering, Nanjing Tech University <br>2023 Outstanding Graduates in Civil Engineering from Jiangsu Universities and Colleges
 <br>
