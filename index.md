@@ -27,7 +27,7 @@ My current research focuses on decision analytics problems encountered in real-w
 
 - **Sep. 2023 - Jun. 2026:** Master in Industrial Engineering, University of Chinese Academy of Sciences <br> **Major Cources:** Operations Research; Stochastic Operations Research; Convex Analysis and Optimization; Robust Optimization; Applied Statistics; Introduction of Game Theory; Quantitative Anaysis: Model and Method; Engineering System Modeling and Simulation; Modeling and Analysis of Complex Emergency Systems
 
-- **Sep. 2019 - Jun. 2023:** Bachelor in Civil Engineering, Nanjing Tech University <br>2023 Outstanding Graduates in Civil Engineering from Jiangsu Universities and Colleges
+- **Sep. 2019 - Jun. 2023:** Bachelor in Civil Engineering, Nanjing Tech University <br>2023 Outstanding Graduates in Civil Engineering of Jiangsu Universities and Colleges
 <br>
 
 ---
