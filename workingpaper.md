@@ -33,8 +33,6 @@ title: Working Paper
 
 - **A Novel Post-disaster Review-based Decision-making Framework for Enhancing Urban Emergency Response Capacity through Grey Ordinal Priority Approach** <br> (Corresponding Author, with Rui Shen)
 
-- **Cost Analysis of Accelerator Driven Advanced Nuclear Energy System (ADANES) Considering Uncertainty Throughout the R&D Cycle** <br> (Fourth Author, with Zhen Li, Mingliang Qi, Mingang Gao, Xuesong Yan and Yangyang Yang)
-
   <br>
 
 ---
