@@ -11,6 +11,8 @@ title: Publications
 (*: corresponding author; #: co-first author)
 <br>
 
+- **Partial Ordinal Priority Approach in Multi-Attribute Decision-Making （In Chinese）** <br>**Renlong Wang**, Rui Shen, Hong Chi, and Mingang Gao *<br>Chinese Journal of Management Science (中国管理科学, CSSCI, A-Tier Journal of NSFC) <br>2024-01-19：Accepted
+
 - **Systematic Scenario Modeling for Priority Assessment of Sustainable Development Goals in China under Interaction and Uncertainty**<br>**Renlong Wang**, Shutian Cui, and Mingang Gao *<br>Environment, Development and Sustainability (SSCI-JCR-Q2) <br>2024-01-17: Accepted
 
 - **[<font color='#3366CC'>Evaluating the Effectiveness of the COVID-19 Emergency Outbreak Prevention and Control Based on CIA-ISM</font>](https://doi.org/10.3390/ijerph19127146)**<br> 
