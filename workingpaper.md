@@ -10,8 +10,6 @@ title: Working Paper
 (*: corresponding author; #: co-first author)
 <br>
 
-- **Partial Ordinal Priority Approach in Multi-Attribute Decision-Making （In Chinese）** <br>**Renlong Wang**, Rui Shen, Hong Chi, and Mingang Gao *<br>Chinese Journal of Management Science (中国管理科学, CSSCI, A-Tier Journal of NSFC) <br>Status: Minor Revision, Under Second Round of Review
-
 - **Collaboration-Based Meta-Network Modeling for Data Governance Capacity Optimization in Port Logistics** <br>**Renlong Wang**, Tang Jia, Shutian Cui, Endong Wang, and Mingang Gao *<br> International Journal of Logistics Research and Applications (SSCI-JCR-Q2) <br>Status: Major Revision, Under Third Round of Review
 
 - **A Novel Multi-Attribute Decision-Making Method for Emergency Supplier Selection under Improvisational Decision-Making Scenario: Partial Ordinal Priority Approach** <br>**Renlong Wang**, Rui Shen, Hong Chi, Xueyan Shao, and Mingang Gao *<br>Expert System with Applications (SCI-JCR-Q1) <br>Status: Under First Round of Review
@@ -29,7 +27,7 @@ title: Working Paper
 ## Work in Progress
 - **Evaluating Emergency Supplier Development Programs Based on a Novel Robust Ordinal Priority Approach** <br> (Sole Author)
 
-- **Local Government Competition and Carbon Emission Efficiency in China’s Agriculture Sector: A Novel δ-SBM-OPA Approach with Policy Preference** <br> (Corresponding Author, with Shutian Cui)
+- **Local Government Competition and Carbon Emission Efficiency in China’s Agriculture Sector: A Novel SBM-OPA Approach with Policy Preference** <br> (Corresponding Author, with Shutian Cui)
 
 - **A Novel Post-disaster Review-based Decision-making Framework for Enhancing Urban Emergency Response Capacity through Grey Ordinal Priority Approach** <br> (Corresponding Author, with Rui Shen)
 
@@ -40,8 +38,6 @@ title: Working Paper
 ## To Do List in 2024
 
 - **A Maximum Entropy Utility-based Ordinal Priority Approach for Multi-Attribute Decision-Making**<br>
-
-- **A Novel Version of Ordinal Priority Approach Based on the Prospect Theory**<br>
 
 - **Managing Overlapping and Functional Interaction in Emergency Response Operations under Resource-Constrained Environment**<br>
 
