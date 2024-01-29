@@ -8,7 +8,7 @@ title: Publications
 <br>
 
 ## Journal Paper
-(*: corresponding author; #: co-first author)
+(* corresponding author; # co-first author)
 <br>
 
 - **Systematic Scenario Modeling for Priority Assessment of Sustainable Development Goals in China under Interaction and Uncertainty**<br>**Renlong Wang**, Shutian Cui, and Mingang Gao *<br>Environment, Development and Sustainability (SSCI-JCR-Q2) <br>2024-01-17: Accepted
