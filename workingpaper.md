@@ -20,9 +20,9 @@ title: Working Paper
 
 - **A Novel Multi-Attribute Decision-Making Method for Emergency Supplier Selection under Improvisational Decision-Making Scenario: Partial Ordinal Priority Approach** <br>**Renlong Wang**, Rui Shen, Hong Chi, Xueyan Shao, and Mingang Gao *<br>Expert System with Applications (SCI-JCR-Q1) <br>Status: Under First Round of Review
 
-- **A Meta-Network-Based Framework for Identifying Heterogeneous Collaboration across Emergency Organizations within Emergency Response Plans** <br>**Renlong Wang** #, Cheng Jiang #, Mingang Gao, and Xueyan Shao * <br>Status: Pending Submission
+- **Mastering the Complexity: A Cellular Automata-Based Framework for Measuring Resilience of Hospital Power-Water-Firefighting-Space Nexus System** <br>**Renlong Wang**, Lingzhi Li *, Endong Wang, and Fengjing Yuan <br>Status: Submitted to International Journal of Disaster Risk Reduction
 
-- **Measuring Hospital Resilience at the Nexus of Power-Water-Firefighting-Space (PWFS) System: a Cellular Automata-Based Approach** <br>**Renlong Wang**, Lingzhi Li *, Endong Wang, and Fengjing Yuan <br>Status: Pending Submission
+- **A Meta-Network-Based Framework for Identifying Heterogeneous Collaboration across Emergency Organizations within Emergency Response Plans** <br>**Renlong Wang** #, Cheng Jiang #, Mingang Gao, and Xueyan Shao * <br>Status: Pending Submission
 
   <br>
 
