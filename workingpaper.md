@@ -14,8 +14,6 @@ title: Working Paper
 
 - **Collaboration-Based Meta-Network Modeling for Data Governance Capacity Optimization in Port Logistics** <br>**Renlong Wang**, Tang Jia, Shutian Cui, Endong Wang, and Mingang Gao*<br> International Journal of Logistics Research and Applications (SSCI-JCR-Q2) <br>Status: Major Revision, Under Third Round of Review
 
-- **A Novel Cost Analysis Method for Accelerator Driven Advanced Nuclear Energy System (ADANES) Considering Uncertainty Throughout the R&D Cycle** <br> Zhen Li, Mingliang Qi, **Renlong Wang**, Mingang Gao *, Xuesong Yan, and Yangyang Yang <br> Applied Energy (SCI-JCR-Q1) <br>Status: Major Revision, Under Second Round of Review
-
 - **A Novel MADM Method with Expert Consensus and Information Distribution for Emergency Response Plan Selection: Hybrid DGRA-OPA-P** <br>**Renlong Wang** * <br> Information Sciences (SCI-JCR-Q1) <br>Status: Major Revision, Being Revised 
 
 - **A Novel Multi-Attribute Decision-Making Method for Emergency Supplier Selection under Improvisational Decision-Making Scenario: Partial Ordinal Priority Approach** <br>**Renlong Wang**, Rui Shen, Hong Chi, Xueyan Shao, and Mingang Gao *<br>Expert System with Applications (SCI-JCR-Q1) <br>Status: Under First Round of Review
