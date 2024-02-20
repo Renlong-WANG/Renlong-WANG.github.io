@@ -18,9 +18,9 @@ title: Working Paper
 
 - **A Novel Multi-Attribute Decision-Making Method for Emergency Supplier Selection under Improvisational Decision-Making Scenario: Partial Ordinal Priority Approach** <br>**Renlong Wang**, Rui Shen, Hong Chi, Xueyan Shao, and Mingang Gao *<br>Expert System with Applications (SCI-JCR-Q1) <br>Status: Under First Round of Review
 
-- **Mastering the Complexity: A Cellular Automata-Based Framework for Measuring Resilience of Hospital Power-Water-Firefighting-Space Nexus System** <br>**Renlong Wang**, Lingzhi Li *, Endong Wang, and Fengjing Yuan <br>Status: Pending Submission
-
 - **A Meta-Network-Based Framework for Identifying Heterogeneous Collaboration across Emergency Organizations within Emergency Response Plans** <br>**Renlong Wang** #, Cheng Jiang #, Mingang Gao, and Xueyan Shao * <br>Status: Pending Submission
+
+- **Mastering the Complexity: A Cellular Automata-Based Framework for Measuring Resilience of Hospital Power-Water-Firefighting-Space Nexus System** <br>**Renlong Wang**, Lingzhi Li *, Endong Wang, and Fengjing Yuan <br>Status: Pending Submission
 
   <br>
 
@@ -28,6 +28,8 @@ title: Working Paper
 
 ## Work in Progress
 - **Evaluating Emergency Supplier Development Programs Based on a Novel Robust Ordinal Priority Approach** <br> (Sole Author)
+
+- **Adopting Blockchain Technology for the Humanitarian Operations Management: Evaluating the Barriers Using Grey Partial Ordinal Priority Approach** <br> (Sole Author)
 
 - **Local Government Competition and Carbon Emission Efficiency in China’s Agriculture Sector: A Novel SBM-OPA Approach with Policy Preference** <br> (Corresponding Author, with Shutian Cui)
 
@@ -44,8 +46,6 @@ title: Working Paper
 - **Managing Overlapping and Functional Interaction in Emergency Response Operations under Resource-Constrained Environment**<br>
 
 - **A Novel Partial Ordinal Priority Approach Incorporating Group Consensus and Criteria Interaction** <br>
-
-- **Adopting Blockchain Technology for the Humanitarian Operations Management: Evaluating the Barriers Using Grey Partial Ordinal Priority Approach** <br>
 
 - **A Meta-Network-Based Framework for Quantifying the Resilience of Emergency Organization within Emergency Response Plan: An Adaptive Simulation Perspective** <br>
 
