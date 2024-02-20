@@ -14,7 +14,7 @@ title: Publications
 
 - **A Novel Cost Analysis Method for Accelerator Driven Advanced Nuclear Energy System (ADANES) Considering Uncertainty Throughout the R&D Cycle** <br> Zhen Li, Mingliang Qi, **Renlong Wang**, Mingang Gao *, Xuesong Yan, and Yangyang Yang <br> Applied Energy (SCI-JCR-Q1) <br>2024-02-06: Accepted
 
-- **Systematic Scenario Modeling for Priority Assessment of Sustainable Development Goals in China under Interaction and Uncertainty**<br>**Renlong Wang**, Shutian Cui, and Mingang Gao *<br>Environment, Development and Sustainability (SSCI-JCR-Q2) <br>2024-01-17: Accepted
+- **Systematic Scenario Modeling for Priority Assessment of Sustainable Development Goals in China under Interaction and Uncertainty**<br>**Renlong Wang**, Shutian Cui, and Mingang Gao *<br>Environment, Development and Sustainability (SSCI-JCR-Q2) <br>2024-01-16: https://doi.org/10.1007/s10668-024-04526-4, PDF
 
 - **[<font color='#3366CC'>Evaluating the Effectiveness of the COVID-19 Emergency Outbreak Prevention and Control Based on CIA-ISM</font>](https://doi.org/10.3390/ijerph19127146)**<br> 
 **Renlong Wang**, Endong Wang *, Lingzhi Li *, and Wei Li <br> International Journal of Environmental Research and Public Health (SSCI-JCR-Q1) <br> 2022-06-10: https://doi.org/10.3390/ijerph19127146, [PDF](https://Renlong-WANG.github.io/file/Wang 等 - 2022 - Evaluating the effectiveness of the COVID-19 emerg.pdf) 🔗
