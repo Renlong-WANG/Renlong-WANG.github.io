@@ -7,7 +7,7 @@ title: Working Paper
 
 
 ## Working Paper
-(* corresponding author; # co-first author)
+(* Corresponding Author; # Co-first Author)
 <br>
 
 - **Partial Ordinal Priority Approach in Multi-Attribute Decision-Making （In Chinese）** <br>**Renlong Wang**, Rui Shen, Hong Chi, and Mingang Gao *<br>Chinese Journal of Management Science (中国管理科学, CSSCI, A-Tier Journal of NSFC) <br>Status: Minor Revision, Under Final Review by the Editor-in-Chief
