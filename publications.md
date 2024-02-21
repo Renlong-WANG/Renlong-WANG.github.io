@@ -12,7 +12,7 @@ title: Publications
 <br>
 
 
-- **[<font color='#3366CC'>A Novel Cost Analysis Method for Accelerator Driven Advanced Nuclear Energy System (ADANES) Considering Uncertainty Throughout the R&D Cycle</font>]([https://doi.org/10.1007/s10668-024-04526-4](https://doi.org/10.1016/j.apenergy.2024.122822))** <br> Zhen Li, Mingliang Qi, **Renlong Wang**, Mingang Gao *, Xuesong Yan, and Yangyang Yang <br> Applied Energy (SCI-JCR-Q1) <br>2024-02-06: [Accepted](https://doi.org/10.1016/j.apenergy.2024.122822, [PDF](https://Renlong-WANG.github.io/file/Li 等 - 2024 - A novel cost analysis method for accelerator drive.pdf) 🔗
+- **[<font color='#3366CC'>A Novel Cost Analysis Method for Accelerator Driven Advanced Nuclear Energy System (ADANES) Considering Uncertainty Throughout the R&D Cycle</font>](https://doi.org/10.1016/j.apenergy.2024.122822)** <br> Zhen Li, Mingliang Qi, **Renlong Wang**, Mingang Gao *, Xuesong Yan, and Yangyang Yang <br> Applied Energy (SCI-JCR-Q1) <br>2024-02-06: [Accepted](https://doi.org/10.1016/j.apenergy.2024.122822, [PDF](https://Renlong-WANG.github.io/file/Li 等 - 2024 - A novel cost analysis method for accelerator drive.pdf) 🔗
 
 - **[<font color='#3366CC'>Systematic Scenario Modeling for Priority Assessment of Sustainable Development Goals in China under Interaction and Uncertainty</font>](https://doi.org/10.1007/s10668-024-04526-4)** <br>**Renlong Wang**, Shutian Cui, and Mingang Gao *<br>Environment, Development and Sustainability (SCI-JCR-Q2) <br>2024-01-16: https://doi.org/10.1007/s10668-024-04526-4, [PDF](https://Renlong-WANG.github.io/file/Wang 等 - 2024 - Systematic scenario modeling for priority assessme.pdf) 🔗
 
