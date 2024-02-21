@@ -13,7 +13,6 @@ My current research focuses on decision analytics problems encountered in real-w
 - Decision Analytics and Optimization under Uncertainty
 - Multi-Attribute Decision-Making
 - Humanitarian Operations Management
-- Continuously Updating My Own Skills
 <br>
 
 **<font color='red'>[Highlight]</font> I am looking for PhD position in Decision Analytics or Operations Management to start in 2026 Fall. Contact me if you have any leads!**
