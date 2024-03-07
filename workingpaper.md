@@ -27,9 +27,7 @@ title: Working Paper
 ---
 
 ## Work in Progress
-- **Evaluating Emergency Supplier Development Programs Based on a Novel Robust Ordinal Priority Approach** <br> (Sole Author)
-
-- **Adopting Blockchain Technology for the Humanitarian Operations Management: Evaluating the Barriers Using Grey Partial Ordinal Priority Approach** <br> (Sole Author)
+- **Nuclear Energy Technology R&D Portfolio Selection: A Robust MADM Approach Considering Scenario Uncertainty and Expert Consensus** <br> (First Author, with Shutian Cui, Fengjing Zhu, and Mingang Gao)
 
 - **Local Government Competition and Carbon Emission Efficiency in China’s Agriculture Sector: A Novel SBM-OPA Approach with Policy Preference** <br> (Corresponding Author, with Shutian Cui)
 
@@ -41,11 +39,20 @@ title: Working Paper
 
 ## To Do List in 2024
 
-- **A Maximum Entropy Utility-based Ordinal Priority Approach for Multi-Attribute Decision-Making**<br>
+# Theoretical Work
+
+- **A Generalized Ordinal Priority Approach (GOPA) for Multi-Attribute Decision-Making**<br>
+
+- **Stochastic Acceptability Analysis in Partial Ordinal Priority Approach** <br>
+
+
+# Applied work
 
 - **Managing Overlapping and Functional Interaction in Emergency Response Operations under Resource-Constrained Environment**<br>
 
-- **A Novel Partial Ordinal Priority Approach Incorporating Group Consensus and Criteria Interaction** <br>
+- **Evaluating Emergency Supplier Development Programs Based on a Novel Robust Ordinal Priority Approach**<br>
+
+- **Adopting Blockchain Technology for the Humanitarian Operations Management: Evaluating the Barriers Using Grey Partial Ordinal Priority Approach**<br>
 
 - **A Meta-Network-Based Framework for Quantifying the Resilience of Emergency Organization within Emergency Response Plan: An Adaptive Simulation Perspective** <br>
 
