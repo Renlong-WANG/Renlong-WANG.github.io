@@ -39,14 +39,14 @@ title: Working Paper
 
 ## To Do List in 2024
 
-# Theoretical Work
+### Theoretical Work in Methodology
 
 - **A Generalized Ordinal Priority Approach (GOPA) for Multi-Attribute Decision-Making**<br>
 
 - **Stochastic Acceptability Analysis in Partial Ordinal Priority Approach** <br>
 
 
-# Applied work
+### Applied Work in Methodology
 
 - **Managing Overlapping and Functional Interaction in Emergency Response Operations under Resource-Constrained Environment**<br>
 
