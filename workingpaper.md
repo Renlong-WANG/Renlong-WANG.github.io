@@ -45,6 +45,7 @@ title: Working Paper
 
 - **Stochastic Acceptability Analysis in Partial Ordinal Priority Approach** <br>
 
+- **Choquet Integral-Based Ordinal Priority Approach Incorporating Criteria Interaction in Multi-Attribute Decision-Making** <br>
 
 ### Applied Work in Methodology
 
