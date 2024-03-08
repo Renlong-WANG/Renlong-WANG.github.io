@@ -43,7 +43,7 @@ title: Working Paper
 
 - **A Generalized Ordinal Priority Approach (GOPA) for Multi-Attribute Decision-Making**<br>
 
-- **Stochastic Acceptability Analysis in Partial Ordinal Priority Approach** <br>
+- **A Stochastic Acceptability Analysis in Partial Ordinal Priority Approach** <br>
 
 - **Choquet Integral-Based Ordinal Priority Approach Incorporating Criteria Interaction in Multi-Attribute Decision-Making** <br>
 
