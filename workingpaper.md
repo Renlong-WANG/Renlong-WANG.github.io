@@ -51,11 +51,11 @@ title: Working Paper
 
 ### Applied Work in Methodology
 
-- **Managing Overlapping and Functional Interaction in Emergency Response Operations under Resource-Constrained Environment**<br>
-
 - **Evaluating Emergency Supplier Development Programs Based on a Novel Robust Ordinal Priority Approach**<br>
 
 - **Adopting Blockchain Technology for the Humanitarian Operations Management: Evaluating the Barriers Using Grey Partial Ordinal Priority Approach**<br>
+
+- **Managing Overlapping and Functional Interaction in Emergency Response Operations under Resource-Constrained Environment**<br>
 
 - **A Meta-Network-Based Framework for Quantifying the Resilience of Emergency Organization within Emergency Response Plan: An Adaptive Simulation Perspective** <br>
 
