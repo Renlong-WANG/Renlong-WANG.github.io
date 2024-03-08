@@ -45,7 +45,7 @@ title: Working Paper
 
 - **Stochastic Acceptability Analysis in Partial Ordinal Priority Approach** <br>
 
-- **Portfolio Decision Analysis through Submodular Optimization Based on Partial Ordinal Priority Approach** <br>
+- **Portfolio Decision Analysis with Submodular Optimization in Partial Ordinal Priority Approach** <br>
 
 - **A Choquet Integral-Based Ordinal Priority Approach Incorporating Criteria Interaction in Multi-Attribute Decision-Making** <br>
 
