@@ -19,5 +19,6 @@ title: Conference Presentations
 ## Professional Services
 
 - Review for Transportation Research Part E: Logistics and Transportation (1 time, 2023)
+- Review for Chinese Journal of Management Science (1 time, 2024)
 
 ---
