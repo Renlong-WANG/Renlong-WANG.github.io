@@ -11,6 +11,7 @@ title: Publications
 (* Corresponding Author; # Co-first Author)
 <br>
 
+- **Partial Ordinal Priority Approach in Multi-Attribute Decision-Making （In Chinese）** <br>**Renlong Wang**, Rui Shen, Hong Chi, and Mingang Gao *<br>Chinese Journal of Management Science (中国管理科学, CSSCI, A-Tier Journal of NSFC) <br> Accept: 2024-03-12
 
 - **[<font color='#3366CC'>A Novel Cost Analysis Method for Accelerator Driven Advanced Nuclear Energy System (ADANES) Considering Uncertainty Throughout the R&D Cycle</font>](https://doi.org/10.1016/j.apenergy.2024.122822)** <br> Zhen Li, Mingliang Qi, **Renlong Wang**, Mingang Gao *, Xuesong Yan, and Yangyang Yang <br> Applied Energy (SCI-JCR-Q1) <br>2024-02-06: https://doi.org/10.1016/j.apenergy.2024.122822, [PDF](https://Renlong-WANG.github.io/file/Li 等 - 2024 - A novel cost analysis method for accelerator drive.pdf) 🔗
 
