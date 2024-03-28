@@ -26,7 +26,7 @@ title: Working Paper
 
 ## Work in Progress
 
-- **Local Government Competition and Carbon Emission Efficiency in China’s Agriculture Sector: A Novel SBM-OPA Approach with Policy Preference** <br> (Corresponding Author, with Shutian Cui)
+- **A Novel δ-SBM-OPA Approach for Policy-Driven Analysis of Carbon Emission Efficiency in China’s Industrial Sector** <br> (Corresponding Author, with Shutian Cui and Xiaoyan Li)
 
 - **A Generalized Ordinal Priority Approach for Multi-Attribute Decision-Making** <br> (First and Corresponding Author, with Fengjing Zhu)
 
