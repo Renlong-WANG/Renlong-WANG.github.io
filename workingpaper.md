@@ -26,7 +26,7 @@ title: Working Paper
 
 ## Work in Progress
 
-- **A Novel δ-SBM-OPA Approach for Policy-Driven Analysis of Carbon Emission Efficiency in China’s Industrial Sector** <br> (Corresponding Author, with Shutian Cui and Xiaoyan Li)
+- **A Novel $\delta$-SBM-OPA Approach for Policy-Driven Analysis of Carbon Emission Efficiency in China’s Industrial Sector** <br> (Corresponding Author, with Shutian Cui and Xiaoyan Li)
 
 - **A Generalized Ordinal Priority Approach for Multi-Attribute Decision-Making** <br> (First and Corresponding Author, with Fengjing Zhu)
 
