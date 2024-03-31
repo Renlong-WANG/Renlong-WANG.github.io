@@ -36,7 +36,7 @@ title: Working Paper
 
 ## To Do List
 
-### Ordinal Priority Approach/Partial Ordinal Priority Approach in Multi-Attribute Decision-Making
+### Partial Ordinal Priority Approach in Multi-Attribute Decision-Making
 
 - **Dominant Intensity Measure in Partial Ordinal Priority Approach** <br>
 
