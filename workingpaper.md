@@ -36,7 +36,7 @@ title: Working Paper
 
 ## To Do List
 
-### Theoretical Work in Methodology
+### Ordinal Priority Approach/Partial Ordinal Priority Approach in Multi-Attribute Decision-Making
 
 - **Dominant Intensity Measure in Partial Ordinal Priority Approach** <br>
 
@@ -46,7 +46,7 @@ title: Working Paper
 
 - **A Choquet Integral-Based Ordinal Priority Approach Incorporating Criteria Interaction in Multi-Attribute Decision-Making** <br>
 
-### Applied Work in Methodology
+### Meta-Network Analysis in Emergency Management
 
 - **A Meta-Network-Based Framework for Quantifying the Resilience of Emergency Organization within Emergency Response Plan: An Adaptive Simulation Perspective** <br>
 
