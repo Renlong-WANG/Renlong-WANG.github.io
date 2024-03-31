@@ -16,7 +16,7 @@ title: Working Paper
 
 - **[<font color='#3366CC'>A Novel Multi-Attribute Decision-Making Approach for Improvisational Emergency Supplier Selection: Partial Ordinal Priority Approach</font>](http://dx.doi.org/10.2139/ssrn.4708945)** <br>**Renlong Wang**, Rui Shen, Hong Chi, Xueyan Shao, and Mingang Gao *<br>Expert System with Applications (SCI-JCR-Q1) <br>Status: Under First Round of Review <br>Preprint Version: http://dx.doi.org/10.2139/ssrn.4708945, [PDF](https://Renlong-WANG.github.io/file/Wang 等 - 2024 - A Novel Multi-Attribute Decision-Making Approach f.pdf) 🔗
 
-- **Nuclear Energy Technology R&D Portfolio Selection: A Robust MADM Approach Considering Scenario Uncertainty and Expert Consensus**<br>**Renlong Wang** *, Shutian Cui, Fengjing Zhu, Mingang Gao * <br>Status: Pending Submission
+- **Nuclear Energy Technology R&D Portfolio Selection under Scenario Uncertainty: Robust Partial Ordinal Priority approach**<br>**Renlong Wang** *, Shutian Cui, Fengjing Zhu, Mingang Gao * <br>Status: Pending Submission
 
 - **A Meta-Network-Based Framework for Identifying Heterogeneous Collaboration across Emergency Organizations within Emergency Response Plans** <br>**Renlong Wang** #, Cheng Jiang #, Mingang Gao, and Xueyan Shao * <br>Status: Pending Submission
 
@@ -47,8 +47,6 @@ title: Working Paper
 - **A Choquet Integral-Based Ordinal Priority Approach Incorporating Criteria Interaction in Multi-Attribute Decision-Making** <br>
 
 ### Applied Work in Methodology
-
-- **Evaluating Emergency Supplier Development Programs Based on Robust Ordinal Priority Approach**<br>
 
 - **A Meta-Network-Based Framework for Quantifying the Resilience of Emergency Organization within Emergency Response Plan: An Adaptive Simulation Perspective** <br>
 
