@@ -10,7 +10,6 @@ title: Working Paper
 (* Corresponding Author; # Co-first Author)
 <br>
 
-- **Collaboration-Based Meta-Network Modeling for Data Governance Capacity Optimization in Port Logistics** <br>**Renlong Wang**, Tang Jia, Shutian Cui, Endong Wang, and Mingang Gao*<br> International Journal of Logistics Research and Applications (SSCI-JCR-Q2) <br>Status: Major Revision, Under Third Round of Review
 
 - **A Hybrid MADM Method Considering Expert Consensus for Emergency Recovery Plan Selection: Dynamic Grey Relation Analysis and Partial Ordinal Priority Approach** <br>**Renlong Wang** * <br> Information Sciences (SCI-JCR-Q1) <br>Status: Minor Revision, Under Third Round of Review
 
