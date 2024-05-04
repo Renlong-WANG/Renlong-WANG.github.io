@@ -19,6 +19,8 @@ title: Working Paper
 
 - **A Meta-Network-Based Framework for Identifying Heterogeneous Collaboration across Emergency Organizations within Emergency Response Plans** <br>**Renlong Wang** #, Cheng Jiang #, Mingang Gao, and Xueyan Shao * <br>Status: Pending Submission
 
+- **Optimizing Port Logistics Data Governance Capacity through a Governance Mechanism Perspective: a Collaboration-Based Meta-Network Modeling Approach** <br>**Renlong Wang**, Jia Tang, Shutian Cui, Endong Wang, and Mingang Gao * <br>Status: Pending Submission
+
   <br>
 
 ---
@@ -27,7 +29,7 @@ title: Working Paper
 
 - **A Novel δ-SBM-OPA Approach for Policy-Driven Analysis of Carbon Emission Efficiency in China’s Industrial Sector** <br> (with Shutian Cui and Xiaoyan Li)
 
-- **A Generalized Ordinal Priority Approach for Multi-Attribute Decision-Making** <br> (with Fengjing Zhu)
+- **A Generalized Ordinal Priority Approach for Multi-Attribute Decision-Making** <br> (Sole Author)
 
   <br>
 
