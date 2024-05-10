@@ -29,7 +29,7 @@ title: Working Paper
 
 - **A Novel δ-SBM-OPA Approach for Policy-Driven Analysis of Carbon Emission Efficiency in China’s Industrial Sector** <br> (with Shutian Cui and Xiaoyan Li)
 
-- **Nuclear Energy Technology R&D Portfolio Selection under Scenario Uncertainty: Robust Partial Ordinal Priority approach** <br> (with Shutian Cui, Fengjing Zhu, and Mingang Gao)
+- **Nuclear Energy Technology R&D Portfolio Selection under Uncertainty: Scenario-Based Robust Partial Ordinal Priority approach** <br> (with Shutian Cui, Fengjing Zhu, and Mingang Gao)
 
   <br>
 
