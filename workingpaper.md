@@ -17,9 +17,9 @@ title: Working Paper
 
 - **Nuclear Energy Technology R&D Portfolio Selection under Scenario Uncertainty: Robust Partial Ordinal Priority approach**<br>**Renlong Wang** *, Shutian Cui, Fengjing Zhu, Mingang Gao * <br>Status: Pending Submission
 
-- **A Meta-Network-Based Framework for Identifying Heterogeneous Collaboration across Emergency Organizations within Emergency Response Plans** <br>**Renlong Wang** #, Cheng Jiang #, Mingang Gao, and Xueyan Shao * <br>Status: Pending Submission
+- **A Meta-Network-Based Framework for Identifying Heterogeneous Collaboration across Emergency Organizations within Emergency Response Plans** <br>**Renlong Wang**, Cheng Jiang *, and Xueyan Shao * <br>Status: Pending Submission
 
-- **Optimizing Port Logistics Data Governance Capacity through a Governance Mechanism Perspective: a Collaboration-Based Meta-Network Modeling Approach** <br>**Renlong Wang**, Jia Tang, Shutian Cui, Endong Wang, and Mingang Gao * <br>Status: Pending Submission
+- **Optimizing Port Logistics Data Governance Capacity through a Governance Mechanism Perspective: a Collaboration-Based Meta-Network Modeling Approach** <br>**Renlong Wang**, Endong Wang * <br>Status: Pending Submission
 
   <br>
 
