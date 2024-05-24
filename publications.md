@@ -10,7 +10,6 @@ title: Publications
 ## Journal Paper
 (* Corresponding Author; # Co-first Author)
 <br>
-<be>
 
 - **A Hybrid MADM Method Considering Expert Consensus for Emergency Recovery Plan Selection: Dynamic Grey Relation Analysis and Partial Ordinal Priority Approach** <br>**Renlong Wang** <be> Information Sciences (SCI-JCR-Q1) <br> Accept: 2024-05-24
 
