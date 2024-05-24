@@ -9,7 +9,9 @@ title: Publications
 
 ## Journal Paper
 (* Corresponding Author; # Co-first Author)
-<br>
+<be>
+
+- **A Hybrid MADM Method Considering Expert Consensus for Emergency Recovery Plan Selection: Dynamic Grey Relation Analysis and Partial Ordinal Priority Approach** <br>**Renlong Wang** * <br> Information Sciences (SCI-JCR-Q1) <br> Accept: 2024-05-24
 
 - **Partial Ordinal Priority Approach in Multi-Attribute Decision-Making （In Chinese）** <br>**Renlong Wang**, Rui Shen, Hong Chi, and Mingang Gao *<br>Chinese Journal of Management Science (中国管理科学, CSSCI) <br> Accept: 2024-03-12
 
