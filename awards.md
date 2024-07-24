@@ -24,7 +24,7 @@ As a team leader, I lead the team in various mathematical contest in modeling an
 
 ## Honors
 
-- 2024 School-level Merit Student of University of Chinese Academy of Sciences
-- 2023 Distinguished Graduates in Civil Engineering from Jiangsu Universities and Colleges
+- Jul. 2024: School-level Merit Student of University of Chinese Academy of Sciences
+- Jun. 2023: Distinguished Graduates in Civil Engineering from Jiangsu Universities and Colleges
 
 ---
