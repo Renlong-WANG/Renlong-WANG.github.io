@@ -11,7 +11,7 @@ title: Publications
 (* Corresponding Author; # Co-first Author)
 <br>
 
-- **Generalized Ordinal Priority Approach for Multi-Attribute Decision-Making under Incomplete Preference Information** <br> **Renlong Wang (Sole Author)** <br> European Journal of Operational Research <br> Under the First Round Review. <br>Preprint Version:
+- **Generalized Ordinal Priority Approach for Multi-Attribute Decision-Making under Incomplete Preference Information** <br> **Renlong Wang (Sole Author)** <br> European Journal of Operational Research <br> Under the First Round Review <br>Preprint Version:
 
 - **[<font color='#3366CC'>A Hybrid MADM Method Considering Expert Consensus for Emergency Recovery Plan Selection: Dynamic Grey Relation Analysis and Partial Ordinal Priority Approach</font>](https://doi.org/10.1016/j.ins.2024.120784)** <br>**Renlong Wang** <br> Information Sciences <br> Accept: 2024-05-24: https://doi.org/10.1016/j.ins.2024.120784 , [PDF](https://Renlong-WANG.github.io/file/Wang - 2024 - A hybrid MADM method considering expert consensus .pdf) 🔗
 
