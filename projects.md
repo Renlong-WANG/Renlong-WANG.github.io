@@ -34,3 +34,23 @@ title: Projects
 <br>
 
 ---
+
+## To Do List
+
+### Partial Ordinal Priority Approach in Multi-Attribute Decision-Making
+
+- **Dominant Intensity Measure in Partial Ordinal Priority Approach** <br>
+
+- **Stochastic Acceptability Analysis in Partial Ordinal Priority Approach**<br>
+
+- **Portfolio Decision Analysis with Submodular Optimization in Partial Ordinal Priority Approach** <br>
+
+- **A Choquet Integral-Based Ordinal Priority Approach Incorporating Criteria Interaction in Multi-Attribute Decision-Making** <br>
+
+### Meta-Network Analysis in Emergency Management
+
+- **A Meta-Network-Based Framework for Quantifying the Resilience of Emergency Organization within Emergency Response Plan: An Adaptive Simulation Perspective** % <br>
+
+- **A Meta-Network-Based Framework for Optimizing Emergency Organizational Structure from the Collaborative Resilience Perspective** <br>
+
+<br>
