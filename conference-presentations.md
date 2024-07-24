@@ -9,9 +9,9 @@ title: Conference Presentations
 
 - **2023 International Symposium on Emergency Management** (Nov. 2023) <br> **Organizer**: Chinese Society of Optimization, Overall Planning and Economic Mathematics <br>**Debriefing on the topic:** Analyzing Heterogeneous Collaboration within Emergency Organizations Based on Emergency Response Plans: a Meta-Network Modeling Framework<br> **Award:** Best Student Paper Award
 
-- **2023 (25th) Annual Conference on Management Science in China** (Oct. 2023)<br> **Organizer**: Chinese Society of Optimization, Overall Planning and Economic Mathematics <br>**Debriefing on the topic:** Partial Ordinal Priority Method in Multi-attribute Decision-making
+- **2023 (25th) Annual Conference on Management Science in China** (Oct. 2023)<br> **Organizer**: Chinese Society of Optimization, Overall Planning and Economic Mathematics <br>**Debriefing on the topic:** Partial Ordinal Priority Approach in Multi-attribute Decision-making
 
-- **2023 POMS Summer School in China** (Aug. 2023) <br> **Organizer**: Production and Operations Management Society (POMS) <br>**Debriefing on the topic:** A Novel Multi-Attribute Decision-Making Method for Emergency Supplier Selection under Improvisational Decision-Making Scenario: Partial Ordinal Priority Approach<br> **Award:** Best Student Paper Award
+- **2023 POMS Summer School in China** (Aug. 2023) <br> **Organizer**: Production and Operations Management Society (POMS) <br>**Debriefing on the topic:**Multi-Attribute Decision-Making for Improvisational Emergency Supplier Selection: Partial Ordinal Priority Approach <br> **Award:** Best Student Paper Award
 <br>
 
 ---
