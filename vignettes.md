@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /vignettes/index.html
-title: Vignettes
+title: Vignette
 ---
 
 ## Memorable Moments
