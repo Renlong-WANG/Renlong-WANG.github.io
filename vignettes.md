@@ -7,7 +7,7 @@ title: Vignette
 ## Memorable Moments
 
 
-#### 2024 Stochastic Modeling and Optimization taught by Prof. Francisco Saldanha da Gama at Sheffield University Management School (Beijing, China)
+#### 2024 Stochastic Modeling and Optimization by Prof. Francisco Saldanha da Gama (Beijing, China)
 
 <img src="{{ site.url }}/images/SMO23.jpg" width="500" height="360">
 
