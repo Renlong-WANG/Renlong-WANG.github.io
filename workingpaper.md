@@ -6,11 +6,13 @@ title: Working Paper
 
 
 
-## Working Paper
+## Preprints
 (* Corresponding Author; # Co-first Author)
 <br>
 
-- **[<font color='#3366CC'>A Novel Multi-Attribute Decision-Making Approach for Improvisational Emergency Supplier Selection: Partial Ordinal Priority Approach</font>](http://dx.doi.org/10.2139/ssrn.4708945)** <br>**Renlong Wang**, Rui Shen, Hong Chi, Xueyan Shao, and Mingang Gao *<br>Expert System with Applications (SCI-JCR-Q1) <br>Status: Major Revision, With Editor <br>Preprint Version: http://dx.doi.org/10.2139/ssrn.4708945, [PDF](https://Renlong-WANG.github.io/file/Wang 等 - 2024 - A Novel Multi-Attribute Decision-Making Approach f.pdf) 🔗
+- **Generalized Ordinal Priority Approach for Multi-Attribute Decision-Making under Incomplete Preference Information** <br> **Renlong Wang (Sole Author)** <br> European Journal of Operational Research <br>Status: Under the First Round Review. <br>Preprint Version:
+
+- **[<font color='#3366CC'>A Novel Multi-Attribute Decision-Making Approach for Improvisational Emergency Supplier Selection: Partial Ordinal Priority Approach</font>](http://dx.doi.org/10.2139/ssrn.4708945)** <br>**Renlong Wang**, Rui Shen, Hong Chi, Xueyan Shao, and Mingang Gao *<br>Expert System with Applications <br>Status: Major Revision, Under the Second Round Review <br>Preprint Version: http://dx.doi.org/10.2139/ssrn.4708945, [PDF](https://Renlong-WANG.github.io/file/Wang 等 - 2024 - A Novel Multi-Attribute Decision-Making Approach f.pdf) 🔗
 
 - **A Meta-Network-Based Framework for Identifying Heterogeneous Collaboration across Emergency Organizations within Emergency Response Plans** <br>**Renlong Wang**, Cheng Jiang *, and Xueyan Shao * <br>Status: Pending Submission
 
@@ -20,7 +22,11 @@ title: Working Paper
 
 ---
 
-## Work in Progress
+## Work-in-Progress
+
+- **A Meta-Network-Based Framework for Identifying Heterogeneous Collaboration across Emergency Organizations within Emergency Response Plans** <br>**Renlong Wang**, Cheng Jiang *, and Xueyan Shao * <br>Status: Pending Submission
+
+- **Optimizing Port Logistics Data Governance Capacity through a Governance Mechanism Perspective: a Collaboration-Based Meta-Network Modeling Approach** <br>**Renlong Wang**, Endong Wang * <br>Status: Pending Submission
 
 - **A Generalized Ordinal Priority Approach for Multi-Attribute Decision-Making** <br> (Sole Author)
 
@@ -32,24 +38,24 @@ title: Working Paper
 
 ---
 
-## To Do List
+%% ## To Do List
 
-### Partial Ordinal Priority Approach in Multi-Attribute Decision-Making
+%% ### Partial Ordinal Priority Approach in Multi-Attribute Decision-Making
 
-- **Dominant Intensity Measure in Partial Ordinal Priority Approach** <br>
+%% - **Dominant Intensity Measure in Partial Ordinal Priority Approach** <br>
 
-- **Stochastic Acceptability Analysis in Partial Ordinal Priority Approach**<br>
+%% - **Stochastic Acceptability Analysis in Partial Ordinal Priority Approach**<br>
 
-- **Portfolio Decision Analysis with Submodular Optimization in Partial Ordinal Priority Approach** <br>
+%% - **Portfolio Decision Analysis with Submodular Optimization in Partial Ordinal Priority Approach** <br>
 
-- **A Choquet Integral-Based Ordinal Priority Approach Incorporating Criteria Interaction in Multi-Attribute Decision-Making** <br>
+%% - **A Choquet Integral-Based Ordinal Priority Approach Incorporating Criteria Interaction in Multi-Attribute Decision-Making** <br>
 
-### Meta-Network Analysis in Emergency Management
+%% ### Meta-Network Analysis in Emergency Management
 
-- **A Meta-Network-Based Framework for Quantifying the Resilience of Emergency Organization within Emergency Response Plan: An Adaptive Simulation Perspective** <br>
+%% - **A Meta-Network-Based Framework for Quantifying the Resilience of Emergency Organization within Emergency Response Plan: An Adaptive Simulation Perspective** % <br>
 
-- **A Meta-Network-Based Framework for Optimizing Emergency Organizational Structure from the Collaborative Resilience Perspective** <br>
+%% - **A Meta-Network-Based Framework for Optimizing Emergency Organizational Structure from the Collaborative Resilience Perspective** <br>
 
-  <br>
+%%   <br>
 
 ---
