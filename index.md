@@ -9,13 +9,13 @@ Here is **Renlong Wang (王人龙)**.
 
 I am a first-year graduate student majoring in **Industrial Engineering** at the **University of Chinese Academy of Sciences** (UCAS). I am now advised by Professor **Hong CHI** (President of Chinese Society of Optimization, Overall Planning and Economic Mathematics). I received my B.S. in Civil Engineering from the Nanjing Tech University (NJTECH) in 2023.
 
-My current research focuses on decision analytics problems encountered in real-world emergency management scenarios. My interests are on the **multi-attribute utility theroy**, **individual preference**, **multi-attribute decision-making**, and **robust optimization** and its applications in **Humanitarian Operations Management** under uncertainty environment.
+My current research focuses on decision analytics problems encountered in real-world emergency management scenarios. My interests are on the **preference robust optimization**， **multi-attribute utility theroy**, and **decision analysis and behavioral economics**, which are associated with ambiguity in decision maker’s utility preference.
 - Decision Analytics and Optimization under Uncertainty
+- Preference Robust Optimization
 - Multi-Attribute Decision-Making
-- Humanitarian Operations Management
 <br>
 
-**<font color='red'>[Highlight]</font> I am looking for PhD position in Decision Analytics or Operations Management to start in 2026 Fall. Contact me if you have any leads!**
+**<font color='red'>[Highlight]</font> I am looking for PhD position in Operations Research, Decision Analytics or Operations Management to start in 2026 Fall. Contact me if you have any leads!**
 
 <br>
 ---
@@ -23,9 +23,9 @@ My current research focuses on decision analytics problems encountered in real-w
 ## Education Background
 
 
-- **Sep. 2023 - Jun. 2026:** Master in Industrial Engineering, University of Chinese Academy of Sciences <br> **Major Cources:** Operations Research; Stochastic Operations Research; Convex Analysis and Optimization; Robust Optimization; Applied Statistics; Introduction of Game Theory; Quantitative Anaysis: Model and Method; Engineering System Modeling and Simulation; Modeling and Analysis of Complex Emergency Systems
+- **Sep. 2023 - Jun. 2026:** Master of Industrial Engineering, University of Chinese Academy of Sciences <br> **Major Cources:** Operations Research; Stochastic Operations Research; Convex Analysis and Optimization; Applied Statistics; Stochastic Modeling and Optimization; Robust Optimization; Introduction of Game Theory; Sensibility and Decision-Making; Quantitative Anaysis: Model and Method; Engineering System Modeling and Simulation
 
-- **Sep. 2019 - Jun. 2023:** Bachelor in Civil Engineering, Nanjing Tech University <br>2023 Outstanding Graduates in Civil Engineering of Jiangsu Universities and Colleges
+- **Sep. 2019 - Jun. 2023:** Bachelor of Civil Engineering, Nanjing Tech University <br>2023 Distinguished Graduates in Civil Engineering from Jiangsu Universities and Colleges
 <br>
 
 ---
