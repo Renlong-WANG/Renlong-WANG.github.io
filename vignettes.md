@@ -31,14 +31,6 @@ Wuhan, China; Nov. 2023
 
 <br> 
 
-####2023 (25th) Annual Conference on Management Science in China
-
-Wuhan, China; Oct. 2023
-
-<img src="{{ site.url }}/images/MS23.jpg" width="500" height="360">
-
-<br> 
-
 #### 2023 (25th) Annual Conference on Management Science in China
 
 Wuhan, China; Oct. 2023
