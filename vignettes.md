@@ -7,7 +7,7 @@ title: Vignette
 ## Memorable Moments
 
 
-#### 2024 Stochastic Modeling and Optimization by Prof. Francisco Saldanha da Gama (Beijing, China)
+#### 2024 Summer Course: Stochastic Modeling and Optimization by Prof. Francisco Saldanha da Gama (Beijing, China)
 
 <img src="{{ site.url }}/images/SMO23.jpg" width="500" height="360">
 
