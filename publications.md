@@ -10,6 +10,8 @@ title: Publications
 (* Corresponding Author; # Co-first Author)
 <br>
 
+- **[<font color='#3366CC'>A Novel δ-SBM-OPA Approach for Policy-Driven Analysis of Carbon Emission Efficiency under Uncertainty in the Chinese Industrial Sector</font>](https://arxiv.org/abs/2408.11600)** <br> Shutian Cui, **Renlong Wang** *, and Xiaoyan Li * <br> Journal of Environmental Management <br> With editor <br> Preprint Version: https://arxiv.org/abs/2408.11600, [PDF](https://Renlong-WANG.github.io/file/Cui 等 - A Novel δ-SBM-OPA Approach for Policy-Driven Analy.pdf) 🔗
+
 - **[<font color='#3366CC'>Generalized Ordinal Priority Approach for Multi-Attribute Decision-Making under Incomplete Preference Information</font>](https://arxiv.org/abs/2407.17099)** <br>**Renlong Wang**  (Sole Author) <br> European Journal of Operational Research <br> Under the First Round Review <br> Preprint Version: http://arxiv.org/abs/2407.17099, [PDF](https://Renlong-WANG.github.io/file/Wang - 2024 - Generalized Ordinal Priority Approach for Multi-At.pdf) 🔗
 
 - **[<font color='#3366CC'>A Hybrid MADM Method Considering Expert Consensus for Emergency Recovery Plan Selection: Dynamic Grey Relation Analysis and Partial Ordinal Priority Approach</font>](https://doi.org/10.1016/j.ins.2024.120784)** <br>**Renlong Wang**  (Sole Author) <br> Information Sciences <br> Accept: 2024-05-24: https://doi.org/10.1016/j.ins.2024.120784 , [PDF](https://Renlong-WANG.github.io/file/Wang - 2024 - A hybrid MADM method considering expert consensus .pdf) 🔗
