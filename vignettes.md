@@ -8,7 +8,7 @@ title: Vignette
 
 #### 2024 POMS Summer School in China at Dalian, China
 
-<img src="{{ site.url }}/images/POMS24.jpg" width="500" height="360">
+<img src="{{ site.url }}/images/POM24.jpg" width="500" height="360">
 
 <br>
 
