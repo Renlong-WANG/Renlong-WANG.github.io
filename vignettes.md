@@ -6,6 +6,11 @@ title: Vignette
 
 ## Memorable Moments
 
+#### 2024 POMS Summer School in China at Dalian, China
+
+<img src="{{ site.url }}/images/POMS23.jpg" width="500" height="360">
+
+<br>
 
 #### 2024 Summer Course of Stochastic Modeling and Optimization by Prof. Francisco Saldanha da Gama at Beijing, China
 
