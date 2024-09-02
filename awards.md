@@ -10,7 +10,7 @@ As a team leader, I lead the team in various mathematical contest in modeling an
 - Apr. 2022：First Prize of “Certificate Authority Cup” Mathematics China Mathematical Modeling Cyber Challenge
 - Feb. 2022：**Outstanding Winner Prize of American Undergraduate Mathematical Contest in Modeling (International Level Authoritative Competition)** <br>(Top 0.16% among 27,205 teams, America’s highest award for the undergraduate mathematical contest in modeling.)
 - Feb. 2022：**SIAM Award of American Undergraduate Mathematical Contest in Modeling**<br>(Six teams worldwide designated by The Society for Industrial and Applied Mathematics (SIAM).)
-- Sep. 2021：**First Prize of Contemporary Undergraduate Mathematical Contest in Modeling (National Level Authoritative Competition)**<br>(Top 0.65% among 27,205 teams, China’s highest award for the undergraduate mathematical contest in modeling.)
+- Sep. 2021：**First Prize of Contemporary Undergraduate Mathematical Contest in Modeling (National Level Authoritative Competition)**<br>(Top 0.65% among 45,075 teams, China’s highest award for the undergraduate mathematical contest in modeling.)
 - Aug. 2021：First Prize of "Huashu Cup" Chinese Mathematical Contest in Modeling
 <br>
 
