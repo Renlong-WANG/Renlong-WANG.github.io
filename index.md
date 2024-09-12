@@ -11,7 +11,6 @@ I am a first-year graduate student majoring in **Industrial Engineering** at the
 
 My current research focuses on developing new methods span the **contextual optimization**， **preference robust optimization**, and **multi-attribute utility theroy**, which are associated with ambiguity in decision maker’s utility preference.
 - Decision-Making under Uncertainty
-- Contextual Optimization
 - Preference Robust Optimization
 - Multi-Attribute Decision-Making
 <br>
