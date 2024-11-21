@@ -15,7 +15,7 @@ title: Conference Presentations
 
 - **2023 (25th) Annual Conference on Management Science in China** (Oct. 2023; Wuhan, China)<br> **Organizer**: Chinese Society of Optimization, Overall Planning and Economic Mathematics <br>**Debriefing on the topic:** Partial Ordinal Priority Approach in Multi-attribute Decision-making
 
-- **2023 POMS Summer School in China** (Aug. 2023; Dalian, China) <br> **Organizer**: Production and Operations Management Society (POMS) <br>**Debriefing on the topic:**Multi-Attribute Decision-Making for Improvisational Emergency Supplier Selection: Partial Ordinal Priority Approach <br> **Award:** Excellent Paper Award
+- **2023 POMS Summer School in China** (Aug. 2023; Dalian, China) <br> **Organizer**: Production and Operations Management Society (POMS) <br>**Debriefing on the topic:** Multi-Attribute Decision-Making for Improvisational Emergency Supplier Selection: Partial Ordinal Priority Approach <br> **Award:** Excellent Paper Award
 <br>
 
 ---
