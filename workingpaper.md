@@ -10,10 +10,11 @@ title: Working Paper
 
 <!-- - **Optimizing Port Logistics Data Governance Capacity through a Governance Mechanism Perspective: a Collaboration-Based Meta-Network Modeling Approach** <br>with Endong Wang <br>Pending Submission -->
 
-- **Non-Additive Preference Robust Contextual Optimization with Choquet Rational for Multi-Attribute Decision-Making** <br> Solo-in-Progress
+- **Non-Additive Preference Robust Bilevel Optimization with Choquet Rational for Multi-Attribute Decision-Making** <br> Solo-in-Progress
 
-- **Robust Ordinal Priority Approach and Satisficing Extension for Multi-Attribute Decision-Making with Incomplete Information** <br> Solo-in-Progress
+- **Globalized Preference Robust Optimization under Model Misspecification for Group Decision-Making** <br> Solo-in-Progress
 
+- **A Dynamic Metanetwork-Based Decision Support System for Evaluating Emergency Response with Nonlinear Utility and Inter-Organizational Collaboration** <br> With Jingyao Yue & Mingang Gao
   <br>
 
 ---
