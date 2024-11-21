@@ -9,10 +9,10 @@ Here is **Renlong Wang (王人龙)**.
 
 I am a first-year graduate student majoring in **Industrial Engineering** at the **University of Chinese Academy of Sciences** (UCAS). I am now advised by Professor **Hong CHI** (President of Chinese Society of Optimization, Overall Planning and Economic Mathematics). I received my B.S. in Civil Engineering from the Nanjing Tech University (NJTECH) in 2023.
 
-My current research focuses on developing new methods span the **contextual optimization**， **preference robust optimization**, and **multi-attribute utility theroy**, which are associated with ambiguity in decision maker’s utility preference.
-- Decision-Making under Uncertainty
-- Preference Robust Optimization
-- Multi-Attribute Decision-Making
+My current research focuses on developing new methods span the **contextual optimization**, **preference robust optimization**, **preference learning**, and **multi-attribute group decision-making**, which are associated with ambiguity in decision maker’s utility preference.
+- Decision-Making under Parametric and Preference Uncertainty
+- Preference Robust Optimization and Preference Learning
+- Multi-Attribute Group Decision-Making
 <br>
 
 **<font color='red'>[Highlight]</font> I am looking for PhD position in Operations Research, Decision Analytics or Operations Management to start in 2026 Fall. Contact me if you have any leads!**
