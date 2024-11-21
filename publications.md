@@ -10,6 +10,8 @@ title: Publications
 (* Corresponding Author; # Co-first Author)
 <br>
 
+- **Preference Robust Ordinal Priority Approach and its Satisficing Extension for Multi-Attribute Decision-Making under Incomplete Preference Information** <br>**Renlong Wang** *<br> To be submitted to European Journal of Operational Research
+
 - **[<font color='#3366CC'>A Novel δ-SBM-OPA Approach for Policy-Driven Analysis of Carbon Emission Efficiency under Uncertainty in the Chinese Industrial Sector</font>](https://arxiv.org/abs/2408.11600)** <br> Shutian Cui, **Renlong Wang** *, and Xiaoyan Li * <br> Journal of Environmental Management <br> With editor <br> Preprint Version: https://arxiv.org/abs/2408.11600, [PDF](https://Renlong-WANG.github.io/file/Cui 等 - A Novel δ-SBM-OPA Approach for Policy-Driven Analy.pdf) 🔗
 
 - **[<font color='#3366CC'>Generalized Ordinal Priority Approach for Multi-Attribute Decision-Making under Incomplete Preference Information</font>](https://arxiv.org/abs/2407.17099)** <br>**Renlong Wang**  (Sole Author) <br> European Journal of Operational Research <br> Under the First Round Review <br> Preprint Version: http://arxiv.org/abs/2407.17099, [PDF](https://Renlong-WANG.github.io/file/Wang - 2024 - Generalized Ordinal Priority Approach for Multi-At.pdf) 🔗
