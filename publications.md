@@ -10,7 +10,7 @@ title: Publications
 (* Corresponding Author; # Co-first Author)
 <br>
 
-- **[<font color='#3366CC'>*Preference Robust Ordinal Priority Approach and its Satisficing Extension for Multi-Attribute Decision-Making under Incomplete Preference Information</font>](https://arxiv.org/abs/2412.12690)**  <br>**Renlong Wang** (Sole Author) <br> European Journal of Operational Research <br> Under the first-round review <br> Preprint Version: https://arxiv.org/abs/2412.12690, [PDF](https://Renlong-WANG.github.io/file/Wang - 2024 - Preference Robust Ordinal Priority Approach and it.pdf) 🔗
+- **[<font color='#3366CC'>Preference Robust Ordinal Priority Approach and its Satisficing Extension for Multi-Attribute Decision-Making under Incomplete Preference Information</font>](https://arxiv.org/abs/2412.12690)**  <br>**Renlong Wang** (Sole Author) <br> European Journal of Operational Research <br> Under the first-round review <br> Preprint Version: https://arxiv.org/abs/2412.12690, [PDF](https://Renlong-WANG.github.io/file/Wang - 2024 - Preference Robust Ordinal Priority Approach and it.pdf) 🔗
 
 - **[<font color='#3366CC'>A Novel δ-SBM-OPA Approach for Policy-Driven Analysis of Carbon Emission Efficiency under Uncertainty in the Chinese Industrial Sector</font>](https://arxiv.org/abs/2408.11600)** <br> Shutian Cui, and **Renlong Wang** *, and Xiaoyan Li * <br> Energy <br> Under the first-round review <br> Preprint Version: https://arxiv.org/abs/2408.11600, [PDF](https://Renlong-WANG.github.io/file/Cui 等 - A Novel δ-SBM-OPA Approach for Policy-Driven Analy.pdf) 🔗
 
