@@ -18,6 +18,7 @@ As a team leader, I lead the team in various mathematical contest in modeling an
 
 ## Awards
 
+- Dec. 2024: Excellent Paper Award of 2024 University of Chinese Academy of Sciences Graduate Student Forum--Academic Sub-forum on Economics and Management
 - Nov. 2024：Best Paper First Prize of 2024 International Symposium on Emergency Management
 - Aug. 2024：Excellent Paper Award of 2024 POMS Summer School in China
 - Nov. 2023：Best Paper Third Prize of 2023 International Symposium on Emergency Management
