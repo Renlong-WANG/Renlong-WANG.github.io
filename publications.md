@@ -12,7 +12,7 @@ title: Publications
 
 ### Under Consideration & Review
 
-- **[<font color='#3366CC'>Preference Robust Ordinal Priority Approach and its Satisficing Extension for Multi-Attribute Decision-Making under Incomplete Preference Information</font>](https://arxiv.org/abs/2412.12690)**  <br>**Renlong Wang** (Sole Author) <br> Under Consideration (Submission Date: Apr 21, 2025) <br> _**Omega**_  <br> Preprint Version: https://arxiv.org/abs/2412.12690, [PDF](https://Renlong-WANG.github.io/file/Wang - 2024 - Preference Robust Ordinal Priority Approach and it.pdf) 🔗
+- **[<font color='#3366CC'>Preference Robust Ordinal Priority Approach and its Satisficing Extension for Multi-Attribute Decision-Making under Incomplete Preference Information</font>](https://arxiv.org/abs/2412.12690)**  <br>**Renlong Wang** (Sole Author) <br> _**Omega**_ -- Under Consideration (Submission Date: Apr 21, 2025)  <br> Preprint Version: https://arxiv.org/abs/2412.12690, [PDF](https://Renlong-WANG.github.io/file/Wang - 2024 - Preference Robust Ordinal Priority Approach and it.pdf) 🔗
 
 - **[<font color='#3366CC'>Generalized Ordinal Priority Approach for Multi-Attribute Decision-Making under Incomplete Preference Information</font>](https://arxiv.org/abs/2407.17099)** <br>**Renlong Wang**  (Sole Author) <br> Under Consideration (Submission Date: Apr 20, 2025) <br> _**Annals of Operations Research**_  <br> Preprint Version: http://arxiv.org/abs/2407.17099, [PDF](https://Renlong-WANG.github.io/file/Wang - 2024 - Generalized Ordinal Priority Approach for Multi-At.pdf) 🔗
 
