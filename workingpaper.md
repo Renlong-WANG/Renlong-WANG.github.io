@@ -12,7 +12,7 @@ title: Working Paper
 
 <!-- - **A Dynamic Metanetwork-Based Decision Support System for Evaluating Emergency Response with Nonlinear Utility and Inter-Organizational Collaboration** <br> With Jingyao Yue & Mingang Gao -->
 
-- **Non-Additive Preference Robust Bilevel Optimization with Choquet Rational for Multi-Attribute Decision-Making** <br> Solo-in-Progress
+- **Distributionally Preference Robust Choice-Based Discrete Planning** <br> With Yifan Hu
 
 - **Globalized Preference Robust Optimization under Model Misspecification for Group Decision-Making** <br> Solo-in-Progress
 
