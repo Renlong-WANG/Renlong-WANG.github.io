@@ -16,6 +16,7 @@ title: Publications
 
 - **Globalized Preference Robust Optimization under Model Misspecification for Group Decision-Making** <br> Solo-in-Progress
 
+---
 
 ### Under Consideration & Review
 
@@ -33,6 +34,8 @@ title: Publications
 
 - **[<font color='#3366CC'>A Novel Multi-Attribute Decision-Making Approach for Improvisational Emergency Supplier Selection: Partial Ordinal Priority Approach</font>](http://dx.doi.org/10.2139/ssrn.4708945)** <br>**Renlong Wang**, Rui Shen, Hong Chi, Xueyan Shao, and Mingang Gao * <br> _**Expert System with Applications**_ --- Under the Third-Round Review (Major Revision for the Second-Round) (Submission Date: Sep 04, 2023; Status Date: Apr 26, 2025) <br>Preprint Version: http://dx.doi.org/10.2139/ssrn.4708945, [PDF](https://Renlong-WANG.github.io/file/Wang 等 - 2024 - A Novel Multi-Attribute Decision-Making Approach f.pdf) 🔗
 
+---
+
 ### Peer-Reviewed Publication
 
 - **[<font color='#3366CC'>Policy-Driven Analysis of Carbon Emission Efficiency under Uncertainty and its Application in Chinese Industry: Hybrid Delta-Slacks-Based Model and Ordinal Priority Approach</font>](https://doi.org/10.1016/j.energy.2025.135832)** <br> Shutian Cui, and **Renlong Wang** *, Xiaoyan Li, and Xiuguang Bai * <br> _**Energy**_ --- Published (Acceptance Date: Mar 24, 2025) <br> https://doi.org/10.1016/j.energy.2025.135832, [PDF](https://Renlong-WANG.github.io/file/Cui 等 - A Novel δ-SBM-OPA Approach for Policy-Driven Analy.pdf) 🔗
@@ -48,7 +51,6 @@ title: Publications
 - **[<font color='#3366CC'>Evaluating the Effectiveness of the COVID-19 Emergency Outbreak Prevention and Control Based on CIA-ISM</font>](https://doi.org/10.3390/ijerph19127146)**<br> **Renlong Wang**, Endong Wang *, Lingzhi Li *, and Wei Li <br> _**International Journal of Environmental Research and Public Health**_ --- Published (Acceptance Date: Jun 10, 2022) <br> https://doi.org/10.3390/ijerph19127146, [PDF](https://Renlong-WANG.github.io/file/Wang 等 - 2022 - Evaluating the effectiveness of the COVID-19 emerg.pdf) 🔗
 
 - **[<font color='#3366CC'>Safety Risk Assessment and Control of Prefabricated Building Construction Based on BN-MNA Model (In Chinese)</font>](https://doi.org/10.13579/j.cnki.2095-0985.2022.20211019)** <br>Yao Ding, **Renlong Wang**, Lingzhi Li *, Jingfeng Yuan, and Ling Shen <br> _**Journal of Civil Engineering and Management (土木工程与管理学报)**_ --- Published (Acceptance Date: Jun 10, 2022) <br> https://doi.org/10.13579/j.cnki.2095-0985.2022.20211019, [PDF](https://Renlong-WANG.github.io/file/丁垚 等 - 2022 - 装配式建筑施工安全风险评估与控制的BN-MNA模型及应用.pdf) 🔗
-
 
 - **[<font color='#3366CC'>Safety Performance Evaluation of Prefabricated Building Construction from the Perspective of Three Dimensional Space (In Chinese)</font>](https://doi.org/10.11731/j.issn.1673-193x.2022.09.030)** <br> Yilun Zhou, **Renlong Wang**, and Jianjun She * <br> Published (Acceptance Date: Sep 20, 2022) <br> _**China Production Safety Science and Technology (中国安全生产科学技术)**_  <br> https://doi.org/10.11731/j.issn.1673-193x.2022.09.030, [PDF](https://Renlong-WANG.github.io/file/周逸伦 等 - 2022 - 三度空间视角下的装配式建筑施工安全绩效评价.pdf) 🔗
 <br>
