@@ -1,24 +1,15 @@
 ---
 layout: page
 permalink: /publications/index.html
-title: Publications
+title: Publications & Preprints
 ---
 
-<br>
 
-## Publications & Preprints
-(* Corresponding Author; # Co-first Author)
-<br>
+## Working Papers
 
-### Work-In-Progress
-
-- **Distributionally Preference Robust Choice-Based Discrete Planning** <br> With Yifan Hu
+- **Distributionally Preference Robust Choice-Based Discrete Planning** <br> Work-In-Progress (With Yifan Hu)
 
 - **Globalized Preference Robust Optimization under Model Misspecification for Group Decision-Making** <br> Solo-in-Progress
-
----
-
-### Under Consideration & Review
 
 - **[<font color='#3366CC'>Preference Robust Ordinal Priority Approach and its Satisficing Extension for Multi-Attribute Decision-Making under Incomplete Preference Information</font>](https://arxiv.org/abs/2412.12690)**  <br>**Renlong Wang** (Sole Author) <br> _**Omega**_ --- Under Consideration (Submission Date: Apr 21, 2025)  <br> Preprint Version: https://arxiv.org/abs/2412.12690, [PDF](https://Renlong-WANG.github.io/file/Wang - 2024 - Preference Robust Ordinal Priority Approach and it.pdf) 🔗
 
@@ -36,7 +27,7 @@ title: Publications
 
 ---
 
-### Peer-Reviewed Publication
+## Published Papers
 
 - **[<font color='#3366CC'>Policy-Driven Analysis of Carbon Emission Efficiency under Uncertainty and its Application in Chinese Industry: Hybrid Delta-Slacks-Based Model and Ordinal Priority Approach</font>](https://doi.org/10.1016/j.energy.2025.135832)** <br> Shutian Cui, and **Renlong Wang** *, Xiaoyan Li, and Xiuguang Bai * <br> _**Energy**_ --- Published (Acceptance Date: Mar 24, 2025) <br> https://doi.org/10.1016/j.energy.2025.135832, [PDF](https://Renlong-WANG.github.io/file/Cui 等 - A Novel δ-SBM-OPA Approach for Policy-Driven Analy.pdf) 🔗
 
