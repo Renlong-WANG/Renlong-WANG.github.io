@@ -10,6 +10,13 @@ title: Publications
 (* Corresponding Author; # Co-first Author)
 <br>
 
+### Work-In-Progress
+
+- **Distributionally Preference Robust Choice-Based Discrete Planning** <br> With Yifan Hu
+
+- **Globalized Preference Robust Optimization under Model Misspecification for Group Decision-Making** <br> Solo-in-Progress
+
+
 ### Under Consideration & Review
 
 - **[<font color='#3366CC'>Preference Robust Ordinal Priority Approach and its Satisficing Extension for Multi-Attribute Decision-Making under Incomplete Preference Information</font>](https://arxiv.org/abs/2412.12690)**  <br>**Renlong Wang** (Sole Author) <br> _**Omega**_ --- Under Consideration (Submission Date: Apr 21, 2025)  <br> Preprint Version: https://arxiv.org/abs/2412.12690, [PDF](https://Renlong-WANG.github.io/file/Wang - 2024 - Preference Robust Ordinal Priority Approach and it.pdf) 🔗
@@ -19,6 +26,7 @@ title: Publications
 - **Nuclear Energy Technology R&D Portfolio Selection under Scenario Uncertainty: Distributionally Robust Ordinal Priority Approach** <br> Shutian Chui, and **Renlong Wang** * <br> _**Energy**_ --- Under the First-Round Review (Submission Date: Mar 09, 2025)
 
 - **Assessing Port Logistics Data Governance Capacity through a Governance Mechanism Perspective: a Collaboration-Based Meta-Network Modeling Approach** <br> Shutian Chui, **Renlong Wang** *, and Endong Wang * <br> _**Engineering Management Journal**_ --- Under the First-Round Review (Submission Date: Jan 29, 2025)
+
 - **Dynamic Metanetwork-Based Risk Analysis Framework under Prospect Theory for Emergency Response Performance Assessment with Procedure Dependency and Organization Collaboration** <br> **Renlong Wang**, Jingyao Yue, Mingang Gao *, Anh Ngoc Quang Huynh, and Jintao Lu * <br> _**Risk Analysis**_ --- Under the First-Round Review (Submission Date: Jan 20, 2025)
 
 - **Mastering the Complexity: A Cellular Automata-Based Framework for Simulating Resilience of Hospital Power-Water-Firefighting-Space Nexus System** <br> **Renlong Wang**, Lingzhi Li *, Wenjie Lin, Endong Wang, and Jingfeng Yuan * <br> _**Simulation Modelling Practice and Theory**_ --- Under the Second-Round Review (Major Revision for the First-Round) (Submission Date: Jul 20, 2024; Status Date: Apr 30, 2025)
