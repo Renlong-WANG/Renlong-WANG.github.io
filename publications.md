@@ -33,7 +33,7 @@ title: Publications
 
 - **[<font color='#3366CC'>A Novel Multi-Attribute Decision-Making Approach for Improvisational Emergency Supplier Selection: Partial Ordinal Priority Approach</font>](http://dx.doi.org/10.2139/ssrn.4708945)** <br>**Renlong Wang**, Rui Shen, Hong Chi, Xueyan Shao, and Mingang Gao * <br> _**Expert System with Applications**_ --- Under the Third-Round Review (Major Revision for the Second-Round) (Submission Date: Sep 04, 2023; Status Date: Apr 26, 2025) <br>Preprint Version: http://dx.doi.org/10.2139/ssrn.4708945, [PDF](https://Renlong-WANG.github.io/file/Wang 等 - 2024 - A Novel Multi-Attribute Decision-Making Approach f.pdf) 🔗
 
-### Peer-Review Publication
+### Peer-Reviewed Publication
 
 - **[<font color='#3366CC'>Policy-Driven Analysis of Carbon Emission Efficiency under Uncertainty and its Application in Chinese Industry: Hybrid Delta-Slacks-Based Model and Ordinal Priority Approach</font>](https://doi.org/10.1016/j.energy.2025.135832)** <br> Shutian Cui, and **Renlong Wang** *, Xiaoyan Li, and Xiuguang Bai * <br> _**Energy**_ --- Published (Acceptance Date: Mar 24, 2025) <br> https://doi.org/10.1016/j.energy.2025.135832, [PDF](https://Renlong-WANG.github.io/file/Cui 等 - A Novel δ-SBM-OPA Approach for Policy-Driven Analy.pdf) 🔗
 
