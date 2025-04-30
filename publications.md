@@ -10,7 +10,7 @@ title: Publications
 (* Corresponding Author; # Co-first Author)
 <br>
 
-# Under Consideration & Review
+### Under Consideration & Review
 
 - **[<font color='#3366CC'>Preference Robust Ordinal Priority Approach and its Satisficing Extension for Multi-Attribute Decision-Making under Incomplete Preference Information</font>](https://arxiv.org/abs/2412.12690)**  <br>**Renlong Wang** (Sole Author) <br> Submitted to _Omega_ (Submission date: Apr 21, 2025) <br> Preprint Version: https://arxiv.org/abs/2412.12690, [PDF](https://Renlong-WANG.github.io/file/Wang - 2024 - Preference Robust Ordinal Priority Approach and it.pdf) 🔗
 
@@ -26,7 +26,7 @@ title: Publications
 
 - **[<font color='#3366CC'>A Novel Multi-Attribute Decision-Making Approach for Improvisational Emergency Supplier Selection: Partial Ordinal Priority Approach</font>](http://dx.doi.org/10.2139/ssrn.4708945)** <br>**Renlong Wang**, Rui Shen, Hong Chi, Xueyan Shao, and Mingang Gao *<br> Under the third-round review (Major Revision for the second-round) of _Expert System with Applications_ (Submission date: Sep 04, 2023; Status date: Apr 26, 2025)<br>Preprint Version: http://dx.doi.org/10.2139/ssrn.4708945, [PDF](https://Renlong-WANG.github.io/file/Wang 等 - 2024 - A Novel Multi-Attribute Decision-Making Approach f.pdf) 🔗
 
-# Peer-Review Publication
+### Peer-Review Publication
 
 - **[<font color='#3366CC'>Policy-Driven Analysis of Carbon Emission Efficiency under Uncertainty and its Application in Chinese Industry: Hybrid Delta-Slacks-Based Model and Ordinal Priority Approach</font>](https://doi.org/10.1016/j.energy.2025.135832)** <br> Shutian Cui, and **Renlong Wang** *, Xiaoyan Li, and Xiuguang Bai * <br> Published in _Energy_ (Acceptance date: Mar 24, 2025) <br> https://doi.org/10.1016/j.energy.2025.135832, [PDF](https://Renlong-WANG.github.io/file/Cui 等 - A Novel δ-SBM-OPA Approach for Policy-Driven Analy.pdf) 🔗
 
