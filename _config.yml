@@ -31,8 +31,8 @@ links:
     url: /
   - title: Publication & Preprint
     url: /publications/
-  - title: Working Paper
-    url: /workingpaper/
+#  - title: Working Paper
+#    url: /workingpaper/
   - title: Conference Presentation
     url: /conference-presentations/
   - title: Award & Honor
