@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications & Preprints
 ---
 
-## Preference Robust Optimization & Distributionally Robust Optimization 
+## Distributionally (Preference) Robust Optimization 
 
 - **Distributionally Preference Robust Choice-Based Discrete Planning** <br> Work-In-Progress (With Yifan Hu)
 
