@@ -24,10 +24,3 @@ title: Conference Presentations
 - **2023 POMS Summer School in China** (Aug 2023; Dalian, China) <br> **Organizer**: Production and Operations Management Society (POMS) <br>**Debriefing on the topic:** Multi-Attribute Decision-Making for Improvisational Emergency Supplier Selection: Partial Ordinal Priority Approach <br> **Award:** Excellent Paper Award
 
 ---
-
-## Professional Services
-
-- Review for Chinese Journal of Management Science (2 times, 2024)
-- Review for Transportation Research Part E: Logistics and Transportation (1 time, 2023)
-
----
