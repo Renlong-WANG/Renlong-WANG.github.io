@@ -8,7 +8,7 @@ title: Publications & Preprints
 
 - **Distributionally Preference Robust Choice-Based Discrete Planning** <br> Work-In-Progress (With Yifan Hu)
 
-- **[<font color='#3366CC'>Preference Robust Ordinal Priority Approach and its Satisficing Extension for Multi-Attribute Decision-Making under Incomplete Preference Information</font>](https://arxiv.org/abs/2412.12690)**  <br>**Renlong Wang** (Sole Author) <br> _**Omega**_ --- Under Consideration (Submission Date: Apr 21, 2025)  <br> Preprint Version: https://arxiv.org/abs/2412.12690, [PDF](https://Renlong-WANG.github.io/file/Wang - 2024 - Preference Robust Ordinal Priority Approach and it.pdf) 🔗
+- **[<font color='#3366CC'>Preference Robust Ordinal Priority Approach and its Satisficing Extension for Multi-Attribute Decision-Making under Incomplete Preference Information</font>](https://arxiv.org/abs/2412.12690)**  <br>**Renlong Wang** (Sole Author) <br> _**Journal of the Operational Research Society**_ --- Under Consideration (Submission Date: Jun 7, 2025)  <br> Preprint Version: https://arxiv.org/abs/2412.12690, [PDF](https://Renlong-WANG.github.io/file/Wang - 2024 - Preference Robust Ordinal Priority Approach and it.pdf) 🔗
 
 - **Nuclear Energy Technology R&D Portfolio Selection under Scenario Uncertainty: Distributionally Robust Ordinal Priority Approach** <br> Shutian Chui, and **Renlong Wang** * <br> _**Energy**_ --- Under the First-Round Review (Submission Date: Mar 09, 2025)
 
