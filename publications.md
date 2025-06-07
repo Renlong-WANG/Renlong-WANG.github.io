@@ -18,7 +18,9 @@ title: Publications & Preprints
 
 ## Multi-Criteria Decision Analysis
 
-- **[<font color='#3366CC'>Generalized Ordinal Priority Approach for Multi-Attribute Decision-Making under Incomplete Preference Information</font>](https://arxiv.org/abs/2407.17099)** <br>**Renlong Wang**  (Sole Author) <br> _**Annals of Operations Research**_ --- Under the First-Round Review  (Submission Date: Apr 20, 2025; Status Date: May 16, 2025) <br> Preprint Version: http://arxiv.org/abs/2407.17099, [PDF](https://Renlong-WANG.github.io/file/Wang - 2024 - Generalized Ordinal Priority Approach for Multi-At.pdf) 🔗
+<!-- - **[<font color='#3366CC'>Generalized Ordinal Priority Approach for Multi-Attribute Decision-Making under Incomplete Preference Information</font>](https://arxiv.org/abs/2407.17099)** <br>**Renlong Wang**  (Sole Author) <br> _**Annals of Operations Research**_ --- Under the First-Round Review  (Submission Date: Apr 20, 2025; Status Date: May 16, 2025) <br> Preprint Version: http://arxiv.org/abs/2407.17099, [PDF](https://Renlong-WANG.github.io/file/Wang - 2024 - Generalized Ordinal Priority Approach for Multi-At.pdf) 🔗 -->
+
+- **Generalized Ordinal Priority Approach with Small-Sample Incomplete Preference Learning for Multi-Attribute Decision-Making** <br>**Renlong Wang**  (Sole Author) <br> _**Annals of Operations Research**_ --- Under the First-Round Review  (Submission Date: Apr 20, 2025; Status Date: May 16, 2025)
 
 - **A Novel Multi-Attribute Decision-Making Approach for Improvisational Emergency Supplier Selection: Partial Ordinal Priority Approach** <br>**Renlong Wang**, Rui Shen, Hong Chi, Xueyan Shao, and Mingang Gao * <br> _**Expert System with Applications**_ --- Accepted (Acceptance Date: May 16, 2025)
 
