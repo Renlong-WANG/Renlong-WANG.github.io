@@ -29,6 +29,7 @@ As a team leader, I lead the team in various mathematical contest in modeling an
 
 ## Honors
 
+- Jun. 2025: Excellent Prize for the President Scholarship of Chinese Academy of Sciences
 - Nov. 2024: National Scholarship for Postgraduates (Master)
 - Jul. 2024: School-level Merit Student of University of Chinese Academy of Sciences
 - Jun. 2023: Distinguished Graduates in Civil Engineering from Jiangsu Universities and Colleges
