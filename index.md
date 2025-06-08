@@ -10,7 +10,7 @@ Here is **Renlong Wang (王人龙)**.
 I am currently a master's student in **Industrial Engineering** at **University of Chinese Academy of Sciences** (UCAS). I received my B.S. in Civil Engineering from the Nanjing Tech University (NJTECH) in 2023. My current research focuses on developing new methods span the **preference robust optimization**, **distributionally robust optimization**, and **multi-attribute group decision-making**, which are associated with utility preference  ambiguity of decision-maker.
 <br>
 
-**<font color='red'>[Highlight]</font> I am looking for PhD position in Industrial Engineering & Operations Research (IEOR) or Operations Management (OM) to start in 2026 Fall. Contact me if you have any leads!**
+**<font color='red'>[Highlight]</font> I am looking for PhD position in Industrial Engineering & Operations Research (IEOR) or Construction Engineering Management (CEM) to start in 2026 Fall. Contact me if you have any leads!**
 
 <br>
 ---
