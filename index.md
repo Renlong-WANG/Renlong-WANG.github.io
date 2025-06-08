@@ -9,8 +9,6 @@ Here is **Renlong Wang (王人龙)**.
 
 I am currently pursuing a master's degree in Industrial Engineering at the University of Chinese Academy of Sciences (UCAS), advised by Prof. [<font color='#3366CC'>Mingang Gao</font>](https://people.ucas.ac.cn/~0028787), with an expected graduation date of June 2026. Before that, I received my B.S. in Civil Engineering from the Nanjing Tech University (NJTECH) in 2023, advised by Prof. [<font color='#3366CC'>Lingzhi Li</font>](https://cce.njtech.edu.cn/info/1098/3647.htm). I am also fortunate to collaborate with Prof. [<font color='#3366CC'>Yifan Hu</font>](https://sites.google.com/view/yifan-hu/home) from RU, Prof. [<font color='#3366CC'>Endong Wang</font>](https://sites.google.com/view/yifan-hu/home) from SUNY-ESF, and Prof. [<font color='#3366CC'>Xueyan Shao</font>](https://people.ucas.ac.cn/~0058756) from UCAS. My current research focuses on developing new methods for modeling, evaluation, and optimization of complex systems under uncertainty in operational parameters and preferences, based on operations research, network analysis, and system simulation techniques, with application to operational decision-making and infrastructure resilience.
 
-
-
 <br>
 
 **<font color='red'>[Highlight]</font> I am looking for PhD position in Industrial Engineering & Operations Research (IEOR) or Construction Engineering Management (CEM) to start in 2026 Fall. Contact me if you have any leads!**
@@ -32,7 +30,7 @@ I am currently pursuing a master's degree in Industrial Engineering at the Unive
 
 ---
 
-## My Traits
+<!-- ## My Traits
 
 - Humorous, cheerful, composed, and steadfast.
 - Enjoy the process of exploring the unknown and self-realization.
@@ -40,4 +38,6 @@ I am currently pursuing a master's degree in Industrial Engineering at the Unive
 - Hope to cultivate my ability to distill and solve research in a systematic manner.
 <br>
 
----
+--- -->
+
+
