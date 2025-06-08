@@ -38,7 +38,7 @@ title: Publications & Preprints
 
 - **Dynamic Metanetwork-Based Risk Analysis Framework under Prospect Theory for Emergency Response Performance Assessment with Procedure Dependency and Organization Collaboration** <br> **Renlong Wang**, Jingyao Yue, Mingang Gao *, Anh Ngoc Quang Huynh, and Jintao Lu * <br> _**Risk Analysis**_ --- Under the First-Round Review (Submission Date: Jan 20, 2025)
 
-- **Mastering the Complexity: A Cellular Automata-Based Framework for Simulating Resilience of Hospital Power-Water-Firefighting-Space Nexus System** <br> **Renlong Wang**, Lingzhi Li *, Wenjie Lin, Endong Wang, and Jingfeng Yuan * <br> _**Simulation Modelling Practice and Theory**_ --- Under the Second-Round Review (Major Revision for the First-Round) (Submission Date: Jul 20, 2024; Status Date: Apr 30, 2025)
+- **Mastering the Complexity: A Cellular Automata-Based Framework for Simulating Resilience of Hospital Power-Water-Firefighting-Space Nexus System** <br> **Renlong Wang**, Lingzhi Li *, Wenjie Lin, Endong Wang, and Jingfeng Yuan <br> _**Simulation Modelling Practice and Theory**_ --- Under the Second-Round Review (Major Revision for the First-Round) (Submission Date: Jul 20, 2024; Status Date: Apr 30, 2025)
 
 - **[<font color='#3366CC'>Systematic Scenario Modeling for Priority Assessment of Sustainable Development Goals in China under Interaction and Uncertainty</font>](https://doi.org/10.1007/s10668-024-04526-4)** <br>**Renlong Wang**, Shutian Cui, and Mingang Gao * <br> _**Environment, Development and Sustainability**_ --- Published (Acceptance Date: Jan 16, 2024) <br> https://doi.org/10.1007/s10668-024-04526-4, [PDF](https://Renlong-WANG.github.io/file/Wang 等 - 2024 - Systematic scenario modeling for priority assessme.pdf) 🔗
 
