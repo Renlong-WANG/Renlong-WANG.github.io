@@ -6,7 +6,7 @@ title: Publications & Preprints
 
 ## Distributionally (Preference) Robust Optimization 
 
-- **Distributionally Preference Robust Choice-Based Discrete Planning** <br> Work-In-Progress (With Yifan Hu)
+<!-- - **Distributionally Preference Robust Choice-Based Discrete Planning** <br> Work-In-Progress (With Yifan Hu) -->
 
 <!-- - **[<font color='#3366CC'>Preference Robust Ordinal Priority Approach with Preference Elicitation under Incomplete Information for Multi-Attribute Robust Ranking and Selection</font>](https://arxiv.org/abs/2412.12690)**  <br>**Renlong Wang** (Sole Author) <br> _**Journal of the Operational Research Society**_ --- Under Consideration (Submission Date: Jun 7, 2025)  <br> Preprint Version: https://arxiv.org/abs/2412.12690, [PDF](https://Renlong-WANG.github.io/file/Wang - 2024 - Preference Robust Ordinal Priority Approach and it.pdf) 🔗 -->
 
