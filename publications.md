@@ -10,9 +10,9 @@ title: Publications & Preprints
 
 <!-- - **[<font color='#3366CC'>Preference Robust Ordinal Priority Approach with Preference Elicitation under Incomplete Information for Multi-Attribute Robust Ranking and Selection</font>](https://arxiv.org/abs/2412.12690)**  <br>**Renlong Wang** (Sole Author) <br> _**Journal of the Operational Research Society**_ --- Under Consideration (Submission Date: Jun 7, 2025)  <br> Preprint Version: https://arxiv.org/abs/2412.12690, [PDF](https://Renlong-WANG.github.io/file/Wang - 2024 - Preference Robust Ordinal Priority Approach and it.pdf) 🔗 -->
 
-- **Preference Robust Ordinal Priority Approach with Preference Elicitation under Incomplete Information for Multi-Attribute Robust Ranking and Selection** <br>**Renlong Wang** (Sole Author) <br> _**Computers & Industrial Engineering**_ --- Under Consideration (Submission Date: Jun 16, 2025)
+- **Preference Robust Ordinal Priority Approach with Preference Elicitation under Incomplete Information for Multi-Attribute Robust Ranking and Selection** <br>**Renlong Wang** (Sole Author) <br> _**Computers & Industrial Engineering**_ --- Under the First-Round Review (Submission Date: Jun 16, 2025; Status Date: Jul 12, 2025)
 
-- **Nuclear Energy Technology R&D Portfolio Selection under Scenario Uncertainty: Distributionally Robust Ordinal Priority Approach** <br> Shutian Chui, and **Renlong Wang** * <br> _**Energy**_ --- Under the First-Round Review (Submission Date: Mar 09, 2025)
+- **Nuclear Energy Technology R&D Portfolio Selection under Scenario Uncertainty: Distributionally Robust Ordinal Priority Approach** <br> Shutian Chui, and **Renlong Wang** * <br> _**Energy**_ --- Under the First-Round Major Revision (Submission Date: Mar 09, 2025; Status Date: Jun 30, 2025)
 
 ---
 
