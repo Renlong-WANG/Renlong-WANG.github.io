@@ -36,7 +36,7 @@ title: Publications & Preprints
 
 - **Assessing Port Logistics Data Governance Capacity through a Governance Mechanism Perspective: a Collaboration-Based Meta-Network Modeling Approach** <br> Shutian Chui, **Renlong Wang** *, and Endong Wang * <br> _**Engineering Management Journal**_ --- Under the First-Round Review (Submission Date: Jan 29, 2025)
 
-- **Dynamic Metanetwork-Based Risk Analysis Framework under Prospect Theory for Emergency Response Performance Assessment with Procedure Dependency and Organization Collaboration** <br> **Renlong Wang**, Jingyao Yue, Mingang Gao *, Anh Ngoc Quang Huynh, and Jintao Lu * <br> _**Risk Analysis**_ --- Under the First-Round Review (Submission Date: Jan 20, 2025)
+- **Dynamic Metanetwork-Based Risk Analysis Framework under Prospect Theory for Emergency Response Performance Assessment with Procedure Dependency and Organization Collaboration** <br> **Renlong Wang**, Jingyao Yue, Mingang Gao *, Anh Ngoc Quang Huynh, and Jintao Lu <br> _**Risk Analysis**_ --- Under the First-Round Review (Submission Date: Jan 20, 2025)
 
 - **[<font color='#3366CC'>Mastering the Complexity: A Cellular Automata-Based Framework for Simulating Resilience of Hospital Power-Water-Firefighting-Space Nexus System</font>](https://doi.org/10.1016/j.simpat.2025.103177)** <br> **Renlong Wang**, Lingzhi Li *, Wenjie Lin, Endong Wang, and Jingfeng Yuan <br> _**Simulation Modelling Practice and Theory**_ --- Accepted (Acceptance Date: Jun 27, 2025) <br> https://doi.org/10.1016/j.simpat.2025.103177
 
