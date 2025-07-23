@@ -8,9 +8,8 @@ title: Publications & Preprints
 
 <!-- - **Distributionally Preference Robust Choice-Based Discrete Planning** <br> Work-In-Progress (With Yifan Hu) -->
 
-<!-- - **[<font color='#3366CC'>Preference Robust Ordinal Priority Approach with Preference Elicitation under Incomplete Information for Multi-Attribute Robust Ranking and Selection</font>](https://arxiv.org/abs/2412.12690)**  <br>**Renlong Wang** (Sole Author) <br> _**Journal of the Operational Research Society**_ --- Under Consideration (Submission Date: Jun 7, 2025)  <br> Preprint Version: https://arxiv.org/abs/2412.12690, [PDF](https://Renlong-WANG.github.io/file/Wang - 2024 - Preference Robust Ordinal Priority Approach and it.pdf) 🔗 -->
+- **[<font color='#3366CC'>Preference Robust Ordinal Priority Approach with Preference Elicitation under Incomplete Information for Multi-Attribute Robust Ranking and Selection</font>](https://doi.org/10.48550/arXiv.2412.12690)** <br>**Renlong Wang** (Sole Author) <br> _**Computers & Industrial Engineering**_ --- Under the First-Round Review (Submission Date: Jun 16, 2025; Status Date: Jul 12, 2025) <br> Preprint Version: https://doi.org/10.48550/arXiv.2412.12690, [PDF](https://Renlong-WANG.github.io/file/Wang - 2025 - Preference Robust Ordinal Priority Approach with P.pdf) 🔗 
 
-- **Preference Robust Ordinal Priority Approach with Preference Elicitation under Incomplete Information for Multi-Attribute Robust Ranking and Selection** <br>**Renlong Wang** (Sole Author) <br> _**Computers & Industrial Engineering**_ --- Under the First-Round Review (Submission Date: Jun 16, 2025; Status Date: Jul 12, 2025)
 
 - **Nuclear Energy Technology R&D Portfolio Selection under Scenario Uncertainty: Distributionally Robust Ordinal Priority Approach** <br> Shutian Chui, and **Renlong Wang** * <br> _**Energy**_ --- In the First-Round Major Revision (Submission Date: Mar 09, 2025; Status Date: Jun 30, 2025)
 
@@ -18,9 +17,7 @@ title: Publications & Preprints
 
 ## Multi-Criteria Decision Analysis
 
-<!-- - **[<font color='#3366CC'>Generalized Ordinal Priority Approach for Multi-Attribute Decision-Making under Incomplete Preference Information</font>](https://arxiv.org/abs/2407.17099)** <br>**Renlong Wang**  (Sole Author) <br> _**Annals of Operations Research**_ --- Under the First-Round Review  (Submission Date: Apr 20, 2025; Status Date: May 16, 2025) <br> Preprint Version: http://arxiv.org/abs/2407.17099, [PDF](https://Renlong-WANG.github.io/file/Wang - 2024 - Generalized Ordinal Priority Approach for Multi-At.pdf) 🔗 -->
-
-- **Generalized Ordinal Priority Approach with Small-Sample Incomplete Preference Learning for Multi-Attribute Decision-Making** <br>**Renlong Wang**  (Sole Author) <br> _**Annals of Operations Research**_ --- Under the First-Round Review  (Submission Date: Apr 20, 2025; Status Date: May 16, 2025)
+ - **[<font color='#3366CC'>Generalized Ordinal Priority Approach with Small-Sample Incomplete Preference Learning for Multi-Attribute Decision-Making</font>](https://arxiv.org/abs/2407.17099)** <br>**Renlong Wang**  (Sole Author) <br> _**Annals of Operations Research**_ --- Under the First-Round Review  (Submission Date: Apr 20, 2025; Status Date: May 16, 2025) <br> Preprint Version: http://arxiv.org/abs/2407.17099, [PDF](https://Renlong-WANG.github.io/file/Wang - 2024 - Generalized Ordinal Priority Approach for Multi-At.pdf) 🔗 
 
 - **[<font color='#3366CC'>Multi-Attribute Decision-Making Approach for Improvisational Emergency Supplier Selection: Partial Ordinal Priority Approach</font>](https://doi.org/10.1016/j.eswa.2025.128196)** <br>**Renlong Wang**, Rui Shen, Hong Chi, Xueyan Shao, and Mingang Gao * <br> _**Expert System with Applications**_ --- Accepted (Acceptance Date: May 16, 2025) <br> https://doi.org/10.1016/j.eswa.2025.128196, [PDF](https://Renlong-WANG.github.io/file/Wang 等 - 2025 - Multi-attribute decision-making approach for impro.pdf) 🔗
 
