@@ -17,7 +17,7 @@ title: Publications & Preprints
 
 ## Multi-Criteria Decision Analysis
 
- - **[<font color='#3366CC'>Generalized Ordinal Priority Approach with Small-Sample Incomplete Preference Learning for Multi-Attribute Decision-Making</font>](https://arxiv.org/abs/2407.17099)** <br>**Renlong Wang**  (Sole Author) <br> _**Annals of Operations Research**_ --- Under the First-Round Review  (Submission Date: Apr 20, 2025; Status Date: May 16, 2025) <br> Preprint Version: http://arxiv.org/abs/2407.17099, [PDF](https://Renlong-WANG.github.io/file/Wang - 2024 - Generalized Ordinal Priority Approach for Multi-At.pdf) 🔗 
+ - **[<font color='#3366CC'>Generalized Ordinal Priority Approach with Small-Sample Incomplete Preference Learning for Multi-Attribute Decision-Making</font>](https://doi.org/10.48550/arXiv.2407.17099)** <br>**Renlong Wang**  (Sole Author) <br> _**Annals of Operations Research**_ --- Under the First-Round Review  (Submission Date: Apr 20, 2025; Status Date: May 16, 2025) <br> Preprint Version: https://doi.org/10.48550/arXiv.2407.17099, [PDF](https://Renlong-WANG.github.io/file/Wang - 2024 - Generalized Ordinal Priority Approach for Multi-At.pdf) 🔗 
 
 - **[<font color='#3366CC'>Multi-Attribute Decision-Making Approach for Improvisational Emergency Supplier Selection: Partial Ordinal Priority Approach</font>](https://doi.org/10.1016/j.eswa.2025.128196)** <br>**Renlong Wang**, Rui Shen, Hong Chi, Xueyan Shao, and Mingang Gao * <br> _**Expert System with Applications**_ --- Accepted (Acceptance Date: May 16, 2025) <br> https://doi.org/10.1016/j.eswa.2025.128196, [PDF](https://Renlong-WANG.github.io/file/Wang 等 - 2025 - Multi-attribute decision-making approach for impro.pdf) 🔗
 
