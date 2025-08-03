@@ -12,7 +12,7 @@ owner:
   location: Beijing, P.R.China
   email: 13127073530@163.com
   cv: https://Renlong-WANG.github.io/file/[CV] Renlong Wang.pdf
-  scholar: https://scholar.google.com/citations?user=HwDGjnMAAAAJ&hl=zh-CN
+  # scholar: https://scholar.google.com/citations?user=HwDGjnMAAAAJ&hl=zh-CN
   # researchgate: https://www.researchgate.net/profile/Renlong-Wang-2
   # orcid : https://orcid.org/0000-0002-6144-6028
   
@@ -78,4 +78,5 @@ include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
 # Latest update in 2023/12/10 by Hanlin Cai.
+
 
