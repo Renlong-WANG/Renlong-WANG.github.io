@@ -23,9 +23,9 @@ title: Publications & Preprints
 
 - **[<font color='#3366CC'>Policy-Driven Analysis of Carbon Emission Efficiency under Uncertainty and its Application in Chinese Industry: Hybrid Delta-Slacks-Based Model and Ordinal Priority Approach</font>](https://doi.org/10.1016/j.energy.2025.135832)** <br> Shutian Cui, and **Renlong Wang** *, Xiaoyan Li, and Xiuguang Bai * <br> _**Energy**_ --- Published (Acceptance Date: Mar 24, 2025) <br> https://doi.org/10.1016/j.energy.2025.135832, [PDF](https://Renlong-WANG.github.io/file/Cui 等 - 2025 - Policy-driven analysis of carbon emission efficien.pdf) 🔗
 
-- **[<font color='#3366CC'>A Hybrid MADM Method Considering Expert Consensus for Emergency Recovery Plan Selection: Dynamic Grey Relation Analysis and Partial Ordinal Priority Approach</font>](https://doi.org/10.1016/j.ins.2024.120784)** <br>**Renlong Wang**  (Sole Author) <br> _**Information Sciences**_ --- Published (Acceptance Date: May 24, 2024) <br> https://doi.org/10.1016/j.ins.2024.120784 , [PDF](https://Renlong-WANG.github.io/file/Wang - 2024 - A hybrid MADM method considering expert consensus .pdf) 🔗
+- **[<font color='#3366CC'>A Hybrid MADM Method Considering Expert Consensus for Emergency Recovery Plan Selection: Dynamic Grey Relation Analysis and Partial Ordinal Priority Approach</font>](https://doi.org/10.1016/j.ins.2024.120784)** <br>**Renlong Wang**  (Sole Author) <br> _**Information Sciences**_ --- Published (Acceptance Date: May 24, 2024) <br> https://doi.org/10.1016/j.ins.2024.120784, [PDF](https://Renlong-WANG.github.io/file/Wang - 2024 - A hybrid MADM method considering expert consensus .pdf) 🔗
 
-- **Partial Ordinal Priority Approach in Multi-Attribute Decision-Making （In Chinese）** <br>**Renlong Wang**, Rui Shen, Hong Chi, and Mingang Gao * <br> _**Chinese Journal of Management Science (中国管理科学)**_ --- Accepted (Acceptance Date: Mar 12, 2024)
+- **Partial Ordinal Priority Approach in Multi-Attribute Decision-Making (In Chinese)** <br>**Renlong Wang**, Rui Shen, Hong Chi, and Mingang Gao * <br> _**Chinese Journal of Management Science (中国管理科学)**_ --- Published (Acceptance Date: Mar 12, 2024) <br> https://doi.org/10.16381/j.cnki.issn1003-207x.2023.1805, [PDF](https://Renlong-WANG.github.io/file/王人龙 等 - 2025 - 考虑帕累托最优识别的偏序优先多属性决策方法.pdf) 🔗
 
 ---
 
@@ -53,3 +53,4 @@ title: Publications & Preprints
 <br>
 
 ----
+
