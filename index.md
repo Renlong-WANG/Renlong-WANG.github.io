@@ -31,14 +31,12 @@ I am currently pursuing a master's degree in Industrial Engineering at Universit
 ---
 
 <div style="text-align:center;">
-  <p><b>Total number of visits:</b></p>
-  <a href="https://www.easycounter.com/">
-    <img src="https://www.easycounter.com/counter.php?renlongwang" border="0" alt="Free Hit Counter">
-  </a>
+  <p><b>Total number of visits:</b> 
+    <a href="https://www.easycounter.com/">
+      <img src="https://www.easycounter.com/counter.php?renlongwang" border="0" alt="Free Hit Counter">
+    </a>
+  </p>
 </div>
-<br>
-<a href="https://www.easycounter.com/">Hit Counter</a>
-
 
 ---
 
