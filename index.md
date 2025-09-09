@@ -35,6 +35,7 @@ I am currently pursuing a master's degree in Industrial Engineering at Universit
   <img src="https://profile-counter.glitch.me/renlong-wang/count.svg" alt="Visitor Count">
 </div>
 
+---
 
 <!-- ## My Traits
 
