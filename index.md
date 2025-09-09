@@ -30,6 +30,14 @@ I am currently pursuing a master's degree in Industrial Engineering at Universit
 
 ---
 
+<hr>
+
+<div style="text-align:center;">
+  <p><b>Visitor Count</b></p>
+  <img src="https://profile-counter.glitch.me/renlong-wang/count.svg" alt="Visitor Count">
+</div>
+
+
 <!-- ## My Traits
 
 - Humorous, cheerful, composed, and steadfast.
@@ -37,6 +45,9 @@ I am currently pursuing a master's degree in Industrial Engineering at Universit
 - Enjoy the process of continuously expanding the boundaries of my own abilities.
 - Hope to cultivate my ability to distill and solve research in a systematic manner.
 <br>
+
+---
+
 
 --- -->
 
