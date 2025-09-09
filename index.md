@@ -32,7 +32,8 @@ I am currently pursuing a master's degree in Industrial Engineering at Universit
 
 <div style="text-align:center;">
   <p><b>Visitor Count</b></p>
-  <img src="https://profile-counter.glitch.me/renlong-wang/count.svg" alt="Visitor Count">
+
+  ![Visitor Count](https://profile-counter.glitch.me/renlong-wang/count.svg)
 </div>
 
 ---
