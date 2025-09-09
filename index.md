@@ -30,11 +30,22 @@ I am currently pursuing a master's degree in Industrial Engineering at Universit
 
 ---
 
-<div style="text-align:center;">
-  <p><b>Visitor Count</b></p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Your Page Title</title>
+</head>
+<body>
+  <h1>Welcome to My Website</h1>
+  <!-- Other content here -->
 
-  ![Visitor Count](https://profile-counter.glitch.me/renlong-wang/count.svg)
-</div>
+  <!-- Vercount script -->
+  <script defer src="https://vercount.one/js"></script>
+</body>
+</html>
+
 
 ---
 
