@@ -30,21 +30,12 @@ I am currently pursuing a master's degree in Industrial Engineering at Universit
 
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Your Page Title</title>
-</head>
-<body>
-  <h1>Welcome to My Website</h1>
-  <!-- Other content here -->
-
-  <!-- Vercount script -->
-  <script defer src="https://vercount.one/js"></script>
-</body>
-</html>
+<div style="text-align:center;">
+  <p><b>Total number of visits:</b></p>
+  <a href="https://www.easycounter.com" target="_blank" title="easy counter">
+    <img src="https://counter.easycounter.com/count/renlongwang/visitor.png" alt="Total number of visits">
+  </a>
+</div>
 
 
 ---
