@@ -16,6 +16,8 @@ title: Publications & Preprints
 
 ## Optimization-Based Multi-Criteria Decision Analysis
 
+- **Policy-Driven Efficiency Analysis of Relative Energy Poverty: A Satisfaction-Based DEA-OPA Model** <br> Xiong Liu, **Renlong Wang** *, Xueyan Shao, Mingang Gao * <br> To Be Submitted
+
 - **Improvisational Emergency Supplier Selection Considering Expert Consensus Ambiguity: Robust Consensus Ordinal Priority Approach** <br> Zhenghe Mao, **Renlong Wang** * <br> _**Scientific Reports**_ --- Under First-Round Review (Submission Date: Sep 30, 2025; Status Date: 23 Oct, 2025)
 
  - **[<font color='#3366CC'>Generalized Ordinal Priority Approach with Small-Sample Incomplete Preference Learning for Multi-Attribute Decision-Making</font>](https://doi.org/10.48550/arXiv.2407.17099)** <br>**Renlong Wang**  (Sole Author) <br> _**Annals of Operations Research**_ --- In First-Round Major Revision  (Submission Date: Apr 20, 2025; Status Date: Sep 8, 2025) <br> Preprint Version: https://doi.org/10.48550/arXiv.2407.17099, [PDF](https://Renlong-WANG.github.io/file/Wang - 2024 - Generalized Ordinal Priority Approach for Multi-At.pdf) 🔗 
@@ -54,6 +56,7 @@ title: Publications & Preprints
 <br>
 
 ----
+
 
 
 
