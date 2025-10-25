@@ -8,17 +8,19 @@ title: Publications & Preprints
 
 <!-- - **Distributionally Preference Robust Choice-Based Discrete Planning** <br> Work-In-Progress (With Yifan Hu) -->
 
-- **[<font color='#3366CC'>Preference Robust Ordinal Priority Approach with Preference Elicitation under Incomplete Information for Multi-Attribute Robust Ranking and Selection</font>](https://doi.org/10.48550/arXiv.2412.12690)** <br>**Renlong Wang** (Sole Author) <br> _**Computers & Industrial Engineering**_ --- Under the First-Round Review (Submission Date: Jun 16, 2025; Status Date: Jul 12, 2025) <br> Preprint Version: https://doi.org/10.48550/arXiv.2412.12690, [PDF](https://Renlong-WANG.github.io/file/Wang - 2025 - Preference Robust Ordinal Priority Approach with P.pdf) 🔗 
+- **[<font color='#3366CC'>Preference Robust Ordinal Priority Approach with Preference Elicitation under Incomplete Information for Multi-Attribute Robust Ranking and Selection</font>](https://doi.org/10.48550/arXiv.2412.12690)** <br>**Renlong Wang** (Sole Author) <br> To Be Submitted <br> Preprint Version: https://doi.org/10.48550/arXiv.2412.12690, [PDF](https://Renlong-WANG.github.io/file/Wang - 2025 - Preference Robust Ordinal Priority Approach with P.pdf) 🔗 
 
-- **[<font color='#3366CC'>Nuclear Energy Technology R&D Portfolio Selection under Scenario Uncertainty: Distributionally Robust Ordinal Priority Approach</font>](https://doi.org/10.1016/j.energy.2025.138512)** <br> Shutian Chui, Fengjing Zhu, and **Renlong Wang** * <br> _**Energy**_ --- Accepted (Acceptance Date: Sep 14, 2025) <br> https://doi.org/10.1016/j.energy.2025.138512, [PDF](https://Renlong-WANG.github.io/file/Cui 等 - 2025 - Nuclear energy technology R&D portfolio selection under scenario uncertainty distributionally robus.pdf) 🔗
+- **[<font color='#3366CC'>Nuclear Energy Technology R&D Portfolio Selection under Scenario Uncertainty: Distributionally Robust Ordinal Priority Approach</font>](https://doi.org/10.1016/j.energy.2025.138512)** <br> Shutian Chui, Fengjing Zhu, and **Renlong Wang** * <br> _**Energy**_ --- Published (Acceptance Date: Sep 14, 2025) <br> https://doi.org/10.1016/j.energy.2025.138512, [PDF](https://Renlong-WANG.github.io/file/Cui 等 - 2025 - Nuclear energy technology R&D portfolio selection under scenario uncertainty distributionally robus.pdf) 🔗
 
 ---
 
-## Multi-Criteria Decision Analysis
+## Optimization-Based Multi-Criteria Decision Analysis
 
- - **[<font color='#3366CC'>Generalized Ordinal Priority Approach with Small-Sample Incomplete Preference Learning for Multi-Attribute Decision-Making</font>](https://doi.org/10.48550/arXiv.2407.17099)** <br>**Renlong Wang**  (Sole Author) <br> _**Annals of Operations Research**_ --- In Revision  (Submission Date: Apr 20, 2025; Status Date: Sep 8, 2025) <br> Preprint Version: https://doi.org/10.48550/arXiv.2407.17099, [PDF](https://Renlong-WANG.github.io/file/Wang - 2024 - Generalized Ordinal Priority Approach for Multi-At.pdf) 🔗 
+- **Improvisational Emergency Supplier Selection Considering Expert Consensus Ambiguity: Robust Consensus Ordinal Priority Approach** <br> Zhenghe Mao, **Renlong Wang** * <br> _**Scientific Reports**_ --- Under First-Round Review (Submission Date: Sep 30, 2025; Status Date: 23 Oct, 2025)
 
-- **[<font color='#3366CC'>Multi-Attribute Decision-Making Approach for Improvisational Emergency Supplier Selection: Partial Ordinal Priority Approach</font>](https://doi.org/10.1016/j.eswa.2025.128196)** <br>**Renlong Wang**, Rui Shen, Hong Chi, Xueyan Shao, and Mingang Gao * <br> _**Expert System with Applications**_ --- Accepted (Acceptance Date: May 16, 2025) <br> https://doi.org/10.1016/j.eswa.2025.128196, [PDF](https://Renlong-WANG.github.io/file/Wang 等 - 2025 - Multi-attribute decision-making approach for impro.pdf) 🔗
+ - **[<font color='#3366CC'>Generalized Ordinal Priority Approach with Small-Sample Incomplete Preference Learning for Multi-Attribute Decision-Making</font>](https://doi.org/10.48550/arXiv.2407.17099)** <br>**Renlong Wang**  (Sole Author) <br> _**Annals of Operations Research**_ --- In First-Round Major Revision  (Submission Date: Apr 20, 2025; Status Date: Sep 8, 2025) <br> Preprint Version: https://doi.org/10.48550/arXiv.2407.17099, [PDF](https://Renlong-WANG.github.io/file/Wang - 2024 - Generalized Ordinal Priority Approach for Multi-At.pdf) 🔗 
+
+- **[<font color='#3366CC'>Multi-Attribute Decision-Making Approach for Improvisational Emergency Supplier Selection: Partial Ordinal Priority Approach</font>](https://doi.org/10.1016/j.eswa.2025.128196)** <br>**Renlong Wang**, Rui Shen, Hong Chi, Xueyan Shao, and Mingang Gao * <br> _**Expert System with Applications**_ --- Published (Acceptance Date: May 16, 2025) <br> https://doi.org/10.1016/j.eswa.2025.128196, [PDF](https://Renlong-WANG.github.io/file/Wang 等 - 2025 - Multi-attribute decision-making approach for impro.pdf) 🔗
 
 - **[<font color='#3366CC'>Policy-Driven Analysis of Carbon Emission Efficiency under Uncertainty and its Application in Chinese Industry: Hybrid Delta-Slacks-Based Model and Ordinal Priority Approach</font>](https://doi.org/10.1016/j.energy.2025.135832)** <br> Shutian Cui, and **Renlong Wang** *, Xiaoyan Li, and Xiuguang Bai * <br> _**Energy**_ --- Published (Acceptance Date: Mar 24, 2025) <br> https://doi.org/10.1016/j.energy.2025.135832, [PDF](https://Renlong-WANG.github.io/file/Cui 等 - 2025 - Policy-driven analysis of carbon emission efficien.pdf) 🔗
 
@@ -30,11 +32,11 @@ title: Publications & Preprints
 
 ## Complex System Modeling & Analysis
 
-- **Assessing Port Logistics Data Governance Capacity through a Governance Mechanism Perspective: a Collaboration-Based Meta-Network Modeling Approach** <br> Shutian Chui, **Renlong Wang** *, and Endong Wang * <br> _**Engineering Management Journal**_ --- Under the First-Round Review (Submission Date: Jan 29, 2025)
+- **Assessing Port Logistics Data Governance Capacity through a Governance Mechanism Perspective: a Collaboration-Based Meta-Network Modeling Approach** <br> Shutian Chui, **Renlong Wang** *, and Endong Wang * <br> _**Engineering Management Journal**_ --- Under First-Round Review (Submission Date: Jan 29, 2025)
 
-- **Dynamic Metanetwork-Based Risk Analysis Framework under Prospect Theory for Emergency Response Performance Assessment with Procedure Dependency and Organization Collaboration** <br> **Renlong Wang**, Jingyao Yue, Mingang Gao *, Anh Ngoc Quang Huynh, and Jintao Lu <br> _**Risk Analysis**_ --- In the First-Round Major Revision (Submission Date: Jan 20, 2025; Status Date: Jul 18, 2025)
+- **Dynamic Metanetwork-Based Risk Analysis Framework under Prospect Theory for Emergency Response Performance Assessment with Procedure Dependency and Organization Collaboration** <br> **Renlong Wang**, Jingyao Yue, Mingang Gao *, Anh Ngoc Quang Huynh, and Jintao Lu <br> _**Risk Analysis**_ --- Under Second-Round Review (Submission Date: Jan 20, 2025; Status Date: Aug 18, 2025)
 
-- **[<font color='#3366CC'>Mastering the Complexity: A Cellular Automata-Based Framework for Simulating Resilience of Hospital Power-Water-Firefighting-Space Nexus System</font>](https://doi.org/10.1016/j.simpat.2025.103177)** <br> **Renlong Wang**, Lingzhi Li *, Wenjie Lin, Endong Wang, and Jingfeng Yuan <br> _**Simulation Modelling Practice and Theory**_ --- Accepted (Acceptance Date: Jun 27, 2025) <br> https://doi.org/10.1016/j.simpat.2025.103177 [PDF](https://Renlong-WANG.github.io/file/Wang - 2025 - Mastering the complexity An enhanced cellular aut.pdf) 🔗
+- **[<font color='#3366CC'>Mastering the Complexity: A Cellular Automata-Based Framework for Simulating Resilience of Hospital Power-Water-Firefighting-Space Nexus System</font>](https://doi.org/10.1016/j.simpat.2025.103177)** <br> **Renlong Wang**, Lingzhi Li *, Wenjie Lin, Endong Wang, and Jingfeng Yuan <br> _**Simulation Modelling Practice and Theory**_ --- Published (Acceptance Date: Jun 27, 2025) <br> https://doi.org/10.1016/j.simpat.2025.103177 [PDF](https://Renlong-WANG.github.io/file/Wang - 2025 - Mastering the complexity An enhanced cellular aut.pdf) 🔗
 
 - **[<font color='#3366CC'>Systematic Scenario Modeling for Priority Assessment of Sustainable Development Goals in China under Interaction and Uncertainty</font>](https://doi.org/10.1007/s10668-024-04526-4)** <br>**Renlong Wang**, Shutian Cui, and Mingang Gao * <br> _**Environment, Development and Sustainability**_ --- Published (Acceptance Date: Jan 16, 2024) <br> https://doi.org/10.1007/s10668-024-04526-4, [PDF](https://Renlong-WANG.github.io/file/Wang 等 - 2024 - Systematic scenario modeling for priority assessme.pdf) 🔗
 
@@ -52,6 +54,7 @@ title: Publications & Preprints
 <br>
 
 ----
+
 
 
 
