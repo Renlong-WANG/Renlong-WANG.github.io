@@ -8,11 +8,11 @@ title: Publications & Preprints
 
 <!-- - **Distributionally Preference Robust Choice-Based Discrete Planning** <br> Work-In-Progress (With Yifan Hu) -->
 
-- **[<font color='#3366CC'>Preference Robust Ordinal Priority Approach with Preference Elicitation under Incomplete Information for Multi-Attribute Robust Ranking and Selection</font>](https://doi.org/10.48550/arXiv.2412.12690)** <br>**Renlong Wang** (Sole Author) <br> To Be Submitted <br> Preprint Version: https://doi.org/10.48550/arXiv.2412.12690, [PDF](https://Renlong-WANG.github.io/file/Wang - 2025 - Preference Robust Ordinal Priority Approach with P.pdf) 🔗 
-
-- **[<font color='#3366CC'>Nuclear Energy Technology R&D Portfolio Selection under Scenario Uncertainty: Distributionally Robust Ordinal Priority Approach</font>](https://doi.org/10.1016/j.energy.2025.138512)** <br> Shutian Chui, Fengjing Zhu, and **Renlong Wang** * <br> _**Energy**_ --- Published (Acceptance Date: Sep 14, 2025) <br> https://doi.org/10.1016/j.energy.2025.138512, [PDF](https://Renlong-WANG.github.io/file/Cui 等 - 2025 - Nuclear energy technology R&D portfolio selection under scenario uncertainty distributionally robus.pdf) 🔗
+- **[<font color='#3366CC'>Preference Robust Ordinal Priority Approach with Preference Elicitation under Incomplete Information for Multi-Attribute Robust Ranking and Selection</font>](https://doi.org/10.48550/arXiv.2412.12690)** <br>**Renlong Wang** (Sole Author) <br> To Be Submitted <br> Preprint Version: https://doi.org/10.48550/arXiv.2412.12690, [PDF](https://Renlong-WANG.github.io/file/Wang - 2025 - Preference Robust Ordinal Priority Approach with P.pdf) 🔗
 
 - **Improvisational Emergency Supplier Selection Considering Expert Consensus Ambiguity: Robust Consensus Ordinal Priority Approach** <br> Zhenghe Mao, **Renlong Wang** * <br> _**Scientific Reports**_ --- Under First-Round Review (Submission Date: Sep 30, 2025; Status Date: 23 Oct, 2025)
+
+- **[<font color='#3366CC'>Nuclear Energy Technology R&D Portfolio Selection under Scenario Uncertainty: Distributionally Robust Ordinal Priority Approach</font>](https://doi.org/10.1016/j.energy.2025.138512)** <br> Shutian Chui, Fengjing Zhu, and **Renlong Wang** * <br> _**Energy**_ --- Published (Acceptance Date: Sep 14, 2025) <br> https://doi.org/10.1016/j.energy.2025.138512, [PDF](https://Renlong-WANG.github.io/file/Cui 等 - 2025 - Nuclear energy technology R&D portfolio selection under scenario uncertainty distributionally robus.pdf) 🔗
 
 ---
 
@@ -56,6 +56,7 @@ title: Publications & Preprints
 <br>
 
 ----
+
 
 
 
