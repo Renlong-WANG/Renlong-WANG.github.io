@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p style="font-size: 2.8rem; font-weight: 700;">
+<p style="font-size: 2.5rem; font-weight: 700; margin-bottom: 0.3em;">
   Renlong WANG（王人龙）
 </p>
 
