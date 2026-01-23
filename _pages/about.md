@@ -34,9 +34,9 @@ My current research focuses on developing innovative solutions for modeling, eva
 
 <div class="scrollable">
  <ul>
-<li><strong>2026.01</strong>: &nbsp;🎉 I have one corresponding-author paper accepted by <em>Scientific Reports.</em>.</li>
+<li><strong>2026.01</strong>: &nbsp;🎉 I have one corresponding-author paper accepted by <em>Scientific Reports</em>.</li>
 <li><strong>2025.12</strong>: &nbsp;🎉 I have one paper recognized as a <em>CNKI Highly Cited Paper</em>.</li>
-<li><strong>2025.11</strong>: &nbsp;🎉 I am honored with the <em>National Scholarship for Postgraduates (Master).</em>.</li>
+<li><strong>2025.11</strong>: &nbsp;🎉 I am honored with the <em>National Scholarship for Postgraduates (Master)</em>.</li>
 <li><strong>2025.09</strong>: &nbsp;🎉 I have one corresponding-author paper accepted by <em>Energy</em>.</li>
 <li><strong>2025.09</strong>: &nbsp;🎉 I have one first-author paper accepted by <em>Simulation Modelling Practice and Theory</em>.</li>
 <li><strong>2025.05</strong>: &nbsp;🎉 I have one first-author paper accepted by <em>Expert System with Applications</em>.</li>
@@ -46,14 +46,14 @@ My current research focuses on developing innovative solutions for modeling, eva
 <li><strong>2024.11</strong>: &nbsp;🎉 I am honored with the <em>National Scholarship for Postgraduates (Master)</em>.</li>
 <li><strong>2024.11</strong>: &nbsp;🎉 I receive the <em>Best Paper First Prize</em> at the 2024 International Symposium on Emergency Management.</li>
 <li><strong>2024.08</strong>: &nbsp;🎉 I receive the <em>Excellent Paper Award</em> at the 2024 POMS Summer School.</li>
-<li><strong>2024.07</strong>: &nbsp;🎉 I am recognized as <em>Merit Student of the University of Chinese Academy of Sciences.</em>.</li>
+<li><strong>2024.07</strong>: &nbsp;🎉 I am recognized as <em>Merit Student of the University of Chinese Academy of Sciences</em>.</li>
 <li><strong>2024.05</strong>: &nbsp;🎉 I have one sole-author paper accepted by <em>Information Sciences</em>.</li>
 <li><strong>2024.03</strong>: &nbsp;🎉 I have one first-author paper accepted by <em>Chinese Journal of Management Science (in Chinese)</em>.</li>
 <li><strong>2024.01</strong>: &nbsp;🎉 I have one first-author paper accepted by <em>Environment, Development and Sustainability</em>.</li>
 <li><strong>2023.11</strong>: &nbsp;🎉 I receive the <em>Best Paper Third Prize</em> at the 2023 International Symposium on Emergency Management.</li>
 <li><strong>2023.09</strong>: &nbsp;🎉 I become a master's student at the University of Chinese Academy of Sciences.</li>
 <li><strong>2023.08</strong>: &nbsp;🎉 I receive the <em>Excellent Paper Award</em> at the 2023 POMS Summer School in China.</li>
-<li><strong>2023.06</strong>: &nbsp;🎉 I am recognized as <em>Distinguished Graduates in Civil Engineering from Jiangsu Universities and Colleges.</em>.</li>
+<li><strong>2023.06</strong>: &nbsp;🎉 I am recognized as <em>Distinguished Graduates in Civil Engineering from Jiangsu Universities and Colleges</em>.</li>
 </ul>
 </div>
 
@@ -67,53 +67,53 @@ My current research focuses on developing innovative solutions for modeling, eva
 
 (*Corresponding author)
 
-1. Robust Consensus Ordinal Priority Approach for Improvisational Emergency Supplier Selection under Expert Consensus Ambiguity. <br>
+1. Robust Consensus Ordinal Priority Approach for Improvisational Emergency Supplier Selection under Expert Consensus Ambiguity <br>
   - Hezheng Mao, and **Renlong Wang** * <br>
   - **Scientific Reports** (2026, SCI JCR-Q1, IF: 3.9)
 
-1. [Nuclear Energy Technology R&D Portfolio Selection under Scenario Uncertainty: Distributionally Robust Ordinal Priority Approach.](https://doi.org/10.1016/j.energy.2025.138512)<br>
+1. [Nuclear Energy Technology R&D Portfolio Selection under Scenario Uncertainty: Distributionally Robust Ordinal Priority Approach](https://doi.org/10.1016/j.energy.2025.138512)<br>
   - Shutian Chui, Fengjing Zhu, and **Renlong Wang** *<br> 
   - **Energy** (2025, SCI JCR-Q1, IF: 9.4)
 
-1. [Mastering the Complexity: A Cellular Automata-Based Framework for Simulating Resilience of Hospital Power-Water-Firefighting-Space Nexus System.](https://doi.org/10.1016/j.simpat.2025.103177)<br>
+1. [Mastering the Complexity: A Cellular Automata-Based Framework for Simulating Resilience of Hospital Power-Water-Firefighting-Space Nexus System](https://doi.org/10.1016/j.simpat.2025.103177)<br>
   - **Renlong Wang**, Lingzhi Li *, Wenjie Lin, Endong Wang, and Jingfeng Yuan<br> 
   - **Simulation Modelling Practice and Theory** (2025, SCI JCR-Q1, IF: 4.6)
 
-1. [Multi-Attribute Decision-Making Approach for Improvisational Emergency Supplier Selection: Partial Ordinal Priority Approach.](https://doi.org/10.1016/j.eswa.2025.128196)<br>
+1. [Multi-Attribute Decision-Making Approach for Improvisational Emergency Supplier Selection: Partial Ordinal Priority Approach](https://doi.org/10.1016/j.eswa.2025.128196)<br>
   - **Renlong Wang**, Rui Shen, Hong Chi, Xueyan Shao, and Mingang Gao *<br> 
   - **Expert Systems with Applications** (2025, SCI JCR-Q1, IF: 7.5)
     - Oral presentation at 2023 POMS Summer School in China
 
-1. [Policy-Driven Analysis of Carbon Emission Efficiency under Uncertainty and its Application in Chinese Industry: Hybrid Delta-Slacks-Based Model and Ordinal Priority Approach.](https://doi.org/10.1016/j.energy.2025.135832)<br>
+1. [Policy-Driven Analysis of Carbon Emission Efficiency under Uncertainty and its Application in Chinese Industry: Hybrid Delta-Slacks-Based Model and Ordinal Priority Approach](https://doi.org/10.1016/j.energy.2025.135832)<br>
   - Shutian Cui, and **Renlong Wang** *, Xiaoyan Li, and Xiuguang Bai *<br> 
   - **Energy** (2025, SCI JCR-Q1, IF: 9.4)
 
-1. [A Hybrid MADM Method Considering Expert Consensus for Emergency Recovery Plan Selection.](https://doi.org/10.1016/j.ins.2024.120784)<br>
+1. [A Hybrid MADM Method Considering Expert Consensus for Emergency Recovery Plan Selection](https://doi.org/10.1016/j.ins.2024.120784)<br>
   - **Renlong Wang**<br> 
   - **Information Sciences** (2024, SCI JCR-Q1, IF: 6.8)
 
-1. [Partial Ordinal Priority Approach Considering Pareto Optimal Identification for Multi-Attribute Decision-Making (in Chinese).](https://doi.org/10.16381/j.cnki.issn1003-207x.2023.1805)<br>
+1. [Partial Ordinal Priority Approach Considering Pareto Optimal Identification for Multi-Attribute Decision-Making (in Chinese)](https://doi.org/10.16381/j.cnki.issn1003-207x.2023.1805)<br>
   - **Renlong Wang**, Rui Shen, Hong Chi, and Mingang Gao *<br> 
   - **Chinese Journal of Management Science (中国管理科学)** (2024, CSSCI)
     - Oral presentation at 2023 (25th) Annual Conference on Management Science in China
 
-1. [A Novel Cost Analysis Method for Accelerator Driven Advanced Nuclear Energy System (ADANES) Considering Uncertainty Throughout the R&D Cycle.](https://doi.org/10.1016/j.apenergy.2024.122822)<br>
+1. [A Novel Cost Analysis Method for Accelerator Driven Advanced Nuclear Energy System (ADANES) Considering Uncertainty Throughout the R&D Cycle](https://doi.org/10.1016/j.apenergy.2024.122822)<br>
   - Zhen Li, Mingliang Qi, **Renlong Wang**, Mingang Gao *, Xuesong Yan, and Yangyang Yang<br> 
   - **Applied Energy** (2024, SCI JCR-Q1, IF: 10.1)
 
-1. [Systematic Scenario Modeling for Priority Assessment of Sustainable Development Goals in China under Interaction and Uncertainty.](https://doi.org/10.1007/s10668-024-04526-4)<br>
+1. [Systematic Scenario Modeling for Priority Assessment of Sustainable Development Goals in China under Interaction and Uncertainty](https://doi.org/10.1007/s10668-024-04526-4)<br>
   - **Renlong Wang**, Shutian Cui, and Mingang Gao *<br> 
   - **Environment, Development and Sustainability** (2024, SCI JCR-Q2, IF: 4.7)
 
-1. [Evaluating the effectiveness of the COVID-19 emergency outbreak prevention and control based on CIA-ISM.](https://doi.org/10.3390/ijerph19127146)<br>
+1. [Evaluating the effectiveness of the COVID-19 emergency outbreak prevention and control based on CIA-ISM](https://doi.org/10.3390/ijerph19127146)<br>
   - **Renlong Wang**, Endong Wang *, Lingzhi Li *, and Wei Li<br> 
   - **International Journal of Environmental Research and Public Health** (2022, SCI JCR-Q1, IF: 4.6)
 
-1. [Safety Risk Assessment and Control of Prefabricated Building Construction Based on BN-MNA Model (in Chinese).](https://doi.org/10.13579/j.cnki.2095-0985.2022.20211019)<br>
+1. [Safety Risk Assessment and Control of Prefabricated Building Construction Based on BN-MNA Model (in Chinese)](https://doi.org/10.13579/j.cnki.2095-0985.2022.20211019)<br>
   - Yao Ding, **Renlong Wang**, Lingzhi Li *, Jingfeng Yuan, and Ling Shen<br> 
   - **Journal of Civil Engineering and Management (土木工程与管理学报)** (2022, PKU Core)
 
-1. [Safety Performance Evaluation of Prefabricated Building Construction from the Perspective of Three Dimensional Space (in Chinese).](https://doi.org/10.11731/j.issn.1673-193x.2022.09.030)<br>
+1. [Safety Performance Evaluation of Prefabricated Building Construction from the Perspective of Three Dimensional Space (in Chinese)](https://doi.org/10.11731/j.issn.1673-193x.2022.09.030)<br>
   - Yilun Zhou, **Renlong Wang**, and Jianjun She *<br> 
   - **China Production Safety Science and Technology (中国安全生产科学技术)** (2022, PKU Core)
     - 🎉🎉🎉CNKI Highly Cited Paper
@@ -122,21 +122,21 @@ My current research focuses on developing innovative solutions for modeling, eva
 
 (*Corresponding author)
 
-1. Dynamic Metanetwork-Based Risk Analysis Framework under Prospect Theory for Emergency Response Performance Assessment with Procedure Dependency and Organization Collaboration.<br>
+1. Dynamic Metanetwork-Based Risk Analysis Framework under Prospect Theory for Emergency Response Performance Assessment with Procedure Dependency and Organization Collaboration<br>
   - **Renlong Wang**, Jingyao Yue, Mingang Gao *, Anh Ngoc Quang Huynh, and Jintao Lu<br> 
   - **Risk Analysis** (Under Second-Round Review)
     - Oral presentation at 2024 International Symposium on Emergency Management
 
-1. Generalized Ordinal Priority Approach with Small-Sample Incomplete Preference Learning for Multi-Attribute Decision-Making.<br>
+1. Generalized Ordinal Priority Approach with Small-Sample Incomplete Preference Learning for Multi-Attribute Decision-Making<br>
   - **Renlong Wang**<br> 
   - **Annals of Operations Research** (In First-Round Major Revision)
     - Oral presentation at 2024 POMS Summer School in China
 
-1. A Policy-Driven Energy Poverty Analysis Tool Based on the Satisfac-Based DEA-OPA Model: Evidence from Chinese Provinces.<br>
+1. A Policy-Driven Energy Poverty Analysis Tool Based on the Satisfac-Based DEA-OPA Model: Evidence from Chinese Provinces<br>
   - **Renlong Wang**<br> 
   - **Socio-Economic Planning Sciences** (Under First-Round Review)
 
-1. Assessing Port Logistics Data Governance Capacity through a Governance Mechanism Perspective: a Collaboration-Based Meta-Network Modeling Approach.<br>
+1. Assessing Port Logistics Data Governance Capacity through a Governance Mechanism Perspective: a Collaboration-Based Meta-Network Modeling Approach<br>
   - Shutian Chui, **Renlong Wang** *, and Endong Wang * <br> 
   - **Engineering Management Journal** (Under First-Round Review)
 
