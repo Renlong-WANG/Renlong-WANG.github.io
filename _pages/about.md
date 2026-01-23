@@ -14,7 +14,7 @@ Hi, I am pursuing my master's degree in Industrial Engineering and Management at
 
 My current research focuses on developing innovative solutions for modeling, evaluation, and optimization of complex systems under the uncertainty in both operating conditions and decision-makers' preferences based on advanced techniques of system simulation, network analysis, data analysis, and operations research, with application in infrastructure resilience and emergency management.
 
-👋 RedNote（小红书）: 巽ys147
+👋 RedNote (小红书): 巽ys147
 
 
 ### 🤔 Research Interests:
@@ -116,7 +116,7 @@ My current research focuses on developing innovative solutions for modeling, eva
 1. [Safety Performance Evaluation of Prefabricated Building Construction from the Perspective of Three Dimensional Space (in Chinese)](https://doi.org/10.11731/j.issn.1673-193x.2022.09.030)<br>
   - Yilun Zhou, **Renlong Wang**, and Jianjun She *<br> 
   - **China Production Safety Science and Technology (中国安全生产科学技术)** (2022, PKU Core)
-    - 🎉🎉 CNKI Highly Cited Paper
+    - 🎉 CNKI Highly Cited Paper
 
 # 🔬 Drafts
 
@@ -142,21 +142,21 @@ My current research focuses on developing innovative solutions for modeling, eva
 
 
 # 🏆 Honors and Awards
-1. 🎉🎉 National Scholarship for Postgraduates (Master), 2025.11
+1. 🎉 National Scholarship for Postgraduates (Master), 2025.11
 1. 🎉 Excellent Prize for the President Scholarship of Chinese Academy of Sciences, 2025.04
 1. Excellent Paper Award  at the 2024 Student Academic Forum of the University of Chinese Academy of Sciences, 2024.12
 1. Best Paper First Prize of 2024 International Symposium on Emergency Management, 2024.11
-1. 🎉🎉 National Scholarship for Postgraduates (Master), 2024.11
+1. 🎉 National Scholarship for Postgraduates (Master), 2024.11
 1. Excellent Paper Award of 2024 POMS Summer School in China, 2024.08
 1. Merit Student of the University of Chinese Academy of Sciences, 2024.07
 1. Best Paper Third Prize of 2023 International Symposium on Emergency Management, 2023.11
-1. 🎉🎉 Distinguished Graduates in Civil Engineering from Jiangsu Universities and Colleges, 2023.06
+1. 🎉 Distinguished Graduates in Civil Engineering from Jiangsu Universities and Colleges, 2023.06
 1. Excellent Paper Award of 2023 POMS Summer School in China, 2023.08
-1. 🎉🎉🎉 Outstanding Winner Prize of American Undergraduate Mathematical Contest in Modeling, 2022<br>
+1. 🎉 Outstanding Winner Prize of American Undergraduate Mathematical Contest in Modeling, 2022<br>
   - Highest award for the undergraduate mathematical contest in modeling in America (Top 0.16% among 27,205 teams)
-1. 🎉🎉🎉 SIAM Award of American Undergraduate Mathematical Contest in Modeling, 2022<br>
+1. 🎉 SIAM Award of American Undergraduate Mathematical Contest in Modeling, 2022<br>
   - Six teams worldwide designated by The Society for Industrial and Applied Mathematics (SIAM)
-1. 🎉🎉🎉 First Prize of Contemporary Undergraduate Mathematical Contest in Modeling, 2021<br>
+1. 🎉 First Prize of Contemporary Undergraduate Mathematical Contest in Modeling, 2021<br>
   - Highest award for the undergraduate mathematical contest in modeling in China (Top 0.65% among 45,075 teams)
 
 
