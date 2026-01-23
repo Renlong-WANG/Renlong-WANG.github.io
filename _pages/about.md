@@ -19,7 +19,7 @@ My current research focuses on developing innovative solutions for modeling, eva
 
 ### 🤔 Research Interests:
 * Infrastructure Resilience under Uncertainty
-* AI-Aided Robust and Equitable Decision-Making Framework
+* AI-Aided Robust and Equitable Decision-Making
 * Physics-Informed Machine Learning
 * Contextual Stochastic Optimization
 
