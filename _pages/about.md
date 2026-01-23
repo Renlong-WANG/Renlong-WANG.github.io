@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+<p class="page__name"> Renlong WANG（王人龙）</p>
+
 # 🧐 About Me
 
-Hi, this is Renlong WANG (王人龙). I am pursuing my master's degree in Industrial Engineering and Management at the University of Chinese Academy of Sciences (UCAS), supervised by Dr. [<font color='#3366CC'>Mingang Gao</font>](https://people.ucas.ac.cn/~0028787) from CAS, with an expected graduation date of June 2026. Before that, I received my bachelor's degree in Civil Engineering from Nanjing Tech University (NJTech) in 2023, advised by Dr. [<font color='#3366CC'>Lingzhi Li</font>](https://cce.njtech.edu.cn/info/1098/3647.htm). I am also fortunate to collaborate with Dr. [<font color='#3366CC'>Endong Wang</font>](https://www.esf.edu/faculty/endong-wang/index.php) from SUNY-ESF and Dr. [<font color='#3366CC'>Xueyan Shao</font>](https://people.ucas.ac.cn/~0058756) from CAS. 
+I am pursuing my master's degree in Industrial Engineering and Management at the University of Chinese Academy of Sciences (UCAS), supervised by Dr. [<font color='#3366CC'>Mingang Gao</font>](https://people.ucas.ac.cn/~0028787) from CAS, with an expected graduation date of June 2026. Before that, I received my bachelor's degree in Civil Engineering from Nanjing Tech University (NJTech) in 2023, advised by Dr. [<font color='#3366CC'>Lingzhi Li</font>](https://cce.njtech.edu.cn/info/1098/3647.htm). I am also fortunate to collaborate with Dr. [<font color='#3366CC'>Endong Wang</font>](https://www.esf.edu/faculty/endong-wang/index.php) from SUNY-ESF and Dr. [<font color='#3366CC'>Xueyan Shao</font>](https://people.ucas.ac.cn/~0058756) from CAS. 
 
 My current research focuses on developing innovative solutions for modeling, evaluation, and optimization of complex systems under the uncertainty in both operating conditions and decision-makers' preferences based on advanced techniques of system simulation, network analysis, data analysis, and operations research, with application in infrastructure resilience and emergency management.
 
