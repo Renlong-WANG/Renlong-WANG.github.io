@@ -81,7 +81,7 @@ My current research focuses on developing innovative solutions for modeling, eva
 
 1. [Multi-Attribute Decision-Making Approach for Improvisational Emergency Supplier Selection: Partial Ordinal Priority Approach](https://doi.org/10.1016/j.eswa.2025.128196)<br>
   - **Renlong Wang**, Rui Shen, Hong Chi, Xueyan Shao, and Mingang Gao *<br> 
-  - **Expert Systems with Applications** (2025, SCI JCR-Q1, IF: 7.5)
+  - **Expert Systems with Applications** (2025, SCI JCR-Q1, IF: 7.5)<br> 
     - Oral presentation at 2023 POMS Summer School in China
 
 1. [Policy-Driven Analysis of Carbon Emission Efficiency under Uncertainty and its Application in Chinese Industry: Hybrid Delta-Slacks-Based Model and Ordinal Priority Approach](https://doi.org/10.1016/j.energy.2025.135832)<br>
@@ -94,7 +94,7 @@ My current research focuses on developing innovative solutions for modeling, eva
 
 1. [Partial Ordinal Priority Approach Considering Pareto Optimal Identification for Multi-Attribute Decision-Making (in Chinese)](https://doi.org/10.16381/j.cnki.issn1003-207x.2023.1805)<br>
   - **Renlong Wang**, Rui Shen, Hong Chi, and Mingang Gao *<br> 
-  - **Chinese Journal of Management Science (中国管理科学)** (2024, CSSCI)
+  - **Chinese Journal of Management Science (中国管理科学)** (2024, CSSCI)<br> 
     - Oral presentation at 2023 (25th) Annual Conference on Management Science in China
 
 1. [A Novel Cost Analysis Method for Accelerator Driven Advanced Nuclear Energy System (ADANES) Considering Uncertainty Throughout the R&D Cycle](https://doi.org/10.1016/j.apenergy.2024.122822)<br>
@@ -115,7 +115,7 @@ My current research focuses on developing innovative solutions for modeling, eva
 
 1. [Safety Performance Evaluation of Prefabricated Building Construction from the Perspective of Three Dimensional Space (in Chinese)](https://doi.org/10.11731/j.issn.1673-193x.2022.09.030)<br>
   - Yilun Zhou, **Renlong Wang**, and Jianjun She *<br> 
-  - **China Production Safety Science and Technology (中国安全生产科学技术)** (2022, PKU Core)
+  - **China Production Safety Science and Technology (中国安全生产科学技术)** (2022, PKU Core)<br> 
     - **CNKI Highly Cited Paper**
 
 # 🔬 Drafts
@@ -124,12 +124,12 @@ My current research focuses on developing innovative solutions for modeling, eva
 
 1. Dynamic Metanetwork-Based Risk Analysis Framework under Prospect Theory for Emergency Response Performance Assessment with Procedure Dependency and Organization Collaboration<br>
   - **Renlong Wang**, Jingyao Yue, Mingang Gao *, Anh Ngoc Quang Huynh, and Jintao Lu<br> 
-  - **Risk Analysis** (Under Second-Round Review)
+  - **Risk Analysis** (Under Second-Round Review)<br> 
     - Oral presentation at 2024 International Symposium on Emergency Management
 
 1. Generalized Ordinal Priority Approach with Small-Sample Incomplete Preference Learning for Multi-Attribute Decision-Making<br>
   - **Renlong Wang**<br> 
-  - **Annals of Operations Research** (In First-Round Major Revision)
+  - **Annals of Operations Research** (In First-Round Major Revision)<br> 
     - Oral presentation at 2024 POMS Summer School in China
 
 1. A Policy-Driven Energy Poverty Analysis Tool Based on the Satisfac-Based DEA-OPA Model: Evidence from Chinese Provinces<br>
