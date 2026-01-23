@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<p class="page__name"> Renlong WANG（王人龙）</p>
+<p style="font-size: 2.8rem; font-weight: 700;">
+  Renlong WANG（王人龙）
+</p>
 
 # 🧐 About Me
 
