@@ -6,10 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jie Fu"
-description              : "Ph.D. student at Stevens."
-repository               : "JeffffffFu/JeffffffFu.github.io"
-google_scholar_stats_use_cdn : true
+title                    : "Renlong WANG (王人龙)"
+description              : "M.S. Student at the University of Chinese Academy of Sciences"
+repository               : "Renlong-WANG/Renlong-WANG.github.io"
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : " (Jeff) JIE FU"
+  name             : "Renlong WANG"
   avatar           : "images/Jeff.png"
-  bio              : #"Lorem ipsum College"
-  location         : "Hoboken, USA"
+  bio              :
+  location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?&user=VcgK6nAAAAAJ"
-  email            : "jfu13@stevens.edu"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?&user=HwDGjnMAAAAJ"
+  email            : "13127073530@163.com"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -37,18 +37,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "JeffffffFu"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  linkedin         : "https://www.linkedin.com/in/renlong-wang-0b41aa379"
+  dblp             :
+  orcid            : "https://orcid.org/0000-0002-6144-6028"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : 
@@ -57,7 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  bilibili         :  "https://space.bilibili.com/80356866?spm_id_from=333.1007.0.0"
+  bilibili         :
 
 # Reading Files
 include:
