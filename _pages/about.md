@@ -116,7 +116,7 @@ My current research focuses on developing innovative solutions for modeling, eva
 1. [Safety Performance Evaluation of Prefabricated Building Construction from the Perspective of Three Dimensional Space (in Chinese)](https://doi.org/10.11731/j.issn.1673-193x.2022.09.030)<br>
   - Yilun Zhou, **Renlong Wang**, and Jianjun She *<br> 
   - **China Production Safety Science and Technology (中国安全生产科学技术)** (2022, PKU Core)
-    - 🎉🎉🎉CNKI Highly Cited Paper
+    - 🎉🎉 CNKI Highly Cited Paper
 
 # 🔬 Drafts
 
