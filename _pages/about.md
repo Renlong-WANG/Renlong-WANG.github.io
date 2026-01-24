@@ -128,7 +128,7 @@ My current research focuses on developing innovative solutions for modeling, eva
 
 1. Dynamic Metanetwork-Based Risk Analysis Framework under Prospect Theory for Emergency Response Performance Assessment with Procedure Dependency and Organization Collaboration<br>
   - **Renlong Wang**, Jingyao Yue, Mingang Gao *, Anh Ngoc Quang Huynh, and Jintao Lu<br> 
-  - **Risk Analysis** (Under Second-Round Review)<br> 
+  - **Risk Analysis** (In First-Round Minor Revision)<br> 
     - Oral presentation at 2024 International Symposium on Emergency Management
 
 1. Generalized Ordinal Priority Approach with Small-Sample Incomplete Preference Learning for Multi-Attribute Decision-Making<br>
@@ -143,6 +143,10 @@ My current research focuses on developing innovative solutions for modeling, eva
 1. Assessing Port Logistics Data Governance Capacity through a Governance Mechanism Perspective: a Collaboration-Based Meta-Network Modeling Approach<br>
   - Shutian Chui, **Renlong Wang** *, and Endong Wang * <br> 
   - **Engineering Management Journal** (Under First-Round Review)
+
+1. A Robust Relative Efficiency Evaluation Method Considering Uncertainty in Decision-Makers’ Preferences (in Chinese)<br>
+  - Xiong Liu, **Renlong Wang**, and Xueyan Shao * <br> 
+  - **Chinese Journal of Management Science (中国管理科学)** (Under First-Round Review)
 
 
 # 🏆 Honors and Awards
