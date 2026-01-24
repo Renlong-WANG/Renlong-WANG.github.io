@@ -117,7 +117,7 @@ My current research focuses on developing innovative solutions for modeling, eva
   - Yao Ding, **Renlong Wang**, Lingzhi Li *, Jingfeng Yuan, and Ling Shen<br> 
   - **Journal of Civil Engineering and Management (土木工程与管理学报)** (2022, PKU Core)
 
-1. [Safety Performance Evaluation of Prefabricated Building Construction from the Perspective of Three Dimensional Space (in Chinese)](https://doi.org/10.11731/j.issn.1673-193x.2022.09.030)<br>
+1. [Safety Performance Evaluation of Prefabricated Building Construction from the Perspective of Three Dimensional Space (in Chinese)](https://kns.cnki.net/kcms2/article/abstract?v=lSOmZDqoX8NrTg6xmtQG3m4wgdhjpZt9yQCNDxJCP302klkL5i-uNSklsVjNyGZKY58-RQD2ze6L_OSBrlctmfkfUbTyBxDjkNE6IbMgLRPDBruorhYQ_Gfn3XUToauv6P3b3uzPQgttmIEBxOg8WAlNc9OMTKwIvZWe4dAEYv8=&uniplatform=NZKPT)<br>
   - Yilun Zhou, **Renlong Wang**, and Jianjun She *<br> 
   - **China Production Safety Science and Technology (中国安全生产科学技术)** (2022, PKU Core)<br> 
     - **CNKI Highly Cited Paper**
