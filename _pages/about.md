@@ -96,7 +96,7 @@ My current research focuses on developing innovative solutions for modeling, eva
   - **Renlong Wang**<br> 
   - **Information Sciences** (2024, SCI JCR-Q1, IF: 6.8)
 
-1. [Partial Ordinal Priority Approach Considering Pareto Optimal Identification for Multi-Attribute Decision-Making (in Chinese)](https://doi.org/10.16381/j.cnki.issn1003-207x.2023.1805)<br>
+1. [Partial Ordinal Priority Approach Considering Pareto Optimal Identification for Multi-Attribute Decision-Making (in Chinese)](https://kns.cnki.net/kcms2/article/abstract?v=lSOmZDqoX8O-cZCjqaFLY7lOMyDaBMBwU-Srwhb_Q_TN7siQQWmbEzC-34P_sex0kmvwj0WGqkhQZRI-j8roqVwvRcyRNLGKCICimQo-heEpDUc4JKWk4UU60GZ97gpOjPqSDuG5u6nEwcaoIk4N5MS5FSOaOE-y&uniplatform=NZKPT)<br>
   - **Renlong Wang**, Rui Shen, Hong Chi, and Mingang Gao *<br> 
   - **Chinese Journal of Management Science (中国管理科学)** (2024, CSSCI)<br> 
     - Oral presentation at 2023 (25th) Annual Conference on Management Science in China
@@ -113,11 +113,11 @@ My current research focuses on developing innovative solutions for modeling, eva
   - **Renlong Wang**, Endong Wang *, Lingzhi Li *, and Wei Li<br> 
   - **International Journal of Environmental Research and Public Health** (2022, SCI JCR-Q1, IF: 4.6)
 
-1. [Safety Risk Assessment and Control of Prefabricated Building Construction Based on BN-MNA Model (in Chinese)](https://doi.org/10.13579/j.cnki.2095-0985.2022.20211019)<br>
+1. [Safety Risk Assessment and Control of Prefabricated Building Construction Based on BN-MNA Model (in Chinese)](https://kns.cnki.net/kcms2/article/abstract?v=lSOmZDqoX8NwUEY3cfcM2Py3dYPONqKDbRityfMNfnMPdF2H9C2wRSEBNwFM-U4_EY6Y0Q2kAWLuIOQzn9dXBS171sNHvQtwkci7l2APKc9qH8PgGnF6dtJi_bwEeMYr4jhnZxAesAS9jgFpO8MqaL1cdG_QBzENbzzGVbRWlfo=&uniplatform=NZKPT)<br>
   - Yao Ding, **Renlong Wang**, Lingzhi Li *, Jingfeng Yuan, and Ling Shen<br> 
   - **Journal of Civil Engineering and Management (土木工程与管理学报)** (2022, PKU Core)
 
-1. [Safety Performance Evaluation of Prefabricated Building Construction from the Perspective of Three Dimensional Space (in Chinese)](https://kns.cnki.net/kcms2/article/abstract?v=lSOmZDqoX8NrTg6xmtQG3m4wgdhjpZt9yQCNDxJCP302klkL5i-uNSklsVjNyGZKY58-RQD2ze6L_OSBrlctmfkfUbTyBxDjkNE6IbMgLRPDBruorhYQ_Gfn3XUToauv6P3b3uzPQgttmIEBxOg8WAlNc9OMTKwIvZWe4dAEYv8=&uniplatform=NZKPT)<br>
+1. [Safety Performance Evaluation of Prefabricated Building Construction from the Perspective of Three Dimensional Space (in Chinese)](https://kns.cnki.net/kcms2/article/abstract?v=lSOmZDqoX8MG3IRAP9jms3Ki9LM5i-lTcLvc6NVE-9nPIaLkrsEjyEqkAF8_VGNTZXc4kQIw9fgVYay5JvPhR6L95XyLkcbLwhwC1D2_BVOgI2wY2OAnbhIrG4no6bYE_4yKAsg50mqwvTYDMHSMP_pbugQHnLJXuv9gKukWigo=&uniplatform=NZKPT)<br>
   - Yilun Zhou, **Renlong Wang**, and Jianjun She *<br> 
   - **China Production Safety Science and Technology (中国安全生产科学技术)** (2022, PKU Core)<br> 
     - **CNKI Highly Cited Paper**
