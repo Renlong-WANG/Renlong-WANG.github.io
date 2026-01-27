@@ -71,7 +71,7 @@ My current research focuses on developing innovative solutions for modeling, eva
 
 (*Corresponding author)
 
-1. Robust Consensus Ordinal Priority Approach for Improvisational Emergency Supplier Selection under Expert Consensus Ambiguity <br>
+1. [Robust Consensus Ordinal Priority Approach for Improvisational Emergency Supplier Selection under Expert Consensus Ambiguity(https://doi.org/10.1038/s41598-026-36876-6)] <br>
   - Hezheng Mao, and **Renlong Wang** * <br>
   - **Scientific Reports** (2026, SCI JCR-Q1, IF: 3.9)
 
