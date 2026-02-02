@@ -18,8 +18,6 @@ I am pursuing my master's degree in Industrial Engineering and Management at the
 
 My current research focuses on developing innovative solutions for modeling, evaluation, and optimization of complex systems under the uncertainty in both operating conditions and decision-makers' preferences based on advanced techniques of system simulation, network analysis, data analysis, and operations research, with application in infrastructure resilience and emergency management.
 
-👋 RedNote (小红书): 巽ys147
-
 
 ### 🤔 Research Interests:
 * Infrastructure Resilience under Uncertainty
