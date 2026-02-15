@@ -169,6 +169,7 @@ My current research focuses on developing innovative solutions for modeling, eva
 # ✒️ Professional Service
 Journal Reviewer
 - Transportation Research Part E: Logistics and Transportation
+- Scientific Reports
 - Discover Applied Sciences
 - Frontiers in Environmental Science
 - Chinese Journal of Management Science (中国管理科学)
