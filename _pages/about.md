@@ -126,12 +126,12 @@ My current research focuses on developing innovative solutions for modeling, eva
 
 1. Dynamic Metanetwork-Based Risk Analysis Framework under Prospect Theory for Emergency Response Performance Assessment with Procedure Dependency and Organization Collaboration<br>
   - **Renlong Wang**, Jingyao Yue, Mingang Gao *, Anh Ngoc Quang Huynh, and Jintao Lu<br> 
-  - **Risk Analysis** (In First-Round Minor Revision)<br> 
+  - **Risk Analysis** (Under Third-Round Review)<br> 
     - Oral presentation at 2024 International Symposium on Emergency Management
 
 1. Generalized Ordinal Priority Approach with Small-Sample Incomplete Preference Learning for Multi-Attribute Decision-Making<br>
   - **Renlong Wang**<br> 
-  - **Annals of Operations Research** (In First-Round Major Revision)<br> 
+  - **Annals of Operations Research** (Under Second-Round Review)<br> 
     - Oral presentation at 2024 POMS Summer School in China
 
 1. A Policy-Driven Energy Poverty Analysis Tool Based on the Satisfac-Based DEA-OPA Model: Evidence from Chinese Provinces<br>
