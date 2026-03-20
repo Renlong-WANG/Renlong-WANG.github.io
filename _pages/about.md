@@ -14,7 +14,7 @@ redirect_from:
 
 # 🧐 About Me
 
-I am pursuing my master's degree in Industrial Engineering and Management at the University of Chinese Academy of Sciences (UCAS), supervised by Dr. Mingang Gao from CAS, with an expected graduation date of June 2026. Before that, I received my bachelor's degree in Civil Engineering from Nanjing Tech University (NJTech) in 2023, advised by Dr.Lingzhi Li. I am also fortunate to collaborate with Dr. Xueyan Shao from CAS.
+I am pursuing my master's degree in Industrial Engineering and Management at the University of Chinese Academy of Sciences (UCAS), supervised by Dr. Mingang Gao from Chinese Academy of Sciences (CAS), with an expected graduation date of June 2026. Before that, I received my bachelor's degree in Civil Engineering from Nanjing Tech University (NJTech) in 2023, advised by Dr.Lingzhi Li. I am also fortunate to collaborate with Dr. Xueyan Shao from CAS.
 
 My current research focuses on developing innovative solutions for modeling, evaluation, and optimization of complex systems under the uncertainty in both operating conditions and decision-makers' preferences based on advanced techniques of system simulation, network analysis, data analysis, and operations research, with application in infrastructure resilience and emergency management.
 
