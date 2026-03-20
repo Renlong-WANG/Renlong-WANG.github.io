@@ -36,6 +36,7 @@ My current research focuses on developing innovative solutions for modeling, eva
 
 <div class="scrollable">
  <ul>
+<li><strong>2026.03</strong>: &nbsp;🎉 I have one first-author paper accepted by <em>Risk Analysis</em>.</li>
 <li><strong>2026.01</strong>: &nbsp;🎉 I have one corresponding-author paper accepted by <em>Scientific Reports</em>.</li>
 <li><strong>2025.12</strong>: &nbsp;🎉 I have one paper recognized as a <em>CNKI Highly Cited Paper</em>.</li>
 <li><strong>2025.11</strong>: &nbsp;🎉 I am honored with the <em>National Scholarship for Postgraduates (Master)</em>.</li>
@@ -68,6 +69,12 @@ My current research focuses on developing innovative solutions for modeling, eva
 # 📝 Publications 
 
 (*Corresponding author)
+
+1. Dynamic Metanetwork-Based Risk Analysis Framework under Prospect Theory for Emergency Response Performance Assessment with Procedure Dependency and Organization Collaboration<br>
+  - **Renlong Wang**, Jingyao Yue, Mingang Gao *, Anh Ngoc Quang Huynh, and Jintao Lu<br> 
+  - **Risk Analysis** (2026, SSCI JCR-Q1, IF: 3.3)
+  <br> 
+    - Oral presentation at 2024 International Symposium on Emergency Management
 
 1. [Robust Consensus Ordinal Priority Approach for Improvisational Emergency Supplier Selection under Expert Consensus Ambiguity](https://doi.org/10.1038/s41598-026-36876-6) <br>
   - Hezheng Mao, and **Renlong Wang** * <br>
@@ -124,10 +131,9 @@ My current research focuses on developing innovative solutions for modeling, eva
 
 (*Corresponding author)
 
-1. Dynamic Metanetwork-Based Risk Analysis Framework under Prospect Theory for Emergency Response Performance Assessment with Procedure Dependency and Organization Collaboration<br>
-  - **Renlong Wang**, Jingyao Yue, Mingang Gao *, Anh Ngoc Quang Huynh, and Jintao Lu<br> 
-  - **Risk Analysis** (Under Third-Round Review)<br> 
-    - Oral presentation at 2024 International Symposium on Emergency Management
+1. A Robust Relative Efficiency Evaluation Method Considering Uncertainty in Decision-Makers’ Preferences (in Chinese)<br>
+  - Xiong Liu, **Renlong Wang**, and Xueyan Shao * <br> 
+  - **Chinese Journal of Management Science (中国管理科学)** (Under Third-Round Review)
 
 1. Generalized Ordinal Priority Approach with Small-Sample Incomplete Preference Learning for Multi-Attribute Decision-Making<br>
   - **Renlong Wang**<br> 
@@ -141,10 +147,6 @@ My current research focuses on developing innovative solutions for modeling, eva
 1. Assessing Port Logistics Data Governance Capacity through a Governance Mechanism Perspective: a Collaboration-Based Meta-Network Modeling Approach<br>
   - Shutian Chui, **Renlong Wang** *, and Endong Wang * <br> 
   - **Engineering Management Journal** (Under First-Round Review)
-
-1. A Robust Relative Efficiency Evaluation Method Considering Uncertainty in Decision-Makers’ Preferences (in Chinese)<br>
-  - Xiong Liu, **Renlong Wang**, and Xueyan Shao * <br> 
-  - **Chinese Journal of Management Science (中国管理科学)** (Under First-Round Review)
 
 
 # 🏆 Honors and Awards
