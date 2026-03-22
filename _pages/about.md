@@ -14,7 +14,7 @@ redirect_from:
 
 # 🧐 About Me
 
-I am an incoming Ph.D. student in Civil Engineering at [<font color='#3366CC'>Rice University</font>](https://www.rice.edu/about), advised by Dr. [<font color='#3366CC'>Jamie Padgett</font>](https://profiles.rice.edu/faculty/jamie-padgett). I am currently pursuing my master's degree in Industrial Engineering and Management at the [<font color='#3366CC'>University of Chinese Academy of Sciences</font>](https://english.ucas.ac.cn/index.php/about-ucas/introduction) (UCAS), supervised by Dr. [<font color='#3366CC'>Mingang Gao</font>](https://people.ucas.ac.cn/~0028787) from Chinese Academy of Sciences (CAS), with an expected graduation date of June 2026. Before that, I received my bachelor's degree in Civil Engineering from [<font color='#3366CC'>Nanjing Tech University</font>](https://en.njtech.edu.cn/About/General_Information.htm) (NJTech) in 2023, advised by Dr. [<font color='#3366CC'>Lingzhi Li</font>](https://cce.njtech.edu.cn/info/1098/3647.htm).
+I am an incoming Ph.D. student in Civil Engineering at [<font color='#3366CC'>Rice University</font>](https://www.rice.edu/about), advised by Dr. [<font color='#3366CC'>Jamie Padgett</font>](https://profiles.rice.edu/faculty/jamie-padgett). I am currently pursuing my master's degree in Industrial Engineering and Management at the [<font color='#3366CC'>University of Chinese Academy of Sciences</font>](https://english.ucas.ac.cn/index.php/about-ucas/introduction) (UCAS), advised by Dr. [<font color='#3366CC'>Mingang Gao</font>](https://people.ucas.ac.cn/~0028787) from Chinese Academy of Sciences (CAS), with an expected graduation date of June 2026. Before that, I received my bachelor's degree in Civil Engineering from [<font color='#3366CC'>Nanjing Tech University</font>](https://en.njtech.edu.cn/About/General_Information.htm) (NJTech) in 2023, advised by Dr. [<font color='#3366CC'>Lingzhi Li</font>](https://cce.njtech.edu.cn/info/1098/3647.htm).
 
 My current research focuses on developing innovative solutions for modeling, evaluation, and optimization of complex systems under the uncertainty in both operating conditions and decision-makers' preferences based on advanced techniques of system simulation, network analysis, data analysis, and operations research, with application in infrastructure resilience and emergency management.
 
@@ -63,7 +63,8 @@ My current research focuses on developing innovative solutions for modeling, eva
 
 
 # 📖 Educations
-- *2023.09 - 2026.06*, Master in Industrial Engineering and Management, University of Chinese Academy of Sciences, Beijing, China. 
+- *2026.08 - 2031.06 (expected)*, Doctor of Philosophy in Civil Engineering, Rice University, Houston, Texas, USA.
+- *2023.09 - 2026.06 (expected)*, Master in Industrial Engineering and Management, University of Chinese Academy of Sciences, Beijing, China. 
 - *2019.09 - 2023.06*, Bachelor in Civil Engineering, Nanjing Tech University, Nanjing, China. 
 
 
