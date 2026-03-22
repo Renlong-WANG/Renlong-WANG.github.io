@@ -36,18 +36,18 @@ My current research focuses on developing innovative solutions for modeling, eva
 
 <div class="scrollable">
  <ul>
-<li><strong>2026.03</strong>: &nbsp;🎉 I will join Rice University as a Ph.D. student in Civil Engineering in August 2026, advised by Dr. Jamie Padgett.</li>
+<li><strong>2026.03</strong>: &nbsp;🎉🎉🎉 I will join Rice University as a Ph.D. student in Civil Engineering in August 2026, advised by Dr. Jamie Padgett.</li>
 <li><strong>2026.03</strong>: &nbsp;🎉 I have one first-author paper accepted by <em>Risk Analysis</em>.</li>
 <li><strong>2026.01</strong>: &nbsp;🎉 I have one corresponding-author paper accepted by <em>Scientific Reports</em>.</li>
-<li><strong>2025.12</strong>: &nbsp;🎉 I have one paper recognized as a <em>CNKI Highly Cited Paper</em>.</li>
-<li><strong>2025.11</strong>: &nbsp;🎉 I am honored with the <em>National Scholarship for Postgraduates (Master)</em>.</li>
+<li><strong>2025.12</strong>: &nbsp;🎉🎉🎉 I have one paper recognized as a <em>CNKI Highly Cited Paper</em>.</li>
+<li><strong>2025.11</strong>: &nbsp;🎉🎉🎉 I am honored with the <em>National Scholarship for Postgraduates (Master)</em>.</li>
 <li><strong>2025.09</strong>: &nbsp;🎉 I have one corresponding-author paper accepted by <em>Energy</em>.</li>
 <li><strong>2025.09</strong>: &nbsp;🎉 I have one first-author paper accepted by <em>Simulation Modelling Practice and Theory</em>.</li>
 <li><strong>2025.05</strong>: &nbsp;🎉 I have one first-author paper accepted by <em>Expert System with Applications</em>.</li>
-<li><strong>2025.04</strong>: &nbsp;🎉 I am honored with the <em>Excellent Prize for the President Scholarship of Chinese Academy of Sciences</em>.</li>
+<li><strong>2025.04</strong>: &nbsp;🎉🎉🎉 I am honored with the <em>Excellent Prize for the President Scholarship of Chinese Academy of Sciences</em>.</li>
 <li><strong>2025.03</strong>: &nbsp;🎉 I have one corresponding-author paper accepted by <em>Energy</em>.</li>
 <li><strong>2024.12</strong>: &nbsp;🎉 I receive the <em>Excellent Paper Award</em> at the 2024 Student Academic Forum of the University of Chinese Academy of Sciences.</li>
-<li><strong>2024.11</strong>: &nbsp;🎉 I am honored with the <em>National Scholarship for Postgraduates (Master)</em>.</li>
+<li><strong>2024.11</strong>: &nbsp;🎉🎉🎉 I am honored with the <em>National Scholarship for Postgraduates (Master)</em>.</li>
 <li><strong>2024.11</strong>: &nbsp;🎉 I receive the <em>Best Paper First Prize</em> at the 2024 International Symposium on Emergency Management.</li>
 <li><strong>2024.08</strong>: &nbsp;🎉 I receive the <em>Excellent Paper Award</em> at the 2024 POMS Summer School.</li>
 <li><strong>2024.07</strong>: &nbsp;🎉 I am recognized as <em>Merit Student of the University of Chinese Academy of Sciences</em>.</li>
