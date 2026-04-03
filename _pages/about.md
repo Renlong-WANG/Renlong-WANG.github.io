@@ -36,6 +36,7 @@ My current research focuses on developing innovative solutions for modeling, eva
 
 <div class="scrollable">
  <ul>
+<li><strong>2026.04</strong>: &nbsp;🎉 I have one sole-author paper accepted by <em>Annals of Operations Research</em>.</li>
 <li><strong>2026.03</strong>: &nbsp;🎉🎉🎉 I will join Rice University as a Ph.D. student in Civil Engineering in August 2026, advised by Dr. Jamie Padgett.</li>
 <li><strong>2026.03</strong>: &nbsp;🎉 I have one first-author paper accepted by <em>Risk Analysis</em>.</li>
 <li><strong>2026.01</strong>: &nbsp;🎉 I have one corresponding-author paper accepted by <em>Scientific Reports</em>.</li>
@@ -64,13 +65,18 @@ My current research focuses on developing innovative solutions for modeling, eva
 
 # 📖 Educations
 - *2026.08 - 2031.06 (expected)*, Doctor of Philosophy in Civil Engineering, Rice University, Houston, Texas, USA.
-- *2023.09 - 2026.06 (expected)*, Master in Industrial Engineering and Management, University of Chinese Academy of Sciences, Beijing, China. 
+- *2023.09 - 2026.06*, Master in Industrial Engineering and Management, University of Chinese Academy of Sciences, Beijing, China. 
 - *2019.09 - 2023.06*, Bachelor in Civil Engineering, Nanjing Tech University, Nanjing, China. 
 
 
 # 📝 Publications 
 
 (*Corresponding author)
+
+1. Generalized Ordinal Priority Approach with Small-Sample Incomplete Preference Learning for Multi-Attribute Decision-Making<br>
+  - **Renlong Wang**<br> 
+  - **Annals of Operations Research** (2026, SCI JCR-Q1, IF: 4.5)<br> 
+    - Oral presentation at 2024 POMS Summer School in China
 
 1. Dynamic Metanetwork-Based Risk Analysis Framework under Prospect Theory for Emergency Response Performance Assessment with Procedure Dependency and Organization Collaboration<br>
   - **Renlong Wang**, Jingyao Yue, Mingang Gao *, Anh Ngoc Quang Huynh, and Jintao Lu<br> 
@@ -136,11 +142,6 @@ My current research focuses on developing innovative solutions for modeling, eva
 1. A Robust Relative Efficiency Evaluation Method Considering Uncertainty in Decision-Makers’ Preferences (in Chinese)<br>
   - Xiong Liu, **Renlong Wang**, and Xueyan Shao * <br> 
   - **Chinese Journal of Management Science (中国管理科学)** (Under Third-Round Review)
-
-1. Generalized Ordinal Priority Approach with Small-Sample Incomplete Preference Learning for Multi-Attribute Decision-Making<br>
-  - **Renlong Wang**<br> 
-  - **Annals of Operations Research** (Under Second-Round Review)<br> 
-    - Oral presentation at 2024 POMS Summer School in China
 
 1. A Policy-Driven Energy Poverty Analysis Tool Based on the Satisfac-Based DEA-OPA Model: Evidence from Chinese Provinces<br>
   - **Renlong Wang**<br> 
