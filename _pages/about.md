@@ -78,7 +78,7 @@ My current research focuses on developing innovative solutions for modeling, eva
   - **Annals of Operations Research** (2026, SCI JCR-Q1, IF: 4.5)<br> 
     - Oral presentation at 2024 POMS Summer School in China
 
-1. Dynamic Metanetwork-Based Risk Analysis Framework under Prospect Theory for Emergency Response Performance Assessment with Procedure Dependency and Organization Collaboration<br>
+1. [Dynamic Metanetwork-Based Risk Analysis Framework under Prospect Theory for Emergency Response Performance Assessment with Procedure Dependency and Organization Collaboration](https://doi.org/10.1111/risa.70227)<br>
   - **Renlong Wang**, Jingyao Yue, Mingang Gao *, Anh Ngoc Quang Huynh, and Jintao Lu<br> 
   - **Risk Analysis** (2026, SSCI JCR-Q1, IF: 3.3)
   <br> 
@@ -173,6 +173,7 @@ My current research focuses on developing innovative solutions for modeling, eva
 
 # ✒️ Professional Service
 Journal Reviewer
+- AI and Ethics
 - Scientific Reports
 - Frontiers in Environmental Science
 - Discover Applied Sciences
