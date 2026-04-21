@@ -105,7 +105,7 @@ My current research focuses on developing innovative solutions for modeling, eva
   - Shutian Cui, and **Renlong Wang** *, Xiaoyan Li, and Xiuguang Bai *<br> 
   - **Energy** (2025, SCI JCR-Q1, IF: 9.4)
 
-1. [A Hybrid MADM Method Considering Expert Consensus for Emergency Recovery Plan Selection](https://doi.org/10.1016/j.ins.2024.120784)<br>
+1. [A Hybrid MADM Method Considering Expert Consensus for Emergency Recovery Plan Selection: Dynamic Grey Relation Analysis and Partial Ordinal Priority Approach](https://doi.org/10.1016/j.ins.2024.120784)<br>
   - **Renlong Wang**<br> 
   - **Information Sciences** (2024, SCI JCR-Q1, IF: 6.8)
 
