@@ -73,10 +73,6 @@ My current research focuses on developing innovative solutions for modeling, eva
 
 (*Corresponding author)
 
-<p>
-  Google Scholar citations: <span id="total_cit"></span>
-</p>
-
 1. [Generalized Ordinal Priority Approach with Small-Sample Incomplete Preference Learning for Multi-Attribute Decision-Making](https://doi.org/10.1007/s10479-026-07275-x)<br>
   - **Renlong Wang**<br> 
   - **Annals of Operations Research** (2026, SCI JCR-Q1, IF: 4.5)<br> 
