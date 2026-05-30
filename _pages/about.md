@@ -73,16 +73,20 @@ My current research focuses on developing innovative solutions for modeling, eva
 
 (*Corresponding author)
 
-1. Generalized Ordinal Priority Approach with Small-Sample Incomplete Preference Learning for Multi-Attribute Decision-Making<br>
+1. [Generalized Ordinal Priority Approach with Small-Sample Incomplete Preference Learning for Multi-Attribute Decision-Making](https://doi.org/10.1007/s10479-026-07275-x)<br>
   - **Renlong Wang**<br> 
   - **Annals of Operations Research** (2026, SCI JCR-Q1, IF: 4.5)<br> 
-    - Oral presentation at 2024 POMS Summer School in China
+    - Oral presentation at 2024 POMS Summer School in China (Excellent Paper Award)
+
+1. A Robust Relative Efficiency Evaluation Method Considering Uncertainty in Decision-Makers' Preferences (in Chinese)<br>
+  - Xiong Liu, Fengjing Zhu, **Renlong Wang**, Baoguang Xu, Xueyan Shao * and Mingang Gao <br> 
+  - **Chinese Journal of Management Science (中国管理科学)** (2026, CSSCI)
 
 1. [Dynamic Metanetwork-Based Risk Analysis Framework under Prospect Theory for Emergency Response Performance Assessment with Procedure Dependency and Organization Collaboration](https://doi.org/10.1111/risa.70227)<br>
   - **Renlong Wang**, Jingyao Yue, Mingang Gao *, Anh Ngoc Quang Huynh, and Jintao Lu<br> 
   - **Risk Analysis** (2026, SSCI JCR-Q1, IF: 3.3)
   <br> 
-    - Oral presentation at 2024 International Symposium on Emergency Management
+    - Oral presentation at 2024 International Symposium on Emergency Management (Best Paper First Prize)
 
 1. [Robust Consensus Ordinal Priority Approach for Improvisational Emergency Supplier Selection under Expert Consensus Ambiguity](https://doi.org/10.1038/s41598-026-36876-6) <br>
   - Hezheng Mao, and **Renlong Wang** * <br>
@@ -99,7 +103,7 @@ My current research focuses on developing innovative solutions for modeling, eva
 1. [Multi-Attribute Decision-Making Approach for Improvisational Emergency Supplier Selection: Partial Ordinal Priority Approach](https://doi.org/10.1016/j.eswa.2025.128196)<br>
   - **Renlong Wang**, Rui Shen, Hong Chi, Xueyan Shao, and Mingang Gao *<br> 
   - **Expert Systems with Applications** (2025, SCI JCR-Q1, IF: 7.5)<br> 
-    - Oral presentation at 2023 POMS Summer School in China
+    - Oral presentation at 2023 POMS Summer School in China (Excellent Paper Award)
 
 1. [Policy-Driven Analysis of Carbon Emission Efficiency under Uncertainty and its Application in Chinese Industry: Hybrid Delta-Slacks-Based Model and Ordinal Priority Approach](https://doi.org/10.1016/j.energy.2025.135832)<br>
   - Shutian Cui, and **Renlong Wang** *, Xiaoyan Li, and Xiuguang Bai *<br> 
@@ -139,29 +143,24 @@ My current research focuses on developing innovative solutions for modeling, eva
 
 (*Corresponding author)
 
-1. A Robust Relative Efficiency Evaluation Method Considering Uncertainty in Decision-Makers’ Preferences (in Chinese)<br>
-  - Xiong Liu, **Renlong Wang**, and Xueyan Shao * <br> 
-  - **Chinese Journal of Management Science (中国管理科学)** (Under Third-Round Review)
+1. Revisiting the Ordinal Priority Approach as a Centralized DEA-Based Preference Voting Model<br>
+  - **Renlong Wang**<br> 
 
 1. A Policy-Driven Energy Poverty Analysis Tool Based on the Satisfac-Based DEA-OPA Model: Evidence from Chinese Provinces<br>
   - **Renlong Wang**<br> 
   - **Socio-Economic Planning Sciences** (Under First-Round Review)
 
-1. Assessing Port Logistics Data Governance Capacity through a Governance Mechanism Perspective: a Collaboration-Based Meta-Network Modeling Approach<br>
-  - Shutian Chui, **Renlong Wang** *, and Endong Wang * <br> 
-  - **Engineering Management Journal** (Under First-Round Review)
+1. Preference Robust Ordinal Priority Approach with Preference Elicitation under Incomplete Information for Robust Multi-Attribute Decision-Making<br>
+  - **Renlong Wang** <br> 
+  - **Information Sciences** (Under First-Round Review)
+    - Oral presentation at 2024 Student Academic Forum of the University of Chinese Academy of Sciences (Excellent Paper Award)
 
 
 # 🏆 Honors and Awards
 1. National Scholarship for Postgraduates (Master), 2025.11
 1. Excellent Prize for the President Scholarship of Chinese Academy of Sciences, 2025.04
-1. Excellent Paper Award  at the 2024 Student Academic Forum of the University of Chinese Academy of Sciences, 2024.12
-1. Best Paper First Prize of 2024 International Symposium on Emergency Management, 2024.11
 1. National Scholarship for Postgraduates (Master), 2024.11
-1. Excellent Paper Award of 2024 POMS Summer School in China, 2024.08
 1. Merit Student of the University of Chinese Academy of Sciences, 2024.07
-1. Best Paper Third Prize of 2023 International Symposium on Emergency Management, 2023.11
-1. Excellent Paper Award of 2023 POMS Summer School in China, 2023.08
 1. Distinguished Graduates in Civil Engineering from Jiangsu Universities and Colleges, 2023.06
 1. Outstanding Winner Prize of American Undergraduate Mathematical Contest in Modeling, 2022.05<br>
   - Highest award for the undergraduate mathematical contest in modeling in America (Top 0.16% among 27,205 teams)
@@ -174,11 +173,14 @@ My current research focuses on developing innovative solutions for modeling, eva
 # ✒️ Professional Service
 Journal Reviewer
 - AI and Ethics
-- Scientific Reports
-- Frontiers in Environmental Science
-- Discover Applied Sciences
-- Transportation Research Part E: Logistics and Transportation
+- BMC Methods
 - Chinese Journal of Management Science (中国管理科学)
+- Discover Applied Sciences
+- Frontiers in Environmental Science
+- International Journal of Computational Intelligence Systems
+- International Journal of Data Science and Analytics
+- Scientific Reports
+- Transportation Research Part E: Logistics and Transportation
 
  <div>
 
