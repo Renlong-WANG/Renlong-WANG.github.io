@@ -163,7 +163,7 @@ My current research focuses on developing innovative solutions for modeling, eva
 1. Merit Student of the University of Chinese Academy of Sciences, 2024.07
 1. Distinguished Graduates in Civil Engineering from Jiangsu Universities and Colleges, 2023.06
 1. Outstanding Winner Prize of American Undergraduate Mathematical Contest in Modeling, 2022.05<br>
-  - Highest award for the undergraduate mathematical contest in modeling in America (Top 0.16% among 27,205 teams)
+  - Highest award for the undergraduate mathematical contest in modeling in America (Top 0.16% among 27,205 teams) 
 1. SIAM Award of American Undergraduate Mathematical Contest in Modeling, 2022.05<br>
   - Six teams worldwide designated by The Society for Industrial and Applied Mathematics (SIAM)
 1. First Prize of Contemporary Undergraduate Mathematical Contest in Modeling, 2021.10<br>
