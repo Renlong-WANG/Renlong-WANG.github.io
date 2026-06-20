@@ -145,6 +145,12 @@ My current research focuses on developing innovative solutions for modeling, eva
 
 (*Corresponding author)
 
+
+1. Preference Robust Ordinal Priority Approach with Preference Elicitation under Incomplete Information for Robust Multi-Attribute Decision-Making<br>
+  - **Renlong Wang** <br> 
+  - **Information Sciences** (Under First-Round Review)
+    - Oral presentation at 2024 Student Academic Forum of the University of Chinese Academy of Sciences (Excellent Paper Award)
+
 1. A Comment on the Ordinal Priority Approach in Multi-Attribute Decision-Making: A Centralized DEA-Based Preference Voting Interpretation<br>
   - **Renlong Wang**<br> 
   - **Journal of the Operational Research Society** (Submitted)
@@ -152,11 +158,6 @@ My current research focuses on developing innovative solutions for modeling, eva
 1. From Resilience Curves to Cross-System Benchmarking: A Non-Parametric Relative Measurement Framework for Interdependent Infrastructure<br>
   - **Renlong Wang**<br> 
   - **Reliability Engineering & System Safety** (Submitted)
-
-1. Preference Robust Ordinal Priority Approach with Preference Elicitation under Incomplete Information for Robust Multi-Attribute Decision-Making<br>
-  - **Renlong Wang** <br> 
-  - **Information Sciences** (Under First-Round Review)
-    - Oral presentation at 2024 Student Academic Forum of the University of Chinese Academy of Sciences (Excellent Paper Award)
 
 
 # 🏆 Honors and Awards
