@@ -80,7 +80,7 @@ My current research focuses on developing innovative solutions for modeling, eva
   - **Annals of Operations Research** (2026, SCI JCR-Q1, IF: 4.5)<br> 
     - Oral presentation at 2024 POMS Summer School in China (Excellent Paper Award)
 
-1. A Robust Relative Efficiency Evaluation Method Considering Uncertainty in Decision-Makers' Preferences (in Chinese)<br>
+1. [A Robust Relative Efficiency Evaluation Method under Uncertainty in Decision-Makers' Preferences (in Chinese)](https://kns.cnki.net/kcms2/article/abstract?v=zcrJ0BckwPPgtB6v7XIDqBieSdGO5453kLVZIONx9ai_RfhrnONzk--Yo6yjydnHlfLCD8j6DAQyH5gzvr4LwMcOLmzlCyFHEkmPdkku-M6eztnlzTf2ANcJ7Z-8UoEm0GZ_3L5_GruZc4_WHhoHi-Wr3c-O2DqnFhuzhx5WvF4=&uniplatform=NZKPT)<br>
   - Xiong Liu, Fengjing Zhu, **Renlong Wang**, Baoguang Xu, Xueyan Shao * and Mingang Gao <br> 
   - **Chinese Journal of Management Science (中国管理科学)** (2026, CSSCI)
 
@@ -115,7 +115,7 @@ My current research focuses on developing innovative solutions for modeling, eva
   - **Renlong Wang**<br> 
   - **Information Sciences** (2024, SCI JCR-Q1, IF: 6.8)
 
-1. [Partial Ordinal Priority Approach Considering Pareto Optimal Identification for Multi-Attribute Decision-Making (in Chinese)](https://kns.cnki.net/kcms2/article/abstract?v=lSOmZDqoX8O-cZCjqaFLY7lOMyDaBMBwU-Srwhb_Q_TN7siQQWmbEzC-34P_sex0kmvwj0WGqkhQZRI-j8roqVwvRcyRNLGKCICimQo-heEpDUc4JKWk4UU60GZ97gpOjPqSDuG5u6nEwcaoIk4N5MS5FSOaOE-y&uniplatform=NZKPT)<br>
+1. [Partial Ordinal Priority Approach Considering Pareto Optimal Identification for Multi-Attribute Decision-Making (in Chinese)](https://kns.cnki.net/kcms2/article/abstract?v=zcrJ0BckwPMPXjl8-cJ6A2kA0lYBDdLq9f1HFVOXsMCmMO9EnN9hynewAY-ORI8pCJC8d24-BMMY92LDb942tuRktyCIS1pVUvENzhLlxUJ5AhNAO-N645X4k-O6xk8FvWkFoNkIWTXXTN_oyyao-4RB0GpzYRoT_nQU0cIAlTMawjMmBVIYvQ==&uniplatform=NZKPT&language=CHS)<br>
   - **Renlong Wang**, Rui Shen, Hong Chi, and Mingang Gao *<br> 
   - **Chinese Journal of Management Science (中国管理科学)** (2024, CSSCI)<br> 
     - Oral presentation at 2023 (25th) Annual Conference on Management Science in China
@@ -132,11 +132,11 @@ My current research focuses on developing innovative solutions for modeling, eva
   - **Renlong Wang**, Endong Wang *, Lingzhi Li *, and Wei Li<br> 
   - **International Journal of Environmental Research and Public Health** (2022, SCI JCR-Q1, IF: 4.6)
 
-1. [Safety Risk Assessment and Control of Prefabricated Building Construction Based on BN-MNA Model (in Chinese)](https://kns.cnki.net/kcms2/article/abstract?v=lSOmZDqoX8NwUEY3cfcM2Py3dYPONqKDbRityfMNfnMPdF2H9C2wRSEBNwFM-U4_EY6Y0Q2kAWLuIOQzn9dXBS171sNHvQtwkci7l2APKc9qH8PgGnF6dtJi_bwEeMYr4jhnZxAesAS9jgFpO8MqaL1cdG_QBzENbzzGVbRWlfo=&uniplatform=NZKPT)<br>
+1. [Safety Risk Assessment and Control of Prefabricated Building Construction Based on BN-MNA Model (in Chinese)](https://kns.cnki.net/kcms2/article/abstract?v=zcrJ0BckwPNSeftr_IXffbSy_sbsVxt_zMsueeD-UQbbbLdwCO-Qo4685-ZeIEMA9sRuiJPgkroPVmArpVir_sgSCCUsT_jkTDIpKe6ytnjcpRjnC42vWNwojqA257mo73IOrDR1FsYguHfTMqzvDiudgCWxx3CH&uniplatform=NZKPT&language=CHS)<br>
   - Yao Ding, **Renlong Wang**, Lingzhi Li *, Jingfeng Yuan, and Ling Shen<br> 
   - **Journal of Civil Engineering and Management (土木工程与管理学报)** (2022, PKU Core)
 
-1. [Safety Performance Evaluation of Prefabricated Building Construction from the Perspective of Three Dimensional Space (in Chinese)](https://kns.cnki.net/kcms2/article/abstract?v=lSOmZDqoX8MG3IRAP9jms3Ki9LM5i-lTcLvc6NVE-9nPIaLkrsEjyEqkAF8_VGNTZXc4kQIw9fgVYay5JvPhR6L95XyLkcbLwhwC1D2_BVOgI2wY2OAnbhIrG4no6bYE_4yKAsg50mqwvTYDMHSMP_pbugQHnLJXuv9gKukWigo=&uniplatform=NZKPT)<br>
+1. [Safety Performance Evaluation of Prefabricated Building Construction from the Perspective of Three Dimensional Space (in Chinese)](https://kns.cnki.net/kcms2/article/abstract?v=zcrJ0BckwPNSeftr_IXffbSy_sbsVxt_zMsueeD-UQaVsJG4FGtI7m3mULuJp0FvTS_GG0GEOAWDmP-bfHppoKAWw1HPobGZJGWYCKxozsj-U3bR5BaKniOypPdOsFAUlNPuSJqEQrQ5zz7Urd-O81d_LPrFgeQt&uniplatform=NZKPT&language=CHS)<br>
   - Yilun Zhou, **Renlong Wang**, and Jianjun She *<br> 
   - **China Production Safety Science and Technology (中国安全生产科学技术)** (2022, PKU Core)<br> 
     - **CNKI Highly Cited Paper**
@@ -145,12 +145,13 @@ My current research focuses on developing innovative solutions for modeling, eva
 
 (*Corresponding author)
 
-1. Revisiting the Ordinal Priority Approach as a Centralized DEA-Based Preference Voting Model<br>
+1. A Comment on the Ordinal Priority Approach in Multi-Attribute Decision-Making: A Centralized DEA-Based Preference Voting Interpretation<br>
   - **Renlong Wang**<br> 
+  - **Journal of the Operational Research Society** (Submitted)
 
-1. A Policy-Driven Energy Poverty Analysis Tool Based on the Satisfac-Based DEA-OPA Model: Evidence from Chinese Provinces<br>
+1. From Resilience Curves to Cross-System Benchmarking: A Non-Parametric Relative Measurement Framework for Interdependent Infrastructure<br>
   - **Renlong Wang**<br> 
-  - **Socio-Economic Planning Sciences** (Under First-Round Review)
+  - **Reliability Engineering & System Safety** (Submitted)
 
 1. Preference Robust Ordinal Priority Approach with Preference Elicitation under Incomplete Information for Robust Multi-Attribute Decision-Making<br>
   - **Renlong Wang** <br> 
