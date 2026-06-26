@@ -150,14 +150,15 @@ My current research focuses on developing innovative solutions for modeling, eva
   - **Renlong Wang** <br> 
   - **Information Sciences** (Under First-Round Review)
     - Oral presentation at 2024 Student Academic Forum of the University of Chinese Academy of Sciences (Excellent Paper Award)
+    
+1. From Resilience Curves to Cross-System Benchmarking: A Non-Parametric Relative Measurement Framework for Interdependent Infrastructure<br>
+  - **Renlong Wang**<br> 
+  - **Reliability Engineering & System Safety** (Under First-Round Review)
 
 1. A Comment on the Ordinal Priority Approach in Multi-Attribute Decision-Making: A Centralized DEA-Based Preference Voting Interpretation<br>
   - **Renlong Wang**<br> 
   - **Journal of the Operational Research Society** (Submitted)
 
-1. From Resilience Curves to Cross-System Benchmarking: A Non-Parametric Relative Measurement Framework for Interdependent Infrastructure<br>
-  - **Renlong Wang**<br> 
-  - **Reliability Engineering & System Safety** (Submitted)
 
 
 # 🏆 Honors and Awards
