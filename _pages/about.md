@@ -157,7 +157,11 @@ My current research focuses on developing innovative solutions for modeling, eva
 
 1. A Comment on the Ordinal Priority Approach in Multi-Attribute Decision-Making: A Centralized DEA-Based Preference Voting Interpretation<br>
   - **Renlong Wang**<br> 
-  - **Journal of the Operational Research Society** (Submitted)
+  - **Journal of the Operational Research Society** (Under First-Round Review) 
+
+1. Consensus Resilience Planning for Multi-Agency Restoration of Interdependent Infrastructure Systems: A Unified Framework and Resilience-Informed Heuristic-Exact Decomposition Algorithm<br>
+  - **Renlong Wang**<br> 
+  - **Reliability Engineering & System Safety** (Submitted)
 
 
 
