@@ -10,6 +10,7 @@ interface CardPageProps {
     embedded?: boolean;
     actionHref?: string;
     actionLabel?: string;
+    showTags?: boolean;
 }
 
 const markdownComponents = {
@@ -89,7 +90,7 @@ function formatVenueWithMetrics(item: CardPageConfig['items'][number]) {
     return metrics.length > 0 ? `${item.subtitle} (${metrics.join(', ')})` : item.subtitle;
 }
 
-export default function CardPage({ config, embedded = false, actionHref, actionLabel = 'View all' }: CardPageProps) {
+export default function CardPage({ config, embedded = false, actionHref, actionLabel = 'View all', showTags = true }: CardPageProps) {
     return (
         <motion.div
             initial={{ opacity: 0, y: 20 }}
@@ -171,7 +172,7 @@ export default function CardPage({ config, embedded = false, actionHref, actionL
                                 </ReactMarkdown>
                             </div>
                         )}
-                        {item.tags && (
+                        {showTags && item.tags && (
                             <div className="flex flex-wrap gap-2 mt-4">
                                 {item.tags.map(tag => (
                                     <span key={tag} className="text-xs text-neutral-500 bg-neutral-50 dark:bg-neutral-800/50 px-2 py-1 rounded border border-neutral-100 dark:border-neutral-800">
