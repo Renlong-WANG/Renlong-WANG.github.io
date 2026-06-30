@@ -143,7 +143,7 @@ My current research focuses on developing innovative solutions for modeling, eva
 
 # 🔬 Drafts
 
-(*Corresponding author)
+<!-- (*Corresponding author) -->
 
 
 1. Preference Robust Ordinal Priority Approach with Preference Elicitation under Incomplete Information for Robust Multi-Attribute Decision-Making<br>
