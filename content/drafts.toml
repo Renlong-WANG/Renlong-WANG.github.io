@@ -24,7 +24,7 @@ subtitle = "Information Sciences"
 date = "Under Review"
 authors = ["Renlong Wang"]
 presentation = "2024 Student Academic Forum of the University of Chinese Academy of Sciences; Excellent Paper Award."
-content = "Proposes OPA-PR, a two-stage robust MADM framework combining preference elicitation and ambiguity sets to support reliable decisions under incomplete information."
+content = "Develops Preference Robust Ordinal Priority Approach by constructing elicitation-informed preference ambiguity sets and optimizing robust decision weights under incomplete preference information."
 tags = ["Preference Robust Ordinal Priority Approach", "Multi-Attribute Decision-Making", "Preference and Parameter Uncertainty", "Preference Elicitation Strategy"]
 
 [[items]]
@@ -32,7 +32,7 @@ title = "A Comment on the Ordinal Priority Approach in Multi-Attribute Decision-
 subtitle = "Journal of the Operational Research Society"
 date = "Under Review"
 authors = ["Renlong Wang"]
-content = "Clarifies the structural logic of OPA by deriving closed-form rank-based weights and interpreting it as a centralized DEA-based preference voting model."
+content = "Clarifies the structural logic of Ordinal Priority Approach by deriving closed-form rank-based weights and interpreting it as a centralized DEA-based preference voting model."
 tags = ["Ordinal Priority Approach", "Data Envelopment Analysis", "Preference Voting System"]
 
 
