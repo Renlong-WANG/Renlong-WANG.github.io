@@ -1,0 +1,68 @@
+[site]
+title = "Renlong WANG (王人龙)"
+description = "Incoming Ph.D. student at Rice University."
+favicon = "/favicon.svg"
+last_updated = "June 30, 2026"
+
+[author]
+name = "Renlong WANG (王人龙)"
+title = "Incoming Ph.D. student"
+institution = "Rice University"
+avatar = "/bio.jpg"
+
+[social]
+email = "13127073530@163.com"
+location = "Beijing, China"
+location_url = "https://maps.google.com"
+google_scholar = "https://scholar.google.com/citations?&user=HwDGjnMAAAAJ"
+orcid = "https://orcid.org/0000-0002-6144-6028"
+linkedin = "renlong-wang-0b41aa379"
+
+[features]
+enable_likes = true
+enable_one_page_mode = false
+
+[i18n]
+enabled = false
+locales = ["en"]
+default_locale = "en"
+mode = "fixed"
+fixed_locale = "en"
+persist = false
+switcher = false
+
+[[navigation]]
+title = "About"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "Publications"
+type = "page"
+target = "publications"
+href = "/publications"
+
+[[navigation]]
+title = "Teaching"
+type = "page"
+target = "teaching"
+href = "/teaching"
+
+[[navigation]]
+title = "Awards"
+type = "page"
+target = "awards"
+href = "/awards"
+
+[[navigation]]
+title = "Services"
+type = "page"
+target = "services"
+href = "/services"
+
+[[navigation]]
+title = "CV"
+type = "page"
+target = "cv"
+href = "/cv"
