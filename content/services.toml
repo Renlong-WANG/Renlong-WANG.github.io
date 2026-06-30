@@ -1,9 +1,7 @@
 type = "card"
 title = "Professional Services"
-description = "Reviewer service for journals and academic communities."
 
 [[items]]
 title = "Journal Reviewer"
-subtitle = "Peer-review service"
 date = "Ongoing"
 content = "- AI and Ethics\n- BMC Methods\n- Chinese Journal of Management Science\n- Discover Applied Sciences\n- Frontiers in Environmental Science\n- International Journal of Computational Intelligence Systems\n- International Journal of Data Science and Analytics\n- Scientific Reports\n- Transportation Research Part E: Logistics and Transportation"
