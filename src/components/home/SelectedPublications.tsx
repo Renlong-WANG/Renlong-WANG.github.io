@@ -18,9 +18,17 @@ function formatVenueWithMetrics(pub: Publication) {
     if (!venue) return '';
 
     const metrics: string[] = [];
-    if (pub.quartile) {
-        metrics.push(`JCR ${pub.quartile}`);
+    const journalIndex = pub.index?.trim();
+    const quartile = pub.quartile?.trim();
+
+    if (journalIndex && quartile) {
+        metrics.push(`${journalIndex} JCR-${quartile}`);
+    } else if (quartile) {
+        metrics.push(`JCR-${quartile}`);
+    } else if (journalIndex) {
+        metrics.push(journalIndex);
     }
+
     if (pub.impactFactor !== undefined && Number.isFinite(pub.impactFactor)) {
         metrics.push(`IF: ${pub.impactFactor}`);
     }

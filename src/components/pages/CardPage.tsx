@@ -34,8 +34,15 @@ function formatVenueWithMetrics(item: CardPageConfig['items'][number]) {
     if (!item.subtitle) return '';
 
     const metrics: string[] = [];
-    if (item.quartile) {
-        metrics.push(`JCR ${item.quartile}`);
+    const journalIndex = item.index?.trim();
+    const quartile = item.quartile?.trim();
+
+    if (journalIndex && quartile) {
+        metrics.push(`${journalIndex} JCR-${quartile}`);
+    } else if (quartile) {
+        metrics.push(`JCR-${quartile}`);
+    } else if (journalIndex) {
+        metrics.push(journalIndex);
     }
 
     const impactFactor = item.impactFactor ?? item.impact_factor;
