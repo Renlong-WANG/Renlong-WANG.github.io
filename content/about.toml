@@ -3,9 +3,9 @@ title = "About"
 
 [profile]
 research_interests = [
-  "Smart Infrastructure Resilience",
+  "Infrastructure Resilience & Restoration",
   "Robust and Equitable Decision-Making",
-  "Contextual Stochastic Optimization",
+  "Stochastic Optimization under Uncertainty",
   "Physics-Informed Machine Learning"
 ]
 
@@ -22,12 +22,6 @@ title = "Education"
 source = "education.toml"
 
 [[sections]]
-id = "news"
-type = "list"
-title = "News"
-source = "news.toml"
-
-[[sections]]
 id = "featured_publications"
 type = "publications"
 title = "Selected Publications"
@@ -41,3 +35,9 @@ title = "Selected Drafts"
 source = "drafts.toml"
 filter = "selected"
 limit = 3
+
+[[sections]]
+id = "news"
+type = "list"
+title = "News"
+source = "news.toml"

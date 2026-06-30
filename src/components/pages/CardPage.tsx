@@ -106,7 +106,7 @@ export default function CardPage({ config, embedded = false, actionHref, actionL
                             prefetch={true}
                             className="shrink-0 text-accent hover:text-accent-dark text-sm font-medium transition-all duration-200 rounded hover:bg-accent/10 hover:shadow-sm"
                         >
-                            {actionLabel}
+                            {actionLabel} -&gt;
                         </Link>
                     )}
                 </div>
@@ -126,7 +126,7 @@ export default function CardPage({ config, embedded = false, actionHref, actionL
                         initial={{ opacity: 0, y: 20 }}
                         animate={{ opacity: 1, y: 0 }}
                         transition={{ duration: 0.4, delay: 0.1 * index }}
-                        className={`bg-white dark:bg-neutral-900 ${embedded ? "p-4" : "p-6"} rounded-xl shadow-sm border border-neutral-200 dark:border-neutral-800 hover:shadow-lg transition-all duration-200 hover:scale-[1.01]`}
+                        className={`bg-white dark:bg-neutral-900 ${embedded ? "p-4" : "p-6"} rounded-lg shadow-sm border border-neutral-200 dark:border-neutral-800 hover:shadow-lg transition-all duration-200 hover:translate-y-[-1px]`}
                     >
                         <div className="flex justify-between items-start mb-2">
                             <h3 className={`${embedded ? "text-lg" : "text-xl"} font-semibold text-primary`}>{item.title}</h3>
