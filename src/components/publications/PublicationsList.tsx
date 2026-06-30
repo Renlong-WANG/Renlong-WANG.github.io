@@ -285,6 +285,19 @@ export default function PublicationsList({ config, publications, embedded = fals
                                         </p>
                                     )}
 
+                                    {pub.keywords && pub.keywords.length > 0 && (
+                                        <div className="flex flex-wrap gap-2 mb-4">
+                                            {pub.keywords.map((keyword) => (
+                                                <span
+                                                    key={keyword}
+                                                    className="text-xs text-neutral-500 bg-neutral-50 dark:bg-neutral-800/50 px-2 py-1 rounded border border-neutral-100 dark:border-neutral-800"
+                                                >
+                                                    {keyword}
+                                                </span>
+                                            ))}
+                                        </div>
+                                    )}
+
                                     <div className="flex flex-wrap gap-2 mt-auto">
                                         {pub.doi && (
                                             <a

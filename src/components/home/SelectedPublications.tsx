@@ -63,13 +63,13 @@ export default function SelectedPublications({ publications, title, enableOnePag
                         initial={{ opacity: 0, y: 20 }}
                         animate={{ opacity: 1, y: 0 }}
                         transition={{ duration: 0.4, delay: 0.1 * index }}
-                        className="bg-neutral-50 dark:bg-neutral-800 p-4 rounded-lg shadow-sm border border-neutral-200 dark:border-[rgba(148,163,184,0.24)] hover:shadow-lg transition-all duration-200 hover:translate-y-[-1px]"
+                        className="bg-white dark:bg-neutral-900 p-4 rounded-lg shadow-sm border border-neutral-200 dark:border-neutral-800 hover:shadow-lg transition-all duration-200 hover:translate-y-[-1px]"
                     >
                         <div className="flex items-start justify-between gap-4 mb-2">
                             <h3 className="font-semibold text-primary leading-tight">
                                 <FormattedBibTeXText nodes={pub.titleNodes} fallback={pub.title} />
                             </h3>
-                            <span className="ml-4 shrink-0 whitespace-nowrap text-xs text-neutral-500 font-medium bg-white dark:bg-neutral-900 px-2 py-1 rounded border border-neutral-200 dark:border-neutral-700">
+                            <span className="ml-4 shrink-0 whitespace-nowrap text-xs text-neutral-800 dark:text-neutral-200 font-semibold bg-neutral-100 dark:bg-neutral-800 px-2 py-1 rounded border border-neutral-200 dark:border-neutral-700">
                                 {pub.year}
                             </span>
                         </div>
