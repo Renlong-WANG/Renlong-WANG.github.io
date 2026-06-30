@@ -3,13 +3,12 @@ title = "Drafts"
 description = "Working papers and manuscripts currently under review."
 
 [[items]]
-title = "Preference Robust Ordinal Priority Approach with Preference Elicitation under Incomplete Information for Robust Multi-Attribute Decision-Making"
-subtitle = "Information Sciences"
-date = "Under Review"
+title = "Consensus Resilience Planning for Multi-Agency Restoration of Interdependent Infrastructure Systems: A Unified Framework and Resilience-Informed Heuristic-Exact Decomposition Algorithm"
+subtitle = "Reliability Engineering & System Safety"
+date = "Submitted"
 authors = ["Renlong Wang"]
-presentation = "2024 Student Academic Forum of the University of Chinese Academy of Sciences; Excellent Paper Award."
-content = "Manuscript on preference elicitation and robust multi-attribute decision-making under incomplete information."
-tags = ["Robust Decision-Making", "Ordinal Priority Approach", "Incomplete Information"]
+content = "Manuscript developing a unified framework and resilience-informed heuristic-exact decomposition algorithm for multi-agency restoration planning."
+tags = ["Resilience Planning", "Multi-Agency Restoration", "Infrastructure Systems"]
 
 [[items]]
 title = "From Resilience Curves to Cross-System Benchmarking: A Non-Parametric Relative Measurement Framework for Interdependent Infrastructure"
@@ -20,6 +19,15 @@ content = "Manuscript on non-parametric relative measurement for benchmarking re
 tags = ["Infrastructure Resilience", "Benchmarking", "Interdependent Systems"]
 
 [[items]]
+title = "Preference Robust Ordinal Priority Approach with Preference Elicitation under Incomplete Information for Robust Multi-Attribute Decision-Making"
+subtitle = "Information Sciences"
+date = "Under Review"
+authors = ["Renlong Wang"]
+presentation = "2024 Student Academic Forum of the University of Chinese Academy of Sciences; Excellent Paper Award."
+content = "Manuscript on preference elicitation and robust multi-attribute decision-making under incomplete information."
+tags = ["Robust Decision-Making", "Ordinal Priority Approach", "Incomplete Information"]
+
+[[items]]
 title = "A Comment on the Ordinal Priority Approach in Multi-Attribute Decision-Making: A Centralized DEA-Based Preference Voting Interpretation"
 subtitle = "Journal of the Operational Research Society"
 date = "Under Review"
@@ -27,10 +35,4 @@ authors = ["Renlong Wang"]
 content = "Manuscript interpreting the ordinal priority approach through centralized DEA-based preference voting."
 tags = ["Ordinal Priority Approach", "DEA", "Preference Voting"]
 
-[[items]]
-title = "Consensus Resilience Planning for Multi-Agency Restoration of Interdependent Infrastructure Systems: A Unified Framework and Resilience-Informed Heuristic-Exact Decomposition Algorithm"
-subtitle = "Reliability Engineering & System Safety"
-date = "Submitted"
-authors = ["Renlong Wang"]
-content = "Manuscript developing a unified framework and resilience-informed heuristic-exact decomposition algorithm for multi-agency restoration planning."
-tags = ["Resilience Planning", "Multi-Agency Restoration", "Infrastructure Systems"]
+
