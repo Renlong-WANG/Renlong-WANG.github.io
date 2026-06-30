@@ -1,5 +1,5 @@
 type = "publication"
 title = "Publications"
-description = "Peer-reviewed journal articles and preprints."
+description = "Peer-reviewed journal articles."
 source = "publications.bib"
 drafts = "drafts"
