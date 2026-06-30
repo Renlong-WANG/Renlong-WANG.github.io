@@ -64,6 +64,8 @@ export function parseBibTeX(bibtexContent: string, locale?: string): Publication
     const preview = tags.preview?.replace(/[{}]/g, '');
     const title = parseBibTeXInline(tags.title || 'Untitled');
     const presentation = cleanBibTeXString(getTagValue(tags, ['presentation', 'oralpresentation', 'oral_presentation']));
+    const quartile = parseQuartile(getTagValue(tags, ['quartile', 'jcr', 'jcrquartile', 'jcr_quartile']));
+    const impactFactor = parseImpactFactor(getTagValue(tags, ['impactfactor', 'impact_factor', 'jif', 'if']));
 
     // Create publication object
     const publication: Publication = {
@@ -91,11 +93,13 @@ export function parseBibTeX(bibtexContent: string, locale?: string): Publication
       abstract: cleanBibTeXString(tags.abstract),
       description: cleanBibTeXString(tags.description || tags.note),
       presentation,
+      quartile,
+      impactFactor,
       selected,
       preview,
 
       // Store original BibTeX (excluding custom display fields)
-      bibtex: reconstructBibTeX(entry, ['selected', 'preview', 'description', 'keywords', 'code', 'presentation', 'oralpresentation', 'oral_presentation']),
+      bibtex: reconstructBibTeX(entry, ['selected', 'preview', 'description', 'keywords', 'code', 'presentation', 'oralpresentation', 'oral_presentation', 'quartile', 'jcr', 'jcrquartile', 'jcr_quartile', 'impactfactor', 'impact_factor', 'jif', 'if']),
     };
 
     // Clean up undefined fields
@@ -230,6 +234,26 @@ function parseAuthors(authorsStr: string, highlightNames: string[]): Array<{ nam
       };
     })
     .filter(author => author.name);
+}
+
+
+function parseQuartile(value?: string): 'Q1' | 'Q2' | 'Q3' | 'Q4' | undefined {
+  if (!value) return undefined;
+
+  const cleaned = cleanBibTeXString(value).toUpperCase().replace(/[^Q1-4]/g, '');
+  if (cleaned === 'Q1' || cleaned === 'Q2' || cleaned === 'Q3' || cleaned === 'Q4') {
+    return cleaned;
+  }
+
+  return undefined;
+}
+
+function parseImpactFactor(value?: string): number | undefined {
+  if (!value) return undefined;
+
+  const cleaned = cleanBibTeXString(value).replace(/[^0-9.]/g, '');
+  const parsed = Number.parseFloat(cleaned);
+  return Number.isFinite(parsed) ? parsed : undefined;
 }
 
 function getTagValue(tags: Record<string, string>, names: string[]): string | undefined {

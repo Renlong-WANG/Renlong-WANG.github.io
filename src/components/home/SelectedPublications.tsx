@@ -12,6 +12,22 @@ interface SelectedPublicationsProps {
     enableOnePageMode?: boolean;
 }
 
+
+function formatVenueWithMetrics(pub: Publication) {
+    const venue = pub.journal || pub.conference;
+    if (!venue) return '';
+
+    const metrics: string[] = [];
+    if (pub.quartile) {
+        metrics.push(`JCR ${pub.quartile}`);
+    }
+    if (pub.impactFactor !== undefined && Number.isFinite(pub.impactFactor)) {
+        metrics.push(`IF: ${pub.impactFactor}`);
+    }
+
+    return metrics.length > 0 ? `${venue} (${metrics.join(', ')})` : venue;
+}
+
 export default function SelectedPublications({ publications, title, enableOnePageMode = false }: SelectedPublicationsProps) {
     const messages = useMessages();
     const resolvedTitle = title || messages.home.selectedPublications;
@@ -41,9 +57,14 @@ export default function SelectedPublications({ publications, title, enableOnePag
                         transition={{ duration: 0.4, delay: 0.1 * index }}
                         className="bg-neutral-50 dark:bg-neutral-800 p-4 rounded-lg shadow-sm border border-neutral-200 dark:border-[rgba(148,163,184,0.24)] hover:shadow-lg transition-all duration-200 hover:scale-[1.02]"
                     >
-                        <h3 className="font-semibold text-primary mb-2 leading-tight">
-                            <FormattedBibTeXText nodes={pub.titleNodes} fallback={pub.title} />
-                        </h3>
+                        <div className="flex items-start justify-between gap-4 mb-2">
+                            <h3 className="font-semibold text-primary leading-tight">
+                                <FormattedBibTeXText nodes={pub.titleNodes} fallback={pub.title} />
+                            </h3>
+                            <span className="ml-4 shrink-0 whitespace-nowrap text-xs text-neutral-500 font-medium bg-white dark:bg-neutral-900 px-2 py-1 rounded border border-neutral-200 dark:border-neutral-700">
+                                {pub.year}
+                            </span>
+                        </div>
                         <p className="text-sm text-neutral-600 dark:text-neutral-500 mb-1">
                             {pub.authors.map((author, idx) => (
                                 <span key={idx}>
@@ -57,9 +78,11 @@ export default function SelectedPublications({ publications, title, enableOnePag
                                 </span>
                             ))}
                         </p>
-                        <p className="text-sm text-neutral-600 dark:text-neutral-500 mb-2">
-                            {pub.journal || pub.conference}
-                        </p>
+                        {(pub.journal || pub.conference) && (
+                            <p className="text-sm font-medium text-neutral-800 dark:text-neutral-600 mb-2">
+                                {formatVenueWithMetrics(pub)}
+                            </p>
+                        )}
                         {pub.description && (
                             <p className="text-sm text-neutral-500 dark:text-neutral-500 line-clamp-2">
                                 {pub.description}

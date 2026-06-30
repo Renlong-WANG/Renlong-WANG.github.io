@@ -29,6 +29,23 @@ const markdownComponents = {
     ),
 };
 
+
+function formatVenueWithMetrics(item: CardPageConfig['items'][number]) {
+    if (!item.subtitle) return '';
+
+    const metrics: string[] = [];
+    if (item.quartile) {
+        metrics.push(`JCR ${item.quartile}`);
+    }
+
+    const impactFactor = item.impactFactor ?? item.impact_factor;
+    if (impactFactor !== undefined && impactFactor !== '') {
+        metrics.push(`IF: ${impactFactor}`);
+    }
+
+    return metrics.length > 0 ? `${item.subtitle} (${metrics.join(', ')})` : item.subtitle;
+}
+
 export default function CardPage({ config, embedded = false }: { config: CardPageConfig; embedded?: boolean }) {
     return (
         <motion.div
@@ -77,7 +94,9 @@ export default function CardPage({ config, embedded = false }: { config: CardPag
                             </p>
                         )}
                         {item.subtitle && (
-                            <p className="text-sm font-medium text-neutral-800 dark:text-neutral-600 mb-3">{item.subtitle}</p>
+                            <p className={`${embedded ? "text-sm" : "text-base"} font-medium text-neutral-800 dark:text-neutral-600 mb-3`}>
+                                {formatVenueWithMetrics(item)}
+                            </p>
                         )}
                         {item.presentation && (
                             <p className={`${embedded ? "text-sm" : "text-base"} text-neutral-600 dark:text-neutral-500 mb-3 leading-relaxed`}>

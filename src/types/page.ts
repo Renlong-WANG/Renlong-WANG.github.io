@@ -21,6 +21,9 @@ export interface CardItem {
     date?: string;
     authors?: string[];
     presentation?: string;
+    quartile?: string;
+    impactFactor?: number | string;
+    impact_factor?: number | string;
     content?: string;
     tags?: string[];
     link?: string;

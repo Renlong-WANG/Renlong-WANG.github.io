@@ -23,6 +23,22 @@ interface PublicationsListProps {
     embedded?: boolean;
 }
 
+
+function formatVenueWithMetrics(pub: Publication) {
+    const venue = pub.journal || pub.conference;
+    if (!venue) return '';
+
+    const metrics: string[] = [];
+    if (pub.quartile) {
+        metrics.push(`JCR ${pub.quartile}`);
+    }
+    if (pub.impactFactor !== undefined && Number.isFinite(pub.impactFactor)) {
+        metrics.push(`IF: ${pub.impactFactor}`);
+    }
+
+    return metrics.length > 0 ? `${venue} (${metrics.join(', ')})` : venue;
+}
+
 export default function PublicationsList({ config, publications, embedded = false }: PublicationsListProps) {
     const messages = useMessages();
     const [searchQuery, setSearchQuery] = useState('');
@@ -214,9 +230,14 @@ export default function PublicationsList({ config, publications, embedded = fals
                                     </div>
                                 )}
                                 <div className="flex-grow">
-                                    <h3 className={`${embedded ? "text-lg" : "text-xl"} font-semibold text-primary mb-2 leading-tight`}>
-                                        <FormattedBibTeXText nodes={pub.titleNodes} fallback={pub.title} />
-                                    </h3>
+                                    <div className="flex items-start justify-between gap-4 mb-2">
+                                        <h3 className={`${embedded ? "text-lg" : "text-xl"} font-semibold text-primary leading-tight`}>
+                                            <FormattedBibTeXText nodes={pub.titleNodes} fallback={pub.title} />
+                                        </h3>
+                                        <span className="ml-4 shrink-0 whitespace-nowrap text-sm text-neutral-500 font-medium bg-neutral-100 dark:bg-neutral-800 px-2 py-1 rounded">
+                                            {pub.year}
+                                        </span>
+                                    </div>
                                     <p className={`${embedded ? "text-sm" : "text-base"} text-neutral-600 dark:text-neutral-400 mb-2`}>
                                         {pub.authors.map((author, idx) => (
                                             <span key={idx}>
@@ -230,9 +251,11 @@ export default function PublicationsList({ config, publications, embedded = fals
                                             </span>
                                         ))}
                                     </p>
-                                    <p className="text-sm font-medium text-neutral-800 dark:text-neutral-600 mb-3">
-                                        {pub.journal || pub.conference} {pub.year}
-                                    </p>
+                                    {(pub.journal || pub.conference) && (
+                                        <p className={`${embedded ? "text-sm" : "text-base"} font-medium text-neutral-800 dark:text-neutral-600 mb-3`}>
+                                            {formatVenueWithMetrics(pub)}
+                                        </p>
+                                    )}
 
                                     {pub.description && (
                                         <p className="text-sm text-neutral-600 dark:text-neutral-500 mb-3 line-clamp-3">
