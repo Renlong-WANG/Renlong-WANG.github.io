@@ -63,6 +63,7 @@ export function parseBibTeX(bibtexContent: string, locale?: string): Publication
     // Parse preview field (remove braces if present)
     const preview = tags.preview?.replace(/[{}]/g, '');
     const title = parseBibTeXInline(tags.title || 'Untitled');
+    const presentation = cleanBibTeXString(getTagValue(tags, ['presentation', 'oralpresentation', 'oral_presentation']));
 
     // Create publication object
     const publication: Publication = {
@@ -89,11 +90,12 @@ export function parseBibTeX(bibtexContent: string, locale?: string): Publication
       code: tags.code,
       abstract: cleanBibTeXString(tags.abstract),
       description: cleanBibTeXString(tags.description || tags.note),
+      presentation,
       selected,
       preview,
 
-      // Store original BibTeX (excluding custom fields)
-      bibtex: reconstructBibTeX(entry, ['selected', 'preview', 'description', 'keywords', 'code']),
+      // Store original BibTeX (excluding custom display fields)
+      bibtex: reconstructBibTeX(entry, ['selected', 'preview', 'description', 'keywords', 'code', 'presentation', 'oralpresentation', 'oral_presentation']),
     };
 
     // Clean up undefined fields
@@ -228,6 +230,25 @@ function parseAuthors(authorsStr: string, highlightNames: string[]): Array<{ nam
       };
     })
     .filter(author => author.name);
+}
+
+function getTagValue(tags: Record<string, string>, names: string[]): string | undefined {
+  const normalizedTags = new Map<string, string>();
+
+  Object.entries(tags).forEach(([key, value]) => {
+    normalizedTags.set(key.toLowerCase().replace(/[\s-]/g, '_'), value);
+  });
+
+  for (const name of names) {
+    const normalizedName = name.toLowerCase().replace(/[\s-]/g, '_');
+    const value = normalizedTags.get(normalizedName);
+
+    if (value) {
+      return value;
+    }
+  }
+
+  return undefined;
 }
 
 function cleanBibTeXString(str?: string): string {

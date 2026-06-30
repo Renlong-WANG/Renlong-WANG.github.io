@@ -29,26 +29,6 @@ const markdownComponents = {
     ),
 };
 
-function isHighlightedAuthor(author: string) {
-    const normalized = author.toLowerCase().replace(/[-_]/g, ' ').replace(/\s+/g, ' ').trim();
-    return normalized === 'renlong wang';
-}
-
-function AuthorsLine({ authors, embedded }: { authors: string[]; embedded: boolean }) {
-    return (
-        <p className={`${embedded ? "text-sm" : "text-base"} text-neutral-600 dark:text-neutral-400 mb-2`}>
-            {authors.map((author, idx) => (
-                <span key={`${author}-${idx}`}>
-                    <span className={isHighlightedAuthor(author) ? 'font-semibold text-accent' : ''}>
-                        {author}
-                    </span>
-                    {idx < authors.length - 1 && ', '}
-                </span>
-            ))}
-        </p>
-    );
-}
-
 export default function CardPage({ config, embedded = false }: { config: CardPageConfig; embedded?: boolean }) {
     return (
         <motion.div
@@ -68,62 +48,61 @@ export default function CardPage({ config, embedded = false }: { config: CardPag
             </div>
 
             <div className={`grid ${embedded ? "gap-4" : "gap-6"}`}>
-                {config.items.map((item, index) => {
-                    const hasAuthors = Array.isArray(item.authors) && item.authors.length > 0;
-
-                    return (
-                        <motion.div
-                            key={index}
-                            initial={{ opacity: 0, y: 20 }}
-                            animate={{ opacity: 1, y: 0 }}
-                            transition={{ duration: 0.4, delay: 0.1 * index }}
-                            className={`bg-white dark:bg-neutral-900 ${embedded ? "p-4" : "p-6"} rounded-xl shadow-sm border border-neutral-200 dark:border-neutral-800 hover:shadow-lg transition-all duration-200 hover:scale-[1.01]`}
-                        >
-                            <div className="flex flex-col sm:flex-row sm:justify-between sm:items-start gap-2 mb-2">
-                                <h3 className={`${embedded ? "text-lg" : "text-xl"} font-semibold text-primary leading-tight`}>{item.title}</h3>
-                                {item.date && (
-                                    <span className="shrink-0 whitespace-nowrap text-sm text-neutral-500 font-medium bg-neutral-100 dark:bg-neutral-800 px-3 py-1.5 rounded">
-                                        {item.date}
-                                    </span>
-                                )}
-                            </div>
-
-                            {hasAuthors && (
-                                <AuthorsLine authors={item.authors!} embedded={embedded} />
+                {config.items.map((item, index) => (
+                    <motion.div
+                        key={index}
+                        initial={{ opacity: 0, y: 20 }}
+                        animate={{ opacity: 1, y: 0 }}
+                        transition={{ duration: 0.4, delay: 0.1 * index }}
+                        className={`bg-white dark:bg-neutral-900 ${embedded ? "p-4" : "p-6"} rounded-xl shadow-sm border border-neutral-200 dark:border-neutral-800 hover:shadow-lg transition-all duration-200 hover:scale-[1.01]`}
+                    >
+                        <div className="flex justify-between items-start mb-2">
+                            <h3 className={`${embedded ? "text-lg" : "text-xl"} font-semibold text-primary`}>{item.title}</h3>
+                            {item.date && (
+                                <span className="ml-4 shrink-0 whitespace-nowrap text-sm text-neutral-500 font-medium bg-neutral-100 dark:bg-neutral-800 px-2 py-1 rounded">
+                                    {item.date}
+                                </span>
                             )}
-
-                            {item.subtitle && (
-                                <p className={hasAuthors
-                                    ? "text-sm font-medium text-neutral-800 dark:text-neutral-600 mb-3"
-                                    : `${embedded ? "text-sm" : "text-base"} text-accent font-medium mb-3`}
-                                >
-                                    {item.subtitle}
-                                </p>
-                            )}
-
-                            {item.content && (
-                                <div className={hasAuthors
-                                    ? "text-sm text-neutral-600 dark:text-neutral-500 mb-4 leading-relaxed"
-                                    : `${embedded ? "text-sm" : "text-base"} text-neutral-600 dark:text-neutral-500 leading-relaxed`}
-                                >
-                                    <ReactMarkdown components={markdownComponents}>
-                                        {item.content}
-                                    </ReactMarkdown>
-                                </div>
-                            )}
-
-                            {item.tags && (
-                                <div className="flex flex-wrap gap-2 mt-4">
-                                    {item.tags.map(tag => (
-                                        <span key={tag} className="text-xs text-neutral-500 bg-neutral-50 dark:bg-neutral-800/50 px-2 py-1 rounded border border-neutral-100 dark:border-neutral-800">
-                                            {tag}
+                        </div>
+                        {item.authors && item.authors.length > 0 && (
+                            <p className={`${embedded ? "text-sm" : "text-base"} text-neutral-600 dark:text-neutral-400 mb-2`}>
+                                {item.authors.map((author, idx) => (
+                                    <span key={idx}>
+                                        <span className={author === 'Renlong Wang' ? 'font-semibold text-accent' : ''}>
+                                            {author}
                                         </span>
-                                    ))}
-                                </div>
-                            )}
-                        </motion.div>
-                    );
-                })}
+                                        {idx < item.authors!.length - 1 && ', '}
+                                    </span>
+                                ))}
+                            </p>
+                        )}
+                        {item.subtitle && (
+                            <p className="text-sm font-medium text-neutral-800 dark:text-neutral-600 mb-3">{item.subtitle}</p>
+                        )}
+                        {item.presentation && (
+                            <p className={`${embedded ? "text-sm" : "text-base"} text-neutral-600 dark:text-neutral-500 mb-3 leading-relaxed`}>
+                                <span className="font-medium text-neutral-700 dark:text-neutral-300">Oral presentation:</span>{' '}
+                                {item.presentation}
+                            </p>
+                        )}
+                        {item.content && (
+                            <div className={`${embedded ? "text-sm" : "text-base"} text-neutral-600 dark:text-neutral-500 leading-relaxed`}>
+                                <ReactMarkdown components={markdownComponents}>
+                                    {item.content}
+                                </ReactMarkdown>
+                            </div>
+                        )}
+                        {item.tags && (
+                            <div className="flex flex-wrap gap-2 mt-4">
+                                {item.tags.map(tag => (
+                                    <span key={tag} className="text-xs text-neutral-500 bg-neutral-50 dark:bg-neutral-800/50 px-2 py-1 rounded border border-neutral-100 dark:border-neutral-800">
+                                        {tag}
+                                    </span>
+                                ))}
+                            </div>
+                        )}
+                    </motion.div>
+                ))}
             </div>
         </motion.div>
     );

@@ -235,8 +235,15 @@ export default function PublicationsList({ config, publications, embedded = fals
                                     </p>
 
                                     {pub.description && (
-                                        <p className="text-sm text-neutral-600 dark:text-neutral-500 mb-4 line-clamp-3">
+                                        <p className="text-sm text-neutral-600 dark:text-neutral-500 mb-3 line-clamp-3">
                                             {pub.description}
+                                        </p>
+                                    )}
+
+                                    {pub.presentation && (
+                                        <p className="text-sm text-neutral-600 dark:text-neutral-500 mb-4 leading-relaxed">
+                                            <span className="font-medium text-neutral-700 dark:text-neutral-300">Oral presentation:</span>{' '}
+                                            {pub.presentation}
                                         </p>
                                     )}
 

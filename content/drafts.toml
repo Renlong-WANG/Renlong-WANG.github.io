@@ -7,7 +7,8 @@ title = "Preference Robust Ordinal Priority Approach with Preference Elicitation
 subtitle = "Information Sciences"
 date = "Under Review"
 authors = ["Renlong Wang"]
-content = "Oral presentation at the 2024 Student Academic Forum of the University of Chinese Academy of Sciences, where it received an Excellent Paper Award."
+presentation = "2024 Student Academic Forum of the University of Chinese Academy of Sciences; Excellent Paper Award."
+content = "Manuscript on preference elicitation and robust multi-attribute decision-making under incomplete information."
 tags = ["Robust Decision-Making", "Ordinal Priority Approach", "Incomplete Information"]
 
 [[items]]
@@ -15,7 +16,7 @@ title = "From Resilience Curves to Cross-System Benchmarking: A Non-Parametric R
 subtitle = "Reliability Engineering & System Safety"
 date = "Under Review"
 authors = ["Renlong Wang"]
-content = "Non-parametric relative measurement framework for benchmarking resilience across interdependent infrastructure systems."
+content = "Manuscript on non-parametric relative measurement for benchmarking resilience across interdependent infrastructure systems."
 tags = ["Infrastructure Resilience", "Benchmarking", "Interdependent Systems"]
 
 [[items]]
@@ -23,7 +24,7 @@ title = "A Comment on the Ordinal Priority Approach in Multi-Attribute Decision-
 subtitle = "Journal of the Operational Research Society"
 date = "Under Review"
 authors = ["Renlong Wang"]
-content = "Interpretation of the ordinal priority approach through centralized DEA-based preference voting."
+content = "Manuscript interpreting the ordinal priority approach through centralized DEA-based preference voting."
 tags = ["Ordinal Priority Approach", "DEA", "Preference Voting"]
 
 [[items]]
@@ -31,5 +32,5 @@ title = "Consensus Resilience Planning for Multi-Agency Restoration of Interdepe
 subtitle = "Reliability Engineering & System Safety"
 date = "Submitted"
 authors = ["Renlong Wang"]
-content = "Unified framework and resilience-informed heuristic-exact decomposition algorithm for multi-agency restoration planning."
+content = "Manuscript developing a unified framework and resilience-informed heuristic-exact decomposition algorithm for multi-agency restoration planning."
 tags = ["Resilience Planning", "Multi-Agency Restoration", "Infrastructure Systems"]
