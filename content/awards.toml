@@ -1,58 +1,33 @@
 type = "card"
-title = "Honors and Awards"
-description = "Selected honors, scholarships, and paper awards."
+title = "Awards"
 
 [[items]]
-title = "National Scholarship for Postgraduates (Master)" 
-date = "2025.11"
+title = "Honors"
+content = """
+- National Scholarship for Postgraduates (Master) 2025.11
+- Excellent Prize for the President Scholarship of Chinese Academy of Sciences 2025.04
+- National Scholarship for Postgraduates (Master) 2024.11
+- Merit Student of the University of Chinese Academy of Sciences 2024.07
+- Distinguished Graduates in Civil Engineering from Jiangsu Universities and Colleges 2023.06
+"""
 
 [[items]]
-title = "Excellent Prize for the President Scholarship of Chinese Academy of Sciences" 
-date = "2025.04"
+title = "Conference Paper Awards"
+content = """
+- Excellent Paper Award in 2024 Student Academic Forum of the University of Chinese Academy of Sciences 2024.12
+- Best Paper First Prize in 2024 International Symposium on Emergency Management 2024.11
+- Excellent Paper Award in 2024 POMS Summer School in China 2024.08
+- Best Paper Third Prize in 2023 International Symposium on Emergency Management 2023.11
+- Excellent Paper Award in 2023 POMS Summer School in China 2023.08
+"""
 
 [[items]]
-title = "National Scholarship for Postgraduates (Master)" 
-date = "2024.11"
-
-[[items]]
-title = "Best Paper First Prize in 2024 International Symposium on Emergency Management" 
-date = "2024.11"
-
-[[items]]
-title = "Excellent Paper Award in 2024 POMS Summer School" 
-date = "2024.08"
-
-[[items]]
-title = "Merit Student of the University of Chinese Academy of Sciences" 
-date = "2024.07"
-
-[[items]]
-title = "Excellent Paper Award in 2024 Student Academic Forum of the University of Chinese Academy of Sciences" 
-date = "2024.12"
-
-[[items]]
-title = "Best Paper Third Prize in 2023 International Symposium on Emergency Management" 
-date = "2023.11"
-
-[[items]]
-title = "Excellent Paper Award in 2023 POMS Summer School in China" 
-date = "2023.08"
-
-[[items]]
-title = "Distinguished Graduates in Civil Engineering from Jiangsu Universities and Colleges" 
-date = "2023.06"
-
-[[items]]
-title = "Outstanding Winner Prize of American Undergraduate Mathematical Contest in Modeling"
-subtitle = "Highest award for the undergraduate mathematical contest in modeling in America (Top 0.16% among 27,205 teams)"
-date = "2022.05"
-
-[[items]]
-title = "SIAM Award of American Undergraduate Mathematical Contest in Modeling"
-subtitle = "Six teams worldwide designated by The Society for Industrial and Applied Mathematics (SIAM)"
-date = "2022.05"
-
-[[items]]
-title = "First Prize of Contemporary Undergraduate Mathematical Contest in Modeling"
-subtitle = "Highest award for the undergraduate mathematical contest in modeling in China (Top 0.65% among 45,075 teams)"
-date = "2021.10"
+title = "Competition Awards"
+content = """
+- Outstanding Winner Prize of American Undergraduate Mathematical Contest in Modeling 2022.05
+  - Highest award for the undergraduate mathematical contest in modeling in America; Top 0.16% among 27,205 teams
+- SIAM Award of American Undergraduate Mathematical Contest in Modeling 2022.05
+  - Six teams worldwide designated by The Society for Industrial and Applied Mathematics (SIAM)
+- First Prize of Contemporary Undergraduate Mathematical Contest in Modeling 2021.10
+  - Highest award for the undergraduate mathematical contest in modeling in China; Top 0.65% among 45,075 teams
+"""
