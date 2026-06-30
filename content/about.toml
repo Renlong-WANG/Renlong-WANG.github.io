@@ -3,9 +3,10 @@ title = "About"
 
 [profile]
 research_interests = [
-  "Computational Physics",
-  "Mathematical Principles",
-  "Proof of Theorems"
+  "Infrastructure Resilience under Uncertainty",
+  "AI-Aided Robust and Equitable Decision-Making",
+  "Physics-Informed Machine Learning",
+  "Contextual Stochastic Optimization"
 ]
 
 [[sections]]
@@ -27,3 +28,8 @@ type = "list"
 title = "News"
 source = "news.toml"
 
+[[sections]]
+id = "education"
+type = "list"
+title = "Education"
+source = "education.toml"

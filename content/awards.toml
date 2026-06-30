@@ -1,27 +1,71 @@
 type = "card"
-title = "Awards"
-description = "Honors and awards I have received."
+title = "Honors and Awards"
+description = "Selected honors, scholarships, and paper awards."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2025"
-content = "Description of the award."
+title = "National Scholarship for Postgraduates (Master)"
+subtitle = "China"
+date = "2025.11"
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2024"
-content = "Description of the award."
+title = "Excellent Prize for the President Scholarship"
+subtitle = "Chinese Academy of Sciences"
+date = "2025.04"
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2023"
-content = "Description of the award."
+title = "National Scholarship for Postgraduates (Master)"
+subtitle = "China"
+date = "2024.11"
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2022"
-content = "Description of the award."
+title = "Best Paper First Prize"
+subtitle = "2024 International Symposium on Emergency Management"
+date = "2024.11"
+
+[[items]]
+title = "Excellent Paper Award"
+subtitle = "2024 POMS Summer School"
+date = "2024.08"
+
+[[items]]
+title = "Merit Student"
+subtitle = "University of Chinese Academy of Sciences"
+date = "2024.07"
+
+[[items]]
+title = "Excellent Paper Award"
+subtitle = "2024 Student Academic Forum, University of Chinese Academy of Sciences"
+date = "2024.12"
+
+[[items]]
+title = "Best Paper Third Prize"
+subtitle = "2023 International Symposium on Emergency Management"
+date = "2023.11"
+
+[[items]]
+title = "Excellent Paper Award"
+subtitle = "2023 POMS Summer School in China"
+date = "2023.08"
+
+[[items]]
+title = "Distinguished Graduate in Civil Engineering"
+subtitle = "Jiangsu Universities and Colleges"
+date = "2023.06"
+
+[[items]]
+title = "Outstanding Winner Prize"
+subtitle = "Mathematical Contest in Modeling"
+date = "2022.05"
+content = "Highest award in the contest; top 0.16% among 27,205 teams."
+
+[[items]]
+title = "SIAM Award"
+subtitle = "Mathematical Contest in Modeling"
+date = "2022.05"
+content = "One of six teams worldwide designated by the Society for Industrial and Applied Mathematics (SIAM)."
+
+[[items]]
+title = "First Prize"
+subtitle = "Contemporary Undergraduate Mathematical Contest in Modeling"
+date = "2021.10"
+content = "Highest award in the contest; top 0.65% among 45,075 teams."

@@ -1,5 +1,3 @@
-I am a PhD student at the School of Science, University of Example, advised by [Prof. Advisor One](https://example.com) and [Dr. Advisor Two](https://example.com).
+I am an incoming Ph.D. student in Civil Engineering at [Rice University](https://www.rice.edu/about), advised by Dr. [Jamie Padgett](https://profiles.rice.edu/faculty/jamie-padgett). I recently completed my master's studies in Industrial Engineering and Management at the [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/index.php/about-ucas/introduction) (UCAS), advised by Dr. [Mingang Gao](https://people.ucas.ac.cn/~0028787) from the Chinese Academy of Sciences (CAS). Before that, I received my bachelor's degree in Civil Engineering from [Nanjing Tech University](https://en.njtech.edu.cn/About/General_Information.htm) in 2023, advised by Dr. [Lingzhi Li](https://cce.njtech.edu.cn/info/1098/3647.htm).
 
-Prior to this, I obtained a BSc degree with First Class Honours in Natural Science from the University of Example.
-
-My current research focuses on investigating the mathematical principles of natural philosophy.
+My research focuses on modeling, evaluation, and optimization of complex systems under uncertainty in operating conditions and decision-makers' preferences. I develop methods using system simulation, network analysis, data analysis, and operations research, with applications in infrastructure resilience and emergency management.

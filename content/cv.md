@@ -1,26 +1,30 @@
 ## Education
 
-**The University of Example**, PhD in Natural Science, *2025 - Present*
-- Research focus: Mathematical Principles of Natural Philosophy
-- Supervisor: Prof. Advisor One and Dr. Advisor Two
+**Rice University**, Ph.D. in Civil Engineering, *2026.08 - 2031.06 (expected)*  
+Advisor: Dr. Jamie Padgett
 
-**The University of Example**, BSc in Natural Science, *2021 - 2025*
-- Graduated with First Class Honours
+**University of Chinese Academy of Sciences**, Master in Industrial Engineering and Management, *2023.09 - 2026.06*  
+Advisor: Dr. Mingang Gao, Chinese Academy of Sciences
 
-## Experience
+**Nanjing Tech University**, Bachelor in Civil Engineering, *2019.09 - 2023.06*  
+Advisor: Dr. Lingzhi Li
 
-**Example Role**
-Company/Institution
-*2023 - 2024*
-- Description of key responsibilities and achievements.
-- Utilized skills to solve problems.
+## Research Interests
 
-## Skills
+- Infrastructure resilience under uncertainty
+- AI-aided robust and equitable decision-making
+- Physics-informed machine learning
+- Contextual stochastic optimization
 
-- **Programming:** Python, C++, MATLAB, LaTeX
-- **Data Analysis:** Pandas, NumPy, SciPy
-- **Languages:** English (Native), French (Fluent)
+## Selected Honors
 
-## Awards & Honors
+- National Scholarship for Postgraduates (Master), 2025 and 2024
+- Excellent Prize for the President Scholarship of Chinese Academy of Sciences, 2025
+- Merit Student of the University of Chinese Academy of Sciences, 2024
+- Outstanding Winner Prize and SIAM Award, Mathematical Contest in Modeling, 2022
 
-- **First Prize in Example Competition** - Committee of Example (*2024*)
+## Contact
+
+Email: 13127073530@163.com  
+Google Scholar: <https://scholar.google.com/citations?user=HwDGjnMAAAAJ>  
+ORCID: <https://orcid.org/0000-0002-6144-6028>

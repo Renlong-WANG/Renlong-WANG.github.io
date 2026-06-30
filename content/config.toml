@@ -1,51 +1,42 @@
 [site]
-title = "Jiale Liu"
-description = "PhD student at the University of Example."
+title = "Renlong WANG"
+description = "Incoming Ph.D. student in Civil Engineering at Rice University."
 favicon = "/favicon.svg"
-last_updated = "November 18, 2025"
+last_updated = "June 30, 2026"
 
 [author]
-name = "Jiale Liu"
-title = "PhD Student"
-institution = "University of Example"
-avatar = "/bio.jpg"
+name = "Renlong WANG"
+title = "Incoming Ph.D. Student in Civil Engineering"
+institution = "Rice University"
+avatar = "/RLWANG.png"
 
 [social]
-# Contact information (leave blank or delete to hide)
-
-email = "john.doe@example.com"
-location = "City, Country"
-location_url = "https://maps.google.com"
+email = "13127073530@163.com"
+location = "Beijing, China / Houston, TX"
+location_url = "https://www.rice.edu/about"
 location_details = [
-  "Room 123, Science Building,",
-  "University Avenue, City, Country"
+  "Incoming Ph.D. student, Department of Civil and Environmental Engineering, Rice University",
+  "M.S., University of Chinese Academy of Sciences"
 ]
-google_scholar = "https://scholar.google.com"
-orcid = "https://orcid.org"
-github = "https://github.com"
-linkedin = "https://linkedin.com"
+google_scholar = "https://scholar.google.com/citations?user=HwDGjnMAAAAJ"
+orcid = "https://orcid.org/0000-0002-6144-6028"
+github = "https://github.com/Renlong-WANG"
+linkedin = "https://www.linkedin.com/in/renlong-wang-0b41aa379"
 
 [features]
-# Show a like button on the about page
 enable_likes = true
-
-# Display all subpages on a single page
 enable_one_page_mode = false
 
 [i18n]
-enabled = true
-locales = ["zh", "en"]
+enabled = false
+locales = ["en"]
 default_locale = "en"
-# "auto" means the locale will be determined by the browser's language setting, "fixed" means the locale will be fixed to the default locale (but can be switched still, if you want to disable, set "enable=false")
-mode = "auto"
+mode = "fixed"
 fixed_locale = "en"
-# If true, PRISM will remember user's language preference in browser's localStorage
-persist = true
-# Show a language switcher on the top right corner
-switcher = true
+persist = false
+switcher = false
 
 [i18n.labels]
-zh = "中文"
 en = "English"
 
 [[navigation]]
@@ -59,12 +50,6 @@ title = "Publications"
 type = "page"
 target = "publications"
 href = "/publications"
-
-[[navigation]]
-title = "Teaching"
-type = "page"
-target = "teaching"
-href = "/teaching"
 
 [[navigation]]
 title = "Awards"
