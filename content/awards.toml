@@ -25,9 +25,9 @@ content = """
 title = "Competition Awards"
 content = """
 - Outstanding Winner Prize of American Undergraduate Mathematical Contest in Modeling, 2022.05
-  - Highest award for the undergraduate mathematical contest in modeling in America; Top 0.16% among 27,205 teams
+    - Highest award for the undergraduate mathematical contest in modeling in America; Top 0.16% among 27,205 teams
 - SIAM Award of American Undergraduate Mathematical Contest in Modeling, 2022.05
-  - Six teams worldwide designated by The Society for Industrial and Applied Mathematics (SIAM)
+    - Six teams worldwide designated by The Society for Industrial and Applied Mathematics (SIAM)
 - First Prize of Contemporary Undergraduate Mathematical Contest in Modeling, 2021.10
-  - Highest award for the undergraduate mathematical contest in modeling in China; Top 0.65% among 45,075 teams
+    - Highest award for the undergraduate mathematical contest in modeling in China; Top 0.65% among 45,075 teams
 """
