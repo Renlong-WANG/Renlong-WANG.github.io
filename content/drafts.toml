@@ -18,7 +18,6 @@ date = "Under Review"
 authors = ["Renlong Wang"]
 content = "Proposes a benchmark-relative measurement framework, which compares resilience curves across systems and identifies peer references and feature-level performance gaps."
 tags = ["Infrastructure Resilience", "Cross-System Benchmarking", "Relative Performance Assessment", "Interdependent Infrastructure System"]
-selected = true
 
 [[items]]
 title = "Preference Robust Ordinal Priority Approach with Preference Elicitation under Incomplete Information for Robust Multi-Attribute Decision-Making"
@@ -28,6 +27,7 @@ authors = ["Renlong Wang"]
 presentation = "2024 Student Academic Forum of the University of Chinese Academy of Sciences; Excellent Paper Award."
 content = "Develops a preference-robust weighting model, which elicits utility ambiguity sets and safeguards ordinal decisions against incomplete preference information."
 tags = ["Preference Robust Ordinal Priority Approach", "Multi-Attribute Decision-Making", "Preference and Parameter Uncertainty", "Preference Elicitation Strategy"]
+selected = true
 
 [[items]]
 title = "A Comment on the Ordinal Priority Approach in Multi-Attribute Decision-Making: A Centralized DEA-Based Preference Voting Interpretation"
