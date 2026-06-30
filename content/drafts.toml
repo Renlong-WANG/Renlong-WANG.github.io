@@ -9,6 +9,7 @@ date = "Submitted"
 authors = ["Renlong Wang"]
 content = "Proposes a consensus resilience planning model, which coordinates shared resources through resilience-informed allocation search and exact agent-level restoration oracles."
 tags = ["Consensus Resilience Planning", "Resilience Optimization", "Multi-Agency Restoration", "Interdependent Infrastructure System"]
+selected = true
 
 [[items]]
 title = "From Resilience Curves to Cross-System Benchmarking: A Non-Parametric Relative Measurement Framework for Interdependent Infrastructure"
@@ -17,6 +18,7 @@ date = "Under Review"
 authors = ["Renlong Wang"]
 content = "Proposes a benchmark-relative measurement framework, which compares resilience curves across systems and identifies peer references and feature-level performance gaps."
 tags = ["Infrastructure Resilience", "Cross-System Benchmarking", "Relative Performance Assessment", "Interdependent Infrastructure System"]
+selected = true
 
 [[items]]
 title = "Preference Robust Ordinal Priority Approach with Preference Elicitation under Incomplete Information for Robust Multi-Attribute Decision-Making"

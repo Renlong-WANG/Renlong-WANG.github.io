@@ -33,3 +33,11 @@ type = "publications"
 title = "Selected Publications"
 filter = "selected"
 limit = 5
+
+[[sections]]
+id = "drafts"
+type = "card"
+title = "Selected Drafts"
+source = "drafts.toml"
+filter = "selected"
+limit = 3

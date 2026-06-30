@@ -36,7 +36,7 @@ export default function DynamicPageClient({ dataByLocale, defaultLocale }: Dynam
         <>
           <PublicationsList config={pageData.config} publications={pageData.publications} />
           {pageData.draftsConfig && (
-            <div className="mt-16">
+            <div id="drafts" className="mt-16 scroll-mt-24">
               <CardPage config={pageData.draftsConfig} />
             </div>
           )}

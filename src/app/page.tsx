@@ -8,7 +8,7 @@ import { getRuntimeI18nConfig } from '@/lib/i18n/config';
 
 interface SectionConfig {
   id: string;
-  type: 'markdown' | 'publications' | 'list';
+  type: 'markdown' | 'publications' | 'list' | 'card';
   title?: string;
   source?: string;
   filter?: string;
@@ -16,6 +16,7 @@ interface SectionConfig {
   content?: string;
   publications?: Publication[];
   items?: NewsItem[];
+  cardConfig?: CardPageConfig | null;
 }
 
 interface NewsItem {
@@ -53,6 +54,23 @@ function processSections(sections: SectionConfig[], locale?: string): SectionCon
         return {
           ...section,
           items: newsData?.news || [],
+        };
+      }
+      case 'card': {
+        const cardConfig = section.source ? getTomlContent<CardPageConfig>(section.source, locale) : null;
+        const filteredItems = section.filter === 'selected'
+          ? cardConfig?.items.filter((item) => item.selected)
+          : cardConfig?.items;
+
+        return {
+          ...section,
+          cardConfig: cardConfig
+            ? {
+              ...cardConfig,
+              title: section.title || cardConfig.title,
+              items: (filteredItems || []).slice(0, section.limit || filteredItems?.length),
+            }
+            : null,
         };
       }
       default:
