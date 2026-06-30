@@ -52,6 +52,12 @@ target = "publications"
 href = "/publications"
 
 [[navigation]]
+title = "Drafts"
+type = "page"
+target = "drafts"
+href = "/drafts"
+
+[[navigation]]
 title = "Awards"
 type = "page"
 target = "awards"
@@ -62,9 +68,3 @@ title = "Services"
 type = "page"
 target = "services"
 href = "/services"
-
-[[navigation]]
-title = "CV"
-type = "page"
-target = "cv"
-href = "/cv"
