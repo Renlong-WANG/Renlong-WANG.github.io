@@ -93,7 +93,6 @@ export default function HomePageClient({ dataByLocale, defaultLocale }: HomePage
                         key={section.id}
                         items={section.items || []}
                         title={section.title}
-                        scrollable={section.id === 'news'}
                       />
                     );
                   default:
