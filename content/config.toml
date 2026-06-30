@@ -24,7 +24,7 @@ github = "https://github.com/Renlong-WANG"
 linkedin = "https://www.linkedin.com/in/renlong-wang-0b41aa379"
 
 [features]
-enable_likes = true
+enable_likes = false
 enable_one_page_mode = false
 
 [i18n]

@@ -65,7 +65,12 @@ export default function CardPage({ config, embedded = false }: { config: CardPag
                             )}
                         </div>
                         {item.subtitle && (
-                            <p className={`${embedded ? "text-sm" : "text-base"} text-accent font-medium mb-3`}>{item.subtitle}</p>
+                            <p className={`${embedded ? "text-sm" : "text-base"} text-accent font-medium mb-2`}>{item.subtitle}</p>
+                        )}
+                        {item.authors && item.authors.length > 0 && (
+                            <p className={`${embedded ? "text-sm" : "text-base"} text-neutral-700 dark:text-neutral-400 mb-3`}>
+                                {item.authors.join(", ")}
+                            </p>
                         )}
                         {item.content && (
                             <div className={`${embedded ? "text-sm" : "text-base"} text-neutral-600 dark:text-neutral-500 leading-relaxed`}>
