@@ -51,11 +51,6 @@ type = "page"
 target = "publications"
 href = "/publications"
 
-[[navigation]]
-title = "Drafts"
-type = "page"
-target = "drafts"
-href = "/drafts"
 
 [[navigation]]
 title = "Awards"
