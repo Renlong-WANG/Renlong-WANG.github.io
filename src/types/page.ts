@@ -21,6 +21,7 @@ export interface CardItem {
     date?: string;
     authors?: string[];
     presentation?: string;
+    award?: string;
     index?: string;
     quartile?: string;
     impactFactor?: number | string;

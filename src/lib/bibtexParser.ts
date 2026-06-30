@@ -64,6 +64,7 @@ export function parseBibTeX(bibtexContent: string, locale?: string): Publication
     const preview = tags.preview?.replace(/[{}]/g, '');
     const title = parseBibTeXInline(tags.title || 'Untitled');
     const presentation = cleanBibTeXString(getTagValue(tags, ['presentation', 'oralpresentation', 'oral_presentation']));
+    const award = cleanBibTeXString(getTagValue(tags, ['award', 'awards', 'honor', 'honour']));
     const journalIndex = cleanBibTeXString(getTagValue(tags, ['index', 'indexed', 'database', 'sourceindex', 'source_index']));
     const quartile = parseQuartile(getTagValue(tags, ['quartile', 'jcr', 'jcrquartile', 'jcr_quartile']));
     const impactFactor = parseImpactFactor(getTagValue(tags, ['impactfactor', 'impact_factor', 'jif', 'if']));
@@ -94,6 +95,7 @@ export function parseBibTeX(bibtexContent: string, locale?: string): Publication
       abstract: cleanBibTeXString(tags.abstract),
       description: cleanBibTeXString(tags.description || tags.note),
       presentation,
+      award,
       index: journalIndex,
       quartile,
       impactFactor,
@@ -101,7 +103,7 @@ export function parseBibTeX(bibtexContent: string, locale?: string): Publication
       preview,
 
       // Store original BibTeX (excluding custom display fields)
-      bibtex: reconstructBibTeX(entry, ['selected', 'preview', 'description', 'keywords', 'code', 'presentation', 'oralpresentation', 'oral_presentation', 'index', 'indexed', 'database', 'sourceindex', 'source_index', 'quartile', 'jcr', 'jcrquartile', 'jcr_quartile', 'impactfactor', 'impact_factor', 'jif', 'if']),
+      bibtex: reconstructBibTeX(entry, ['selected', 'preview', 'description', 'keywords', 'code', 'presentation', 'oralpresentation', 'oral_presentation', 'award', 'awards', 'honor', 'honour', 'index', 'indexed', 'database', 'sourceindex', 'source_index', 'quartile', 'jcr', 'jcrquartile', 'jcr_quartile', 'impactfactor', 'impact_factor', 'jif', 'if', 'publisher']),
     };
 
     // Clean up undefined fields

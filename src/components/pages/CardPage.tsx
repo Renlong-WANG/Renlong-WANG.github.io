@@ -111,6 +111,12 @@ export default function CardPage({ config, embedded = false }: { config: CardPag
                                 {item.presentation}
                             </p>
                         )}
+                        {item.award && (
+                            <p className={`${embedded ? "text-sm" : "text-base"} text-neutral-600 dark:text-neutral-500 mb-3 leading-relaxed`}>
+                                <span className="font-medium text-neutral-700 dark:text-neutral-300">Award:</span>{' '}
+                                {item.award}
+                            </p>
+                        )}
                         {item.content && (
                             <div className={`${embedded ? "text-sm" : "text-base"} text-neutral-600 dark:text-neutral-500 leading-relaxed`}>
                                 <ReactMarkdown components={markdownComponents}>

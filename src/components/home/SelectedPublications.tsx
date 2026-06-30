@@ -91,6 +91,18 @@ export default function SelectedPublications({ publications, title, enableOnePag
                                 {formatVenueWithMetrics(pub)}
                             </p>
                         )}
+                        {pub.presentation && (
+                            <p className="text-sm text-neutral-500 dark:text-neutral-500 mb-1 leading-relaxed">
+                                <span className="font-medium text-neutral-700 dark:text-neutral-300">Oral presentation:</span>{' '}
+                                {pub.presentation}
+                            </p>
+                        )}
+                        {pub.award && (
+                            <p className="text-sm text-neutral-500 dark:text-neutral-500 mb-1 leading-relaxed">
+                                <span className="font-medium text-neutral-700 dark:text-neutral-300">Award:</span>{' '}
+                                {pub.award}
+                            </p>
+                        )}
                         {pub.description && (
                             <p className="text-sm text-neutral-500 dark:text-neutral-500 line-clamp-2">
                                 {pub.description}

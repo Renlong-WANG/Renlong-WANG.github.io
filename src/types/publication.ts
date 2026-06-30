@@ -47,6 +47,7 @@ export interface Publication {
   bibtex?: string;
   venue?: string;
   location?: string;
+  award?: string;
   awards?: string[];
   featured?: boolean;
   selected?: boolean;
