@@ -5,10 +5,28 @@ import ReactMarkdown from 'react-markdown';
 import { CardPageConfig } from '@/types/page';
 
 const markdownComponents = {
-    p: ({ children }: React.ComponentProps<'p'>) => <p className="mb-3 last:mb-0">{children}</p>,
-    ul: ({ children }: React.ComponentProps<'ul'>) => <ul className="list-disc list-inside mb-3 space-y-1">{children}</ul>,
-    ol: ({ children }: React.ComponentProps<'ol'>) => <ol className="list-decimal list-inside mb-3 space-y-1">{children}</ol>,
-    li: ({ children }: React.ComponentProps<'li'>) => <li className="mb-1">{children}</li>,
+    p: ({ children }: React.ComponentProps<'p'>) => (
+        <p className="mb-3 last:mb-0">{children}</p>
+    ),
+
+    ul: ({ children }: React.ComponentProps<'ul'>) => (
+        <ul className="list-disc list-outside pl-5 mb-3 space-y-1 [&_ul]:mt-1 [&_ul]:mb-1 [&_ul]:pl-6 [&_ul]:list-[circle]">
+            {children}
+        </ul>
+    ),
+
+    ol: ({ children }: React.ComponentProps<'ol'>) => (
+        <ol className="list-decimal list-outside pl-5 mb-3 space-y-1 [&_ol]:mt-1 [&_ol]:mb-1 [&_ol]:pl-6">
+            {children}
+        </ol>
+    ),
+
+    li: ({ children }: React.ComponentProps<'li'>) => (
+        <li className="mb-1 pl-1 leading-relaxed">
+            {children}
+        </li>
+    ),
+
     a: ({ ...props }) => (
         <a
             {...props}
@@ -17,15 +35,25 @@ const markdownComponents = {
             className="text-accent font-medium transition-all duration-200 rounded hover:bg-accent/10 hover:shadow-sm"
         />
     ),
+
     blockquote: ({ children }: React.ComponentProps<'blockquote'>) => (
         <blockquote className="border-l-4 border-accent/50 pl-4 italic my-4 text-neutral-600 dark:text-neutral-500">
             {children}
         </blockquote>
     ),
-    strong: ({ children }: React.ComponentProps<'strong'>) => <strong className="font-semibold text-primary">{children}</strong>,
-    em: ({ children }: React.ComponentProps<'em'>) => <em className="italic">{children}</em>,
+
+    strong: ({ children }: React.ComponentProps<'strong'>) => (
+        <strong className="font-semibold text-primary">{children}</strong>
+    ),
+
+    em: ({ children }: React.ComponentProps<'em'>) => (
+        <em className="italic">{children}</em>
+    ),
+
     code: ({ children }: React.ComponentProps<'code'>) => (
-        <code className="px-1.5 py-0.5 rounded bg-neutral-100 dark:bg-neutral-800 text-[0.95em]">{children}</code>
+        <code className="px-1.5 py-0.5 rounded bg-neutral-100 dark:bg-neutral-800 text-[0.95em]">
+            {children}
+        </code>
     ),
 };
 
