@@ -12,12 +12,6 @@ avatar = "/RLWANG.png"
 
 [social]
 email = "13127073530@163.com"
-location = "Beijing, China / Houston, TX"
-location_url = "https://www.rice.edu/about"
-location_details = [
-  "Incoming Ph.D. student, Department of Civil and Environmental Engineering, Rice University",
-  "M.S., University of Chinese Academy of Sciences"
-]
 google_scholar = "https://scholar.google.com/citations?user=HwDGjnMAAAAJ"
 orcid = "https://orcid.org/0000-0002-6144-6028"
 github = "https://github.com/Renlong-WANG"
