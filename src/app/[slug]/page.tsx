@@ -8,6 +8,7 @@ import {
   PublicationPageConfig,
   TextPageConfig,
   CardPageConfig,
+  ResearchPageConfig,
 } from '@/types/page';
 
 import { Metadata } from 'next';
@@ -30,6 +31,21 @@ function loadDynamicPageData(slug: string, locale?: string): DynamicPageLocaleDa
     return {
       type: 'publication',
       config: pubConfig,
+      publications: parseBibTeX(bibtex, locale),
+      draftsConfig,
+    };
+  }
+
+  if (pageConfig.type === 'research') {
+    const researchConfig = pageConfig as ResearchPageConfig;
+    const bibtex = getBibtexContent(researchConfig.publications || 'publications.bib', locale);
+    const draftsConfig = researchConfig.drafts
+      ? (getPageConfig(researchConfig.drafts, locale) as CardPageConfig | null)
+      : null;
+
+    return {
+      type: 'research',
+      config: researchConfig,
       publications: parseBibTeX(bibtex, locale),
       draftsConfig,
     };

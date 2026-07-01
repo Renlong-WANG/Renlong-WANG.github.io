@@ -4,6 +4,7 @@ import { motion } from 'framer-motion';
 import Link from 'next/link';
 import ReactMarkdown from 'react-markdown';
 import { CardPageConfig } from '@/types/page';
+import { slugifyText } from '@/lib/slugs';
 
 interface CardPageProps {
     config: CardPageConfig;
@@ -13,6 +14,9 @@ interface CardPageProps {
     showTags?: boolean;
     showDescription?: boolean;
     showContent?: boolean;
+    showItemNumbers?: boolean;
+    numberPrefix?: string;
+    itemAnchorPrefix?: string;
 }
 
 const markdownComponents = {
@@ -68,7 +72,6 @@ const markdownComponents = {
     ),
 };
 
-
 function formatVenueWithMetrics(item: CardPageConfig['items'][number]) {
     if (!item.subtitle) return '';
 
@@ -92,7 +95,18 @@ function formatVenueWithMetrics(item: CardPageConfig['items'][number]) {
     return metrics.length > 0 ? `${item.subtitle} (${metrics.join(', ')})` : item.subtitle;
 }
 
-export default function CardPage({ config, embedded = false, actionHref, actionLabel = 'View All', showTags = true, showDescription = true, showContent = true }: CardPageProps) {
+export default function CardPage({
+    config,
+    embedded = false,
+    actionHref,
+    actionLabel = 'View All',
+    showTags = true,
+    showDescription = true,
+    showContent = true,
+    showItemNumbers = false,
+    numberPrefix = '',
+    itemAnchorPrefix,
+}: CardPageProps) {
     return (
         <motion.div
             initial={{ opacity: 0, y: 20 }}
@@ -122,69 +136,81 @@ export default function CardPage({ config, embedded = false, actionHref, actionL
             </div>
 
             <div className={`grid ${embedded ? "gap-4" : "gap-6"}`}>
-                {config.items.map((item, index) => (
-                    <motion.div
-                        key={index}
-                        initial={{ opacity: 0, y: 20 }}
-                        animate={{ opacity: 1, y: 0 }}
-                        transition={{ duration: 0.4, delay: 0.1 * index }}
-                        className={`bg-white dark:bg-neutral-900 ${embedded ? "p-4" : "p-6"} rounded-lg shadow-sm border border-neutral-200 dark:border-neutral-800 hover:shadow-lg transition-all duration-200 hover:translate-y-[-1px]`}
-                    >
-                        <div className="flex justify-between items-start mb-2">
-                            <h3 className={`${embedded ? "text-lg" : "text-xl"} font-semibold text-primary`}>{item.title}</h3>
-                            {item.date && (
-                                <span className="ml-4 shrink-0 whitespace-nowrap text-sm text-neutral-500 font-medium bg-neutral-100 dark:bg-neutral-800 px-2 py-1 rounded">
-                                    {item.date}
-                                </span>
-                            )}
-                        </div>
-                        {item.authors && item.authors.length > 0 && (
-                            <p className={`${embedded ? "text-sm" : "text-base"} text-neutral-600 dark:text-neutral-400 mb-2`}>
-                                {item.authors.map((author, idx) => (
-                                    <span key={idx}>
-                                        <span className={author === 'Renlong Wang' ? 'font-semibold text-accent' : ''}>
-                                            {author}
+                {config.items.map((item, index) => {
+                    const itemAnchor = itemAnchorPrefix ? `${itemAnchorPrefix}-${slugifyText(item.title)}` : undefined;
+
+                    return (
+                        <motion.div
+                            key={index}
+                            id={itemAnchor}
+                            initial={{ opacity: 0, y: 20 }}
+                            animate={{ opacity: 1, y: 0 }}
+                            transition={{ duration: 0.4, delay: 0.1 * index }}
+                            className={`${itemAnchor ? 'scroll-mt-24 ' : ''}bg-white dark:bg-neutral-900 ${embedded ? "p-4" : "p-6"} rounded-lg shadow-sm border border-neutral-200 dark:border-neutral-800 hover:shadow-lg transition-all duration-200 hover:translate-y-[-1px]`}
+                        >
+                            <div className="flex justify-between items-start gap-4 mb-2">
+                                <div className="flex items-start gap-3 min-w-0">
+                                    {showItemNumbers && (
+                                        <span className="mt-0.5 shrink-0 text-xs font-semibold text-accent bg-accent/10 border border-accent/20 px-2 py-0.5 rounded">
+                                            {numberPrefix}{index + 1}
                                         </span>
-                                        {idx < item.authors!.length - 1 && ', '}
+                                    )}
+                                    <h3 className={`${embedded ? "text-lg" : "text-xl"} font-semibold text-primary`}>{item.title}</h3>
+                                </div>
+                                {item.date && (
+                                    <span className="ml-4 shrink-0 whitespace-nowrap text-sm text-neutral-500 font-medium bg-neutral-100 dark:bg-neutral-800 px-2 py-1 rounded">
+                                        {item.date}
                                     </span>
-                                ))}
-                            </p>
-                        )}
-                        {item.subtitle && (
-                            <p className={`${embedded ? "text-sm" : "text-base"} font-medium text-neutral-800 dark:text-neutral-600 mb-3`}>
-                                {formatVenueWithMetrics(item)}
-                            </p>
-                        )}
-                        {item.presentation && (
-                            <p className={`${embedded ? "text-sm" : "text-base"} text-neutral-600 dark:text-neutral-500 mb-3 leading-relaxed`}>
-                                <span className="font-medium text-neutral-700 dark:text-neutral-300">Oral presentation:</span>{' '}
-                                {item.presentation}
-                            </p>
-                        )}
-                        {item.award && (
-                            <p className={`${embedded ? "text-sm" : "text-base"} text-neutral-600 dark:text-neutral-500 mb-3 leading-relaxed`}>
-                                <span className="font-medium text-neutral-700 dark:text-neutral-300">Award:</span>{' '}
-                                {item.award}
-                            </p>
-                        )}
-                        {showContent && item.content && (
-                            <div className={`${embedded ? "text-sm" : "text-base"} text-neutral-600 dark:text-neutral-500 leading-relaxed`}>
-                                <ReactMarkdown components={markdownComponents}>
-                                    {item.content}
-                                </ReactMarkdown>
+                                )}
                             </div>
-                        )}
-                        {showTags && item.tags && (
-                            <div className="flex flex-wrap gap-2 mt-4">
-                                {item.tags.map(tag => (
-                                    <span key={tag} className="text-xs text-neutral-500 bg-neutral-50 dark:bg-neutral-800/50 px-2 py-1 rounded border border-neutral-100 dark:border-neutral-800">
-                                        {tag}
-                                    </span>
-                                ))}
-                            </div>
-                        )}
-                    </motion.div>
-                ))}
+                            {item.authors && item.authors.length > 0 && (
+                                <p className={`${embedded ? "text-sm" : "text-base"} text-neutral-600 dark:text-neutral-400 mb-2`}>
+                                    {item.authors.map((author, idx) => (
+                                        <span key={idx}>
+                                            <span className={author === 'Renlong Wang' ? 'font-semibold text-accent' : ''}>
+                                                {author}
+                                            </span>
+                                            {idx < item.authors!.length - 1 && ', '}
+                                        </span>
+                                    ))}
+                                </p>
+                            )}
+                            {item.subtitle && (
+                                <p className={`${embedded ? "text-sm" : "text-base"} font-medium text-neutral-800 dark:text-neutral-600 mb-3`}>
+                                    {formatVenueWithMetrics(item)}
+                                </p>
+                            )}
+                            {item.presentation && (
+                                <p className={`${embedded ? "text-sm" : "text-base"} text-neutral-600 dark:text-neutral-500 mb-3 leading-relaxed`}>
+                                    <span className="font-medium text-neutral-700 dark:text-neutral-300">Oral presentation:</span>{' '}
+                                    {item.presentation}
+                                </p>
+                            )}
+                            {item.award && (
+                                <p className={`${embedded ? "text-sm" : "text-base"} text-neutral-600 dark:text-neutral-500 mb-3 leading-relaxed`}>
+                                    <span className="font-medium text-neutral-700 dark:text-neutral-300">Award:</span>{' '}
+                                    {item.award}
+                                </p>
+                            )}
+                            {showContent && item.content && (
+                                <div className={`${embedded ? "text-sm" : "text-base"} text-neutral-600 dark:text-neutral-500 leading-relaxed`}>
+                                    <ReactMarkdown components={markdownComponents}>
+                                        {item.content}
+                                    </ReactMarkdown>
+                                </div>
+                            )}
+                            {showTags && item.tags && (
+                                <div className="flex flex-wrap gap-2 mt-4">
+                                    {item.tags.map(tag => (
+                                        <span key={tag} className="text-xs text-neutral-500 bg-neutral-50 dark:bg-neutral-800/50 px-2 py-1 rounded border border-neutral-100 dark:border-neutral-800">
+                                            {tag}
+                                        </span>
+                                    ))}
+                                </div>
+                            )}
+                        </motion.div>
+                    );
+                })}
             </div>
         </motion.div>
     );

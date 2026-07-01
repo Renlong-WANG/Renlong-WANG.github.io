@@ -15,6 +15,7 @@ import { Publication } from '@/types/publication';
 import { PublicationPageConfig } from '@/types/page';
 import { cn } from '@/lib/utils';
 import { useMessages } from '@/lib/i18n/useMessages';
+import { getPublicationAnchor } from '@/lib/slugs';
 import FormattedBibTeXText from './FormattedBibTeXText';
 
 interface PublicationsListProps {
@@ -55,6 +56,10 @@ export default function PublicationsList({ config, publications, embedded = fals
     const [showFilters, setShowFilters] = useState(false);
     const [expandedBibtexId, setExpandedBibtexId] = useState<string | null>(null);
     const [expandedAbstractId, setExpandedAbstractId] = useState<string | null>(null);
+
+    const publicationNumbers = useMemo(() => {
+        return new Map(publications.map((pub, index) => [pub.id, index + 1]));
+    }, [publications]);
 
     // Extract unique years and types for filters
     const years = useMemo(() => {
@@ -218,10 +223,11 @@ export default function PublicationsList({ config, publications, embedded = fals
                     filteredPublications.map((pub, index) => (
                         <motion.div
                             key={pub.id}
+                            id={getPublicationAnchor(pub.id)}
                             initial={{ opacity: 0, y: 20 }}
                             animate={{ opacity: 1, y: 0 }}
                             transition={{ duration: 0.4, delay: 0.1 * index }}
-                            className="bg-white dark:bg-neutral-900 p-6 rounded-xl shadow-sm border border-neutral-200 dark:border-neutral-800 hover:shadow-md transition-all duration-200"
+                            className="scroll-mt-24 bg-white dark:bg-neutral-900 p-6 rounded-xl shadow-sm border border-neutral-200 dark:border-neutral-800 hover:shadow-md transition-all duration-200"
                         >
                             <div className="flex flex-col md:flex-row gap-6">
                                 {pub.preview && (
@@ -239,9 +245,14 @@ export default function PublicationsList({ config, publications, embedded = fals
                                 )}
                                 <div className="flex-grow">
                                     <div className="flex items-start justify-between gap-4 mb-2">
-                                        <h3 className={`${embedded ? "text-lg" : "text-xl"} font-semibold text-primary leading-tight`}>
-                                            <FormattedBibTeXText nodes={pub.titleNodes} fallback={pub.title} />
-                                        </h3>
+                                        <div className="flex items-start gap-3 min-w-0">
+                                            <span className="mt-0.5 shrink-0 text-xs font-semibold text-accent bg-accent/10 border border-accent/20 px-2 py-0.5 rounded">
+                                                P{publicationNumbers.get(pub.id) ?? index + 1}
+                                            </span>
+                                            <h3 className={`${embedded ? "text-lg" : "text-xl"} font-semibold text-primary leading-tight`}>
+                                                <FormattedBibTeXText nodes={pub.titleNodes} fallback={pub.title} />
+                                            </h3>
+                                        </div>
                                         <span className="ml-4 shrink-0 whitespace-nowrap text-sm text-neutral-500 font-medium bg-neutral-100 dark:bg-neutral-800 px-2 py-1 rounded">
                                             {pub.year}
                                         </span>

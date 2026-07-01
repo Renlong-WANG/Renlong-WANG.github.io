@@ -4,16 +4,19 @@ import { useEffect } from 'react';
 import PublicationsList from '@/components/publications/PublicationsList';
 import TextPage from '@/components/pages/TextPage';
 import CardPage from '@/components/pages/CardPage';
+import ResearchPage from '@/components/pages/ResearchPage';
 import { Publication } from '@/types/publication';
 import {
   PublicationPageConfig,
   TextPageConfig,
   CardPageConfig,
+  ResearchPageConfig,
 } from '@/types/page';
 import { useLocaleStore } from '@/lib/stores/localeStore';
 
 export type DynamicPageLocaleData =
   | { type: 'publication'; config: PublicationPageConfig; publications: Publication[]; draftsConfig?: CardPageConfig | null }
+  | { type: 'research'; config: ResearchPageConfig; publications: Publication[]; draftsConfig?: CardPageConfig | null }
   | { type: 'text'; config: TextPageConfig; content: string }
   | { type: 'card'; config: CardPageConfig };
 
@@ -54,10 +57,22 @@ export default function DynamicPageClient({ dataByLocale, defaultLocale }: Dynam
           <PublicationsList config={pageData.config} publications={pageData.publications} />
           {pageData.draftsConfig && (
             <div id="drafts" className="mt-16 scroll-mt-24">
-              <CardPage config={pageData.draftsConfig} />
+              <CardPage
+                config={pageData.draftsConfig}
+                showItemNumbers={true}
+                numberPrefix="D"
+                itemAnchorPrefix="draft"
+              />
             </div>
           )}
         </>
+      )}
+      {pageData.type === 'research' && (
+        <ResearchPage
+          config={pageData.config}
+          publications={pageData.publications}
+          draftsConfig={pageData.draftsConfig}
+        />
       )}
       {pageData.type === 'text' && (
         <TextPage config={pageData.config} content={pageData.content} />

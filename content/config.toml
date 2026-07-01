@@ -40,6 +40,12 @@ target = "about"
 href = "/"
 
 [[navigation]]
+title = "Research"
+type = "page"
+target = "research"
+href = "/research"
+
+[[navigation]]
 title = "Publications"
 type = "page"
 target = "publications"

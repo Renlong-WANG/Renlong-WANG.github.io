@@ -1,5 +1,5 @@
 export interface BasePageConfig {
-    type: 'about' | 'publication' | 'card' | 'text';
+    type: 'about' | 'publication' | 'card' | 'text' | 'research';
     title: string;
     description?: string;
 }
@@ -13,6 +13,20 @@ export interface PublicationPageConfig extends BasePageConfig {
 export interface TextPageConfig extends BasePageConfig {
     type: 'text';
     source: string;
+}
+
+export interface ResearchAreaConfig {
+    id: string;
+    title: string;
+    description: string;
+    keywords: string[];
+}
+
+export interface ResearchPageConfig extends BasePageConfig {
+    type: 'research';
+    publications?: string;
+    drafts?: string;
+    areas: ResearchAreaConfig[];
 }
 
 export interface CardItem {
