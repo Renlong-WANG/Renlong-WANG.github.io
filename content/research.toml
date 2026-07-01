@@ -1,6 +1,6 @@
 type = "research"
 title = "Research"
-description = "My research works toward smart and equitable infrastructure resilience by connecting three capabilities: modeling how interdependent systems perform under evolving hazards, predicting how disruptions and recovery unfold with data-driven and simulation-based tools, and prescribing robust decisions under limited resources and heterogeneous stakeholder preferences."
+description = "My research connects infrastructure resilience, multi-attribute decision analysis, and complex system modeling to study how interdependent socio-technical systems can be understood, compared, and improved under uncertainty. Across these directions, I develop modeling, predictive, and prescriptive methods for disruptions, recovery processes, resource allocation, and robust decisions involving heterogeneous stakeholder preferences."
 publications = "publications.bib"
 drafts = "drafts"
 
@@ -8,16 +8,16 @@ drafts = "drafts"
 id = "infrastructure-resilience"
 title = "Infrastructure Resilience"
 keywords = ["Infrastructure Resilience"]
-description = "This line of work asks how interdependent infrastructure systems can be measured, predicted, compared, and restored in ways that are both technically reliable and equity-aware. Building on smart and equitable resilience modeling perspectives, I focus on resilience metrics, simulation-based surrogate models, recovery planning, benchmarking, and resource-allocation methods that can adapt to uncertain hazards, cascading dependencies, evolving system conditions, and uneven community needs."
+description = "This area studies how interdependent infrastructure systems can be measured, predicted, compared, and restored in ways that are technically reliable and equity-aware. Building on smart and equitable resilience modeling perspectives, I focus on resilience metrics, simulation-based surrogate models, recovery planning, benchmarking, and resource-allocation methods that can adapt to uncertain hazards, cascading dependencies, evolving system conditions, and uneven community needs."
 
 [[areas]]
 id = "multi-attribute-decision-analysis"
 title = "Multi-Attribute Decision Analysis"
 keywords = ["Multi-Attribute Decision Analysis"]
-description = "I develop preference learning and robust weighting methods for decision problems with incomplete information, uncertain judgments, and multiple stakeholders. The goal is to turn sparse or ambiguous preference evidence into transparent rankings, allocations, and policy choices that remain reliable under uncertainty."
+description = "This area develops preference learning and robust weighting methods for decision problems with incomplete information, uncertain judgments, and multiple stakeholders. The goal is to turn sparse or ambiguous preference evidence into transparent rankings, allocations, and policy choices that remain reliable under uncertainty."
 
 [[areas]]
 id = "complex-system-modeling-analysis"
 title = "Complex System Modeling & Analysis"
 keywords = ["Complex System Modeling & Analysis"]
-description = "I model complex socio-technical systems through network-based, scenario-based, and simulation-based approaches. This direction focuses on revealing dependencies, feedback, and dynamic mechanisms in emergency response, energy systems, public-health interventions, and other coupled systems."
+description = "This area models complex socio-technical systems through network-based, scenario-based, and simulation-based approaches. The focus is on revealing dependencies, feedback, and dynamic mechanisms in emergency response, energy systems, public-health interventions, and other coupled systems."
