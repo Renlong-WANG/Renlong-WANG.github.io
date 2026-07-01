@@ -3,10 +3,9 @@ title = "About"
 
 [profile]
 research_interests = [
-  "Infrastructure Resilience & Restoration",
-  "Robust and Equitable Decision-Making",
-  "Stochastic Optimization under Uncertainty",
-  "Physics-Informed Machine Learning"
+  "Infrastructure Resilience",
+  "Complex System Modeling",
+  "Decision Analysis under Uncertainty"
 ]
 
 [[sections]]
