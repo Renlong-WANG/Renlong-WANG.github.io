@@ -1,6 +1,6 @@
 type = "research"
 title = "Research"
-description = "My research connects infrastructure resilience, multi-attribute decision analysis, and complex system modeling to study how interdependent socio-technical systems can be understood, compared, and improved under uncertainty. Across these directions, I develop modeling, predictive, and prescriptive methods for disruptions, recovery processes, resource allocation, and robust decisions involving heterogeneous stakeholder preferences."
+description = "My research connects infrastructure resilience, multi-attribute decision analysis, and complex system modeling to study how interdependent socio-technical systems can be understood, compared, and improved under uncertainty."
 publications = "publications.bib"
 drafts = "drafts"
 
