@@ -83,19 +83,7 @@ export default function ResearchPage({ config, publications, draftsConfig }: Res
                             className="scroll-mt-24 border-t border-neutral-200 dark:border-neutral-800 pt-8"
                         >
                             <div className="space-y-4">
-                                <div className="flex flex-wrap items-center gap-3">
-                                    <h2 className="text-2xl font-serif font-bold text-primary">{area.title}</h2>
-                                    <div className="flex flex-wrap gap-2">
-                                        {area.keywords.map((keyword) => (
-                                            <span
-                                                key={keyword}
-                                                className="text-xs text-neutral-500 bg-neutral-50 dark:bg-neutral-800/50 px-2 py-1 rounded border border-neutral-100 dark:border-neutral-800"
-                                            >
-                                                {keyword}
-                                            </span>
-                                        ))}
-                                    </div>
-                                </div>
+                                <h2 className="text-2xl font-serif font-bold text-primary">{area.title}</h2>
                                 <p className="text-base text-neutral-600 dark:text-neutral-500 leading-relaxed max-w-3xl">
                                     {area.description}
                                 </p>
@@ -122,7 +110,7 @@ export default function ResearchPage({ config, publications, draftsConfig }: Res
                                                             <FormattedBibTeXText nodes={pub.titleNodes} fallback={pub.title} />
                                                         </span>
                                                         <span className="block text-xs text-neutral-500">
-                                                            {formatPublicationVenue(pub)} · {pub.year}
+                                                            {formatPublicationVenue(pub)} - {pub.year}
                                                         </span>
                                                     </span>
                                                 </Link>
@@ -154,7 +142,7 @@ export default function ResearchPage({ config, publications, draftsConfig }: Res
                                                         </span>
                                                         {(draft.subtitle || draft.date) && (
                                                             <span className="block text-xs text-neutral-500">
-                                                                {[draft.subtitle, draft.date].filter(Boolean).join(' · ')}
+                                                                {[draft.subtitle, draft.date].filter(Boolean).join(' - ')}
                                                             </span>
                                                         )}
                                                     </span>

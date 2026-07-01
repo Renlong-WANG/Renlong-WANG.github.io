@@ -1,6 +1,6 @@
 type = "research"
 title = "Research"
-description = "My work develops optimization, simulation, and data-driven methods for resilient infrastructure, emergency management, and robust decision-making under uncertainty."
+description = "My research works toward smart and equitable infrastructure resilience by connecting three capabilities: modeling how interdependent systems perform under evolving hazards, predicting how disruptions and recovery unfold with data-driven and simulation-based tools, and prescribing robust decisions under limited resources and heterogeneous stakeholder preferences."
 publications = "publications.bib"
 drafts = "drafts"
 
@@ -8,7 +8,7 @@ drafts = "drafts"
 id = "infrastructure-resilience"
 title = "Infrastructure Resilience"
 keywords = ["Infrastructure Resilience"]
-description = "I study how interdependent infrastructure systems can be modeled, compared, and restored under disruptions. This line of work combines resilience metrics, restoration planning, simulation, and resource-allocation algorithms to support decisions under hazards, cascading dependencies, and limited recovery capacity."
+description = "This line of work asks how interdependent infrastructure systems can be measured, predicted, compared, and restored in ways that are both technically reliable and equity-aware. Building on smart and equitable resilience modeling perspectives, I focus on resilience metrics, simulation-based surrogate models, recovery planning, benchmarking, and resource-allocation methods that can adapt to uncertain hazards, cascading dependencies, evolving system conditions, and uneven community needs."
 
 [[areas]]
 id = "multi-attribute-decision-analysis"
