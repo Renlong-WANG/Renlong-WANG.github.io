@@ -11,6 +11,8 @@ interface CardPageProps {
     actionHref?: string;
     actionLabel?: string;
     showTags?: boolean;
+    showDescription?: boolean;
+    showContent?: boolean;
 }
 
 const markdownComponents = {
@@ -90,7 +92,7 @@ function formatVenueWithMetrics(item: CardPageConfig['items'][number]) {
     return metrics.length > 0 ? `${item.subtitle} (${metrics.join(', ')})` : item.subtitle;
 }
 
-export default function CardPage({ config, embedded = false, actionHref, actionLabel = 'View all', showTags = true }: CardPageProps) {
+export default function CardPage({ config, embedded = false, actionHref, actionLabel = 'View All', showTags = true, showDescription = true, showContent = true }: CardPageProps) {
     return (
         <motion.div
             initial={{ opacity: 0, y: 20 }}
@@ -110,7 +112,7 @@ export default function CardPage({ config, embedded = false, actionHref, actionL
                         </Link>
                     )}
                 </div>
-                {config.description && (
+                {showDescription && config.description && (
                     <div className={`${embedded ? "text-base" : "text-lg"} text-neutral-600 dark:text-neutral-500 max-w-2xl leading-relaxed`}>
                         <ReactMarkdown components={markdownComponents}>
                             {config.description}
@@ -165,7 +167,7 @@ export default function CardPage({ config, embedded = false, actionHref, actionL
                                 {item.award}
                             </p>
                         )}
-                        {item.content && (
+                        {showContent && item.content && (
                             <div className={`${embedded ? "text-sm" : "text-base"} text-neutral-600 dark:text-neutral-500 leading-relaxed`}>
                                 <ReactMarkdown components={markdownComponents}>
                                     {item.content}

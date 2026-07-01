@@ -1,5 +1,6 @@
 'use client';
 
+import { useEffect } from 'react';
 import PublicationsList from '@/components/publications/PublicationsList';
 import TextPage from '@/components/pages/TextPage';
 import CardPage from '@/components/pages/CardPage';
@@ -25,6 +26,22 @@ export default function DynamicPageClient({ dataByLocale, defaultLocale }: Dynam
   const locale = useLocaleStore((state) => state.locale);
   const fallback = dataByLocale[defaultLocale] || Object.values(dataByLocale)[0];
   const pageData = dataByLocale[locale] || fallback;
+
+  useEffect(() => {
+    if (!pageData || typeof window === 'undefined') return;
+
+    const hash = decodeURIComponent(window.location.hash.replace(/^#/, ''));
+    if (!hash) return;
+
+    const scrollToTarget = () => {
+      document.getElementById(hash)?.scrollIntoView({ block: 'start' });
+    };
+
+    requestAnimationFrame(scrollToTarget);
+    const timeoutId = window.setTimeout(scrollToTarget, 120);
+
+    return () => window.clearTimeout(timeoutId);
+  }, [pageData]);
 
   if (!pageData) {
     return null;

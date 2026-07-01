@@ -103,7 +103,10 @@ export default function HomePageClient({ dataByLocale, defaultLocale }: HomePage
                         config={section.cardConfig}
                         embedded={true}
                         actionHref={section.id === 'drafts' ? '/publications#drafts' : undefined}
+                        actionLabel={section.id === 'drafts' ? 'View All' : undefined}
                         showTags={section.id !== 'drafts'}
+                        showDescription={section.id !== 'drafts'}
+                        showContent={section.id !== 'drafts'}
                       />
                     ) : null;
                   default:

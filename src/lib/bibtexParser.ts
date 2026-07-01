@@ -62,6 +62,7 @@ export function parseBibTeX(bibtexContent: string, locale?: string): Publication
 
     // Parse preview field (remove braces if present)
     const preview = tags.preview?.replace(/[{}]/g, '');
+    const pdfUrl = cleanBibTeXString(getTagValue(tags, ['pdf', 'pdfurl', 'pdf_url', 'fulltext', 'full_text']));
     const title = parseBibTeXInline(tags.title || 'Untitled');
     const presentation = cleanBibTeXString(getTagValue(tags, ['presentation', 'oralpresentation', 'oral_presentation']));
     const award = cleanBibTeXString(getTagValue(tags, ['award', 'awards', 'honor', 'honour']));
@@ -91,6 +92,7 @@ export function parseBibTeX(bibtexContent: string, locale?: string): Publication
       pages: tags.pages,
       doi: tags.doi,
       url: tags.url,
+      pdfUrl: pdfUrl || undefined,
       code: tags.code,
       abstract: cleanBibTeXString(tags.abstract),
       description: cleanBibTeXString(tags.description || tags.note),
@@ -103,7 +105,7 @@ export function parseBibTeX(bibtexContent: string, locale?: string): Publication
       preview,
 
       // Store original BibTeX (excluding custom display fields)
-      bibtex: reconstructBibTeX(entry, ['selected', 'preview', 'description', 'keywords', 'code', 'presentation', 'oralpresentation', 'oral_presentation', 'award', 'awards', 'honor', 'honour', 'index', 'indexed', 'database', 'sourceindex', 'source_index', 'quartile', 'jcr', 'jcrquartile', 'jcr_quartile', 'impactfactor', 'impact_factor', 'jif', 'if', 'publisher']),
+      bibtex: reconstructBibTeX(entry, ['selected', 'preview', 'description', 'keywords', 'code', 'pdf', 'pdfurl', 'pdf_url', 'fulltext', 'full_text', 'presentation', 'oralpresentation', 'oral_presentation', 'award', 'awards', 'honor', 'honour', 'index', 'indexed', 'database', 'sourceindex', 'source_index', 'quartile', 'jcr', 'jcrquartile', 'jcr_quartile', 'impactfactor', 'impact_factor', 'jif', 'if', 'publisher']),
     };
 
     // Clean up undefined fields

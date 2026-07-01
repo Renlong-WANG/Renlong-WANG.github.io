@@ -103,11 +103,6 @@ export default function SelectedPublications({ publications, title, enableOnePag
                                 {pub.award}
                             </p>
                         )}
-                        {pub.description && (
-                            <p className="text-sm text-neutral-500 dark:text-neutral-500 line-clamp-2">
-                                {pub.description}
-                            </p>
-                        )}
                     </motion.div>
                 ))}
             </div>
