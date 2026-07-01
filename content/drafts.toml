@@ -7,7 +7,7 @@ title = "Consensus Resilience Planning for Multi-Agency Restoration of Interdepe
 subtitle = "Reliability Engineering & System Safety"
 date = "Submitted"
 authors = ["Renlong Wang"]
-content = "Develops a consensus resilience planning framework that coordinates shared restoration resources through resilience-informed allocation search and exact agent-level restoration oracles."
+content = "Develops a consensus-based planning framework that coordinates shared repair resources among autonomous operators through limited interface feedback, achieving near-centralized recovery performance while revealing dependency-driven bottlenecks."
 tags = ["Infrastructure Resilience", "Consensus Resilience Planning", "Resilience Optimization"]
 selected = true
 
@@ -16,7 +16,7 @@ title = "From Resilience Curves to Cross-System Benchmarking: A Non-Parametric R
 subtitle = "Reliability Engineering & System Safety"
 date = "Under Review"
 authors = ["Renlong Wang"]
-content = "Introduces a benchmark-relative measurement framework for comparing resilience curves across systems and identifying peer references and feature-level performance gaps."
+content = "Develops a benchmark-relative measurement framework that transforms disruption–recovery trajectories into peer-referenced diagnostics for comparing recovery strategies, assessing downside performance, and identifying feature-specific resilience gaps."
 tags = ["Infrastructure Resilience", "Cross-System Benchmarking", "Relative Performance Assessment"]
 selected = true
 
@@ -26,7 +26,7 @@ subtitle = "Information Sciences"
 date = "Under Review"
 authors = ["Renlong Wang"]
 presentation = "2024 Student Academic Forum of the University of Chinese Academy of Sciences; Excellent Paper Award."
-content = "Develops a preference-robust weighting model that elicits utility ambiguity sets and safeguards ordinal decisions against incomplete preference information."
+content = "Develops a two-stage optimization scheme that elicits worst-case utilities and hedges against ranking ambiguity, enabling reliable supplier selection from limited preference data."
 tags = ["Multi-Attribute Decision Analysis", "Preference Learning", "Preference Robust Ordinal Priority Approach"]
 
 [[items]]
@@ -34,5 +34,5 @@ title = "A Comment on the Ordinal Priority Approach in Multi-Attribute Decision-
 subtitle = "Journal of the Operational Research Society"
 date = "Under Review"
 authors = ["Renlong Wang"]
-content = "Reinterprets ordinal priority weighting by revealing closed-form rank structures and connecting the method to centralized common-weight preference voting."
+content = "Reveals the hidden rank-based logic behind ordinal decision weights, deriving closed-form expert and candidate weight structures that improve interpretability and auditability in group decision-making."
 tags = ["Multi-Attribute Decision Analysis", "Preference Voting System", "Ordinal Priority Approach", "Data Envelopment Analysis"]
