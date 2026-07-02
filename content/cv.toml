@@ -1,4 +1,0 @@
-type = "text"
-title = "CV"
-description = "A concise academic profile."
-source = "cv.md"

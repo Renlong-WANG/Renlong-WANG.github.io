@@ -244,18 +244,18 @@ export default function PublicationsList({ config, publications, embedded = fals
                                     </div>
                                 )}
                                 <div className="flex-grow">
-                                    <div className="flex items-start justify-between gap-4 mb-2">
-                                        <div className="flex items-start gap-3 min-w-0">
-                                            <span className="mt-0.5 shrink-0 text-xs font-semibold text-accent bg-accent/10 border border-accent/20 px-2 py-0.5 rounded">
+                                    <div className="flex flex-col sm:flex-row sm:items-start justify-between gap-3 mb-2">
+                                        <h3 className={`${embedded ? "text-lg" : "text-xl"} font-semibold text-primary leading-tight`}>
+                                            <FormattedBibTeXText nodes={pub.titleNodes} fallback={pub.title} />
+                                        </h3>
+                                        <div className="flex shrink-0 items-center gap-2 sm:ml-4">
+                                            <span className="whitespace-nowrap text-xs font-semibold text-accent bg-accent/10 border border-accent/20 px-2 py-1 rounded">
                                                 P{publicationNumbers.get(pub.id) ?? index + 1}
                                             </span>
-                                            <h3 className={`${embedded ? "text-lg" : "text-xl"} font-semibold text-primary leading-tight`}>
-                                                <FormattedBibTeXText nodes={pub.titleNodes} fallback={pub.title} />
-                                            </h3>
+                                            <span className="whitespace-nowrap text-sm text-neutral-500 font-medium bg-neutral-100 dark:bg-neutral-800 px-2 py-1 rounded">
+                                                {pub.year}
+                                            </span>
                                         </div>
-                                        <span className="ml-4 shrink-0 whitespace-nowrap text-sm text-neutral-500 font-medium bg-neutral-100 dark:bg-neutral-800 px-2 py-1 rounded">
-                                            {pub.year}
-                                        </span>
                                     </div>
                                     <p className={`${embedded ? "text-sm" : "text-base"} text-neutral-600 dark:text-neutral-400 mb-2`}>
                                         {pub.authors.map((author, idx) => (
