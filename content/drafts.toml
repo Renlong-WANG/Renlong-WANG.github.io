@@ -5,7 +5,7 @@ description = "Working papers and manuscripts currently under review."
 [[items]]
 title = "Consensus Resilience Planning for Multi-Agency Restoration of Interdependent Infrastructure Systems: A Unified Framework and Resilience-Informed Heuristic-Exact Decomposition Algorithm"
 subtitle = "Reliability Engineering & System Safety"
-date = "Submitted"
+date = "Under Review"
 authors = ["Renlong Wang"]
 content = "Develops a consensus-based planning framework that coordinates shared repair resources among autonomous operators through limited interface feedback, achieving near-centralized recovery performance while revealing dependency-driven bottlenecks."
 tags = ["Infrastructure Resilience", "Consensus Resilience Planning", "Resilience Optimization"]
