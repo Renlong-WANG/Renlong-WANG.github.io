@@ -148,19 +148,21 @@ export default function CardPage({
                             transition={{ duration: 0.4, delay: 0.1 * index }}
                             className={`${itemAnchor ? 'scroll-mt-24 ' : ''}bg-white dark:bg-neutral-900 ${embedded ? "p-4" : "p-6"} rounded-lg shadow-sm border border-neutral-200 dark:border-neutral-800 hover:shadow-lg transition-all duration-200 hover:translate-y-[-1px]`}
                         >
-                            <div className="flex justify-between items-start gap-4 mb-2">
-                                <div className="flex items-start gap-3 min-w-0">
-                                    {showItemNumbers && (
-                                        <span className="mt-0.5 shrink-0 text-xs font-semibold text-accent bg-accent/10 border border-accent/20 px-2 py-0.5 rounded">
-                                            {numberPrefix}{index + 1}
-                                        </span>
-                                    )}
-                                    <h3 className={`${embedded ? "text-lg" : "text-xl"} font-semibold text-primary`}>{item.title}</h3>
-                                </div>
-                                {item.date && (
-                                    <span className="ml-4 shrink-0 whitespace-nowrap text-sm text-neutral-500 font-medium bg-neutral-100 dark:bg-neutral-800 px-2 py-1 rounded">
-                                        {item.date}
-                                    </span>
+                            <div className="flex flex-col sm:flex-row sm:items-start justify-between gap-3 mb-2">
+                                <h3 className={`${embedded ? "text-lg" : "text-xl"} font-semibold text-primary`}>{item.title}</h3>
+                                {(showItemNumbers || item.date) && (
+                                    <div className="flex shrink-0 items-center gap-2 sm:ml-4">
+                                        {showItemNumbers && (
+                                            <span className="whitespace-nowrap text-xs font-semibold text-accent bg-accent/10 border border-accent/20 px-2 py-1 rounded">
+                                                {numberPrefix}{index + 1}
+                                            </span>
+                                        )}
+                                        {item.date && (
+                                            <span className="whitespace-nowrap text-sm text-neutral-500 font-medium bg-neutral-100 dark:bg-neutral-800 px-2 py-1 rounded">
+                                                {item.date}
+                                            </span>
+                                        )}
+                                    </div>
                                 )}
                             </div>
                             {item.authors && item.authors.length > 0 && (
