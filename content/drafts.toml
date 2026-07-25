@@ -6,7 +6,7 @@ description = "Working papers and manuscripts currently under review."
 title = "Assessing Port Logistics Data Governance Capacity through a Governance Mechanism Perspective: a Collaboration-Based Meta-Network Modeling Approach"
 subtitle = "Engineering Management Journal"
 date = "Minor Revision"
-authors = ["Renlong Wang", "Endong Wang*"]
+authors = ["Renlong Wang*", "Endong Wang"]
 content = "Develops a collaboration-based meta-network approach to assess port logistics data governance capacity and optimize stakeholder data configurations for collaborative improvement."
 tags = ["Complex System Modeling & Analysis", "Port Logistics Data Governance", "Collaboration-Based Metanetwork"]
 
