@@ -1,3 +1,5 @@
+import type { Author } from './publication';
+
 export interface BasePageConfig {
     type: 'about' | 'publication' | 'card' | 'text' | 'research';
     title: string;
@@ -33,7 +35,8 @@ export interface CardItem {
     title: string;
     subtitle?: string;
     date?: string;
-    authors?: string[];
+    author?: string;
+    authors?: Author[];
     presentation?: string;
     award?: string;
     index?: string;

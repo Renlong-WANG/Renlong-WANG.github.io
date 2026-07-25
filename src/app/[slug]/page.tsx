@@ -2,6 +2,7 @@ import { notFound } from 'next/navigation';
 import { getPageConfig, getMarkdownContent, getBibtexContent } from '@/lib/content';
 import { getConfig } from '@/lib/config';
 import { parseBibTeX } from '@/lib/bibtexParser';
+import { parseCardPageAuthors } from '@/lib/cardPageParser';
 import DynamicPageClient, { type DynamicPageLocaleData } from '@/components/pages/DynamicPageClient';
 import {
   BasePageConfig,
@@ -24,9 +25,10 @@ function loadDynamicPageData(slug: string, locale?: string): DynamicPageLocaleDa
   if (pageConfig.type === 'publication') {
     const pubConfig = pageConfig as PublicationPageConfig;
     const bibtex = getBibtexContent(pubConfig.source, locale);
-    const draftsConfig = pubConfig.drafts
+    const rawDraftsConfig = pubConfig.drafts
       ? (getPageConfig(pubConfig.drafts, locale) as CardPageConfig | null)
       : null;
+    const draftsConfig = rawDraftsConfig ? parseCardPageAuthors(rawDraftsConfig, locale) : null;
 
     return {
       type: 'publication',
@@ -39,9 +41,10 @@ function loadDynamicPageData(slug: string, locale?: string): DynamicPageLocaleDa
   if (pageConfig.type === 'research') {
     const researchConfig = pageConfig as ResearchPageConfig;
     const bibtex = getBibtexContent(researchConfig.publications || 'publications.bib', locale);
-    const draftsConfig = researchConfig.drafts
+    const rawDraftsConfig = researchConfig.drafts
       ? (getPageConfig(researchConfig.drafts, locale) as CardPageConfig | null)
       : null;
+    const draftsConfig = rawDraftsConfig ? parseCardPageAuthors(rawDraftsConfig, locale) : null;
 
     return {
       type: 'research',
@@ -64,7 +67,7 @@ function loadDynamicPageData(slug: string, locale?: string): DynamicPageLocaleDa
   if (pageConfig.type === 'card') {
     return {
       type: 'card',
-      config: pageConfig as CardPageConfig,
+      config: parseCardPageAuthors(pageConfig as CardPageConfig, locale),
     };
   }
 

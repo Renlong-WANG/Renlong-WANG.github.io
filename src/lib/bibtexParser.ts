@@ -133,7 +133,7 @@ export function parseBibTeX(bibtexContent: string, locale?: string): Publication
   });
 }
 
-function getHighlightNames(locale?: string): string[] {
+export function getHighlightNames(locale?: string): string[] {
   const names = new Set<string>();
   const baseConfig = getConfig();
   const runtimeI18n = getRuntimeI18nConfig(baseConfig.i18n);
@@ -184,7 +184,7 @@ function buildNameVariants(name: string): Set<string> {
   return variants;
 }
 
-function parseAuthors(authorsStr: string, highlightNames: string[]): Array<{ name: string; isHighlighted?: boolean; isCorresponding?: boolean; isCoAuthor?: boolean }> {
+export function parseAuthors(authorsStr: string, highlightNames: string[]): Array<{ name: string; isHighlighted?: boolean; isCorresponding?: boolean; isCoAuthor?: boolean }> {
   if (!authorsStr) return [];
 
   const highlightTextCandidates = new Set<string>();

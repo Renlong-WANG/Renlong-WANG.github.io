@@ -1,6 +1,7 @@
 import { getConfig } from '@/lib/config';
 import { getMarkdownContent, getBibtexContent, getTomlContent, getPageConfig } from '@/lib/content';
 import { parseBibTeX } from '@/lib/bibtexParser';
+import { parseCardPageAuthors } from '@/lib/cardPageParser';
 import HomePageClient, { type HomePageLocaleData } from '@/components/home/HomePageClient';
 import { Publication } from '@/types/publication';
 import { BasePageConfig, PublicationPageConfig, TextPageConfig, CardPageConfig } from '@/types/page';
@@ -57,7 +58,8 @@ function processSections(sections: SectionConfig[], locale?: string): SectionCon
         };
       }
       case 'card': {
-        const cardConfig = section.source ? getTomlContent<CardPageConfig>(section.source, locale) : null;
+        const rawCardConfig = section.source ? getTomlContent<CardPageConfig>(section.source, locale) : null;
+        const cardConfig = rawCardConfig ? parseCardPageAuthors(rawCardConfig, locale) : null;
         const filteredItems = section.filter === 'selected'
           ? cardConfig?.items.filter((item) => item.selected)
           : cardConfig?.items;
@@ -130,7 +132,7 @@ function loadPageDataForLocale(locale: string | undefined): HomePageLocaleData {
           return {
             type: 'card',
             id: item.target,
-            config: pageConfig as CardPageConfig,
+            config: parseCardPageAuthors(pageConfig as CardPageConfig, locale),
           } as PageData;
         }
 

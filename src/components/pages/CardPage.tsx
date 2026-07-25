@@ -169,9 +169,12 @@ export default function CardPage({
                                 <p className={`${embedded ? "text-sm" : "text-base"} text-neutral-600 dark:text-neutral-400 mb-2`}>
                                     {item.authors.map((author, idx) => (
                                         <span key={idx}>
-                                            <span className={author === 'Renlong Wang' ? 'font-semibold text-accent' : ''}>
-                                                {author}
+                                            <span className={`${author.isHighlighted ? 'font-semibold text-accent' : ''} ${author.isCoAuthor ? `underline underline-offset-4 ${author.isHighlighted ? 'decoration-accent' : 'decoration-neutral-400'}` : ''}`}>
+                                                {author.name}
                                             </span>
+                                            {author.isCorresponding && (
+                                                <sup className={`ml-0 ${author.isHighlighted ? 'text-accent' : 'text-neutral-600 dark:text-neutral-400'}`}>&dagger;</sup>
+                                            )}
                                             {idx < item.authors!.length - 1 && ', '}
                                         </span>
                                     ))}
