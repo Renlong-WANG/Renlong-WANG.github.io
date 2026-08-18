@@ -31,7 +31,7 @@ selected = true
 [[items]]
 title = "Preference Robust Ordinal Priority Approach with Preference Elicitation under Incomplete Information for Robust Multi-Attribute Decision-Making"
 subtitle = "Information Sciences"
-date = "Under Review"
+date = "Major Revision"
 author = "Wang, Renlong"
 presentation = "2024 Student Academic Forum of the University of Chinese Academy of Sciences; Excellent Paper Award."
 content = "Develops a two-stage optimization scheme that elicits worst-case utilities and hedges against ranking ambiguity, enabling reliable supplier selection from limited preference data."
