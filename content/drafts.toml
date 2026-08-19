@@ -3,14 +3,6 @@ title = "Drafts"
 description = "Working papers and manuscripts currently under review."
 
 [[items]]
-title = "Assessing Port Logistics Data Governance Capacity through a Governance Mechanism Perspective: a Collaboration-Based Meta-Network Modeling Approach"
-subtitle = "Engineering Management Journal"
-date = "Minor Revision"
-author = "Wang, Renlong* and Wang, Endong"
-content = "Develops a collaboration-based meta-network approach to assess port logistics data governance capacity and optimize stakeholder data configurations for collaborative improvement."
-tags = ["Complex System Modeling & Analysis", "Port Logistics Data Governance", "Collaboration-Based Metanetwork"]
-
-[[items]]
 title = "Consensus Resilience Planning for Multi-Agency Restoration of Interdependent Infrastructure Systems: A Unified Framework and Resilience-Informed Heuristic-Exact Decomposition Algorithm"
 subtitle = "Reliability Engineering & System Safety"
 date = "Major Revision"
@@ -26,6 +18,15 @@ date = "Major Revision"
 author = "Wang, Renlong"
 content = "Reveals the hidden rank-based logic behind ordinal decision weights, deriving closed-form expert and candidate weight structures that improve interpretability and auditability in group decision-making."
 tags = ["Multi-Attribute Decision Analysis", "Preference Voting System", "Ordinal Priority Approach", "Data Envelopment Analysis"]
+
+
+[[items]]
+title = "Assessing Port Logistics Data Governance Capacity through a Governance Mechanism Perspective: a Collaboration-Based Meta-Network Modeling Approach"
+subtitle = "Engineering Management Journal"
+date = "Minor Revision"
+author = "Wang, Renlong* and Wang, Endong"
+content = "Develops a collaboration-based meta-network approach to assess port logistics data governance capacity and optimize stakeholder data configurations for collaborative improvement."
+tags = ["Complex System Modeling & Analysis", "Port Logistics Data Governance", "Collaboration-Based Metanetwork"]
 
 [[items]]
 title = "From Resilience Curves to Cross-System Benchmarking: A Non-Parametric Relative Measurement Framework for Interdependent Infrastructure"
