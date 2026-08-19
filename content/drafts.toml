@@ -20,6 +20,14 @@ tags = ["Infrastructure Resilience", "Consensus Resilience Planning", "Resilienc
 selected = true
 
 [[items]]
+title = "A Comment on the Ordinal Priority Approach in Multi-Attribute Decision-Making: A Centralized DEA-Based Preference Voting Interpretation"
+subtitle = "Journal of the Operational Research Society"
+date = "Major Revision"
+author = "Wang, Renlong"
+content = "Reveals the hidden rank-based logic behind ordinal decision weights, deriving closed-form expert and candidate weight structures that improve interpretability and auditability in group decision-making."
+tags = ["Multi-Attribute Decision Analysis", "Preference Voting System", "Ordinal Priority Approach", "Data Envelopment Analysis"]
+
+[[items]]
 title = "From Resilience Curves to Cross-System Benchmarking: A Non-Parametric Relative Measurement Framework for Interdependent Infrastructure"
 subtitle = "Reliability Engineering & System Safety"
 date = "Under Review"
@@ -31,16 +39,8 @@ selected = true
 [[items]]
 title = "Preference Robust Ordinal Priority Approach with Preference Elicitation under Incomplete Information for Robust Multi-Attribute Decision-Making"
 subtitle = "Information Sciences"
-date = "Major Revision"
+date = "Under Review"
 author = "Wang, Renlong"
 presentation = "2024 Student Academic Forum of the University of Chinese Academy of Sciences; Excellent Paper Award."
 content = "Develops a two-stage optimization scheme that elicits worst-case utilities and hedges against ranking ambiguity, enabling reliable supplier selection from limited preference data."
 tags = ["Multi-Attribute Decision Analysis", "Preference Learning", "Preference Robust Ordinal Priority Approach"]
-
-[[items]]
-title = "A Comment on the Ordinal Priority Approach in Multi-Attribute Decision-Making: A Centralized DEA-Based Preference Voting Interpretation"
-subtitle = "Journal of the Operational Research Society"
-date = "Under Review"
-author = "Wang, Renlong"
-content = "Reveals the hidden rank-based logic behind ordinal decision weights, deriving closed-form expert and candidate weight structures that improve interpretability and auditability in group decision-making."
-tags = ["Multi-Attribute Decision Analysis", "Preference Voting System", "Ordinal Priority Approach", "Data Envelopment Analysis"]
