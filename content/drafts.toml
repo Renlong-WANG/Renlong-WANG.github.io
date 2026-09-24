@@ -3,6 +3,14 @@ title = "Drafts"
 description = "Working papers and manuscripts currently under review."
 
 [[items]]
+title = "Revisiting the Ordinal Priority Approach in Multi-Attribute Decision-Making: A Centralized DEA-Based Preference Voting Interpretation"
+subtitle = "Journal of the Operational Research Society"
+date = "Accepted"
+author = "Wang, Renlong"
+content = "Reveals the hidden rank-based logic behind ordinal decision weights, deriving closed-form expert and candidate weight structures that improve interpretability and auditability in group decision-making."
+tags = ["Multi-Attribute Decision Analysis", "Preference Voting System", "Ordinal Priority Approach", "Data Envelopment Analysis"]
+
+[[items]]
 title = "Consensus Resilience Planning for Multi-Agency Restoration of Interdependent Infrastructure Systems: A Unified Framework and Resilience-Informed Heuristic-Exact Decomposition Algorithm"
 subtitle = "Reliability Engineering & System Safety"
 date = "Major Revision"
@@ -10,15 +18,6 @@ author = "Wang, Renlong"
 content = "Develops a consensus-based planning framework that coordinates shared repair resources among autonomous operators through limited interface feedback, achieving near-centralized recovery performance while revealing dependency-driven bottlenecks."
 tags = ["Infrastructure Resilience", "Consensus Resilience Planning", "Resilience Optimization"]
 selected = true
-
-[[items]]
-title = "A Comment on the Ordinal Priority Approach in Multi-Attribute Decision-Making: A Centralized DEA-Based Preference Voting Interpretation"
-subtitle = "Journal of the Operational Research Society"
-date = "Major Revision"
-author = "Wang, Renlong"
-content = "Reveals the hidden rank-based logic behind ordinal decision weights, deriving closed-form expert and candidate weight structures that improve interpretability and auditability in group decision-making."
-tags = ["Multi-Attribute Decision Analysis", "Preference Voting System", "Ordinal Priority Approach", "Data Envelopment Analysis"]
-
 
 [[items]]
 title = "Assessing Port Logistics Data Governance Capacity through a Governance Mechanism Perspective: a Collaboration-Based Meta-Network Modeling Approach"
