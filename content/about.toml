@@ -21,6 +21,12 @@ title = "Education"
 source = "education.toml"
 
 [[sections]]
+id = "news"
+type = "list"
+title = "News"
+source = "news.toml"
+
+[[sections]]
 id = "featured_publications"
 type = "publications"
 title = "Selected Publications"
@@ -34,9 +40,3 @@ title = "Selected Drafts"
 source = "drafts.toml"
 filter = "selected"
 limit = 3
-
-[[sections]]
-id = "news"
-type = "list"
-title = "News"
-source = "news.toml"
