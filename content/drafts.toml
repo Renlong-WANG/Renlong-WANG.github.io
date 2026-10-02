@@ -11,6 +11,14 @@ content = "Reveals the hidden rank-based logic behind ordinal decision weights, 
 tags = ["Multi-Attribute Decision Analysis", "Preference Voting System", "Ordinal Priority Approach", "Data Envelopment Analysis"]
 
 [[items]]
+title = "Assessing Port Logistics Data Governance Capacity through a Governance Mechanism Perspective: a Collaboration-Based Meta-Network Modeling Approach"
+subtitle = "Engineering Management Journal"
+date = "Minor Revision"
+author = "Wang, Renlong* and Wang, Endong"
+content = "Develops a collaboration-based meta-network approach to assess port logistics data governance capacity and optimize stakeholder data configurations for collaborative improvement."
+tags = ["Complex System Modeling & Analysis", "Port Logistics Data Governance", "Collaboration-Based Metanetwork"]
+
+[[items]]
 title = "Consensus Resilience Planning for Multi-Agency Restoration of Interdependent Infrastructure Systems: A Unified Framework and Resilience-Informed Heuristic-Exact Decomposition Algorithm"
 subtitle = "Reliability Engineering & System Safety"
 date = "Major Revision"
@@ -20,21 +28,12 @@ tags = ["Infrastructure Resilience", "Consensus Resilience Planning", "Resilienc
 selected = true
 
 [[items]]
-title = "Assessing Port Logistics Data Governance Capacity through a Governance Mechanism Perspective: a Collaboration-Based Meta-Network Modeling Approach"
-subtitle = "Engineering Management Journal"
-date = "Minor Revision"
-author = "Wang, Renlong* and Wang, Endong"
-content = "Develops a collaboration-based meta-network approach to assess port logistics data governance capacity and optimize stakeholder data configurations for collaborative improvement."
-tags = ["Complex System Modeling & Analysis", "Port Logistics Data Governance", "Collaboration-Based Metanetwork"]
-
-[[items]]
 title = "From Resilience Curves to Cross-System Benchmarking: A Non-Parametric Relative Measurement Framework for Interdependent Infrastructure"
 subtitle = "Reliability Engineering & System Safety"
 date = "Under Review"
 author = "Wang, Renlong"
 content = "Develops a benchmark-relative measurement framework that transforms disruption–recovery trajectories into peer-referenced diagnostics for comparing recovery strategies, assessing downside performance, and identifying feature-specific resilience gaps."
-tags = ["Infrastructure Resilience", "Cross-System Benchmarking", "Relative Performance Assessment"]
-selected = true
+tags = ["Infrastructure Resilience", "Cross-System Benchmarking", "Relative Performance Assessment"] 
 
 [[items]]
 title = "Preference Robust Ordinal Priority Approach with Preference Elicitation under Incomplete Information for Robust Multi-Attribute Decision-Making"
@@ -44,3 +43,11 @@ author = "Wang, Renlong"
 presentation = "2024 Student Academic Forum of the University of Chinese Academy of Sciences; Excellent Paper Award."
 content = "Develops a two-stage optimization scheme that elicits worst-case utilities and hedges against ranking ambiguity, enabling reliable supplier selection from limited preference data."
 tags = ["Multi-Attribute Decision Analysis", "Preference Learning", "Preference Robust Ordinal Priority Approach"]
+
+[[items]]
+title = "Globalized Distributionally Preference Robust Counterpart under Model Misspecification"
+date = "In Progress"
+author = "Wang, Renlong"
+content = "Develops a globalized preference robust optimization framework that addresses incomplete preference information and model misspecification, combining strict robustness within utility ambiguity sets with distance-based control of constraint violations beyond them."
+tags = ["Preference Robust Optimization", "Model Misspecification", "Decision-Making under Uncertainty"]
+selected = true
