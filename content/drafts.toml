@@ -36,10 +36,3 @@ presentation = "2024 Student Academic Forum of the University of Chinese Academy
 content = "Develops a two-stage optimization scheme that elicits worst-case utilities and hedges against ranking ambiguity, enabling reliable supplier selection from limited preference data."
 tags = ["Multi-Attribute Decision Analysis", "Preference Learning", "Preference Robust Ordinal Priority Approach"]
 
-[[items]]
-title = "Globalized Distributionally Preference Robust Counterpart under Model Misspecification"
-date = "In Progress"
-author = "Wang, Renlong"
-content = "Develops a globalized preference robust optimization framework that addresses incomplete preference information and model misspecification, combining strict robustness within utility ambiguity sets with distance-based control of constraint violations beyond them."
-tags = ["Multi-Attribute Decision Analysis", "Preference Robust Optimization", "Model Misspecification", "Decision-Making under Uncertainty"]
-selected = true
