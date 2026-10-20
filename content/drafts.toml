@@ -1,14 +1,6 @@
 type = "card"
 title = "Drafts"
-description = "Working papers and manuscripts currently under review."
-
-[[items]]
-title = "Revisiting the Ordinal Priority Approach in Multi-Attribute Decision-Making: A Centralized DEA-Based Preference Voting Interpretation"
-subtitle = "Journal of the Operational Research Society"
-date = "Accepted"
-author = "Wang, Renlong"
-content = "Reveals the hidden rank-based logic behind ordinal decision weights, deriving closed-form expert and candidate weight structures that improve interpretability and auditability in group decision-making."
-tags = ["Multi-Attribute Decision Analysis", "Preference Voting System", "Ordinal Priority Approach", "Data Envelopment Analysis"]
+description = "Working papers and manuscripts currently under review." 
 
 [[items]]
 title = "Assessing Port Logistics Data Governance Capacity through a Governance Mechanism Perspective: a Collaboration-Based Meta-Network Modeling Approach"
