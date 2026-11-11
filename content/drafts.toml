@@ -22,7 +22,7 @@ selected = true
 [[items]]
 title = "From Resilience Curves to Cross-System Benchmarking: A Non-Parametric Relative Measurement Framework for Interdependent Infrastructure"
 subtitle = "Reliability Engineering & System Safety"
-date = "Under Review"
+date = "Major Revision"
 author = "Wang, Renlong"
 content = "Develops a benchmark-relative measurement framework that transforms disruption–recovery trajectories into peer-referenced diagnostics for comparing recovery strategies, assessing downside performance, and identifying feature-specific resilience gaps."
 tags = ["Infrastructure Resilience", "Cross-System Benchmarking", "Relative Performance Assessment"] 
